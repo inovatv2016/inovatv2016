@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png",[COLOR lime][B]**** [COLOR white][B]PC VS CONSOLE [COLOR lime][B]****[/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]PC Baratinho vs. PS4, Xbox One e um computador no Ultra[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dICQxsEPhYg
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]PC Baratinho é possuído pelo sinistro Resident Evil 7[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Kta6hSoG_EM
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]8GB vs 16GB RAM - Teste em Jogos[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1s2S0kA9IY4
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]8GB vs 16GB RAM - Teste em Jogos[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1s2S0kA9IY4
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]JOGANDO GTA5 NO PC DE R$ 30.000,00!!![/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JghyP45PpSY
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]Intel G4560 + GTX 1050 Ti Gaming - Battlefield 1[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OqxdALB7nwg
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]Mortal Kombat X 4K/60fps PC Max Settings[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EO0jAPxzi04
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]PES 2017 | Flamengo x Cruzeiro[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VGrulDOwRKk
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]Intel G4560 + RX 470 4GB Gaming - Rise Of The Tomb Raider - Very High 1080p[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BrA3MTdA46s
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]Resident Evil 7 Completo![/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CGCSEoKXin8
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]Baratas amam o PS4?[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k0dMykMW6cM
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]Jogos Mais Esperados 2017-2018 (XBOX ONE/PS4/PC)[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SMwRphHTdg8
+
+#EXTINF:-1 tvg-logo="https://inovatv2017.000webhostapp.com/LOGOS/NOVOS/PC_GAMER.png" , [COLOR white][B]HULK vs. KRATOS[/B][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=alrCmEHLmrw
