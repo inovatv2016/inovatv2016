@@ -1,0 +1,927 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2000px-A%26E_Network_logo.svg.png" group-title="Series",A&E
+http://142.44.128.231:25461/live/drade30/3030/2720.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Series",A&E HD
+http://142.44.128.231:25461/live/drade30/3030/3371.ts
+#EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" group-title="Documentarios",Animal Planet
+http://142.44.128.231:25461/live/drade30/3030/1864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="Documentarios",Animal Planet HD
+http://142.44.128.231:25461/live/drade30/3030/1863.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155742-canal-arte-1.png" group-title="Variedades",Arte 1
+http://142.44.128.231:25461/live/drade30/3030/1861.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Series",AXN
+http://142.44.128.231:25461/live/drade30/3030/1860.ts
+#EXTINF:-1 tvg-id="AXN HD [Brazil]" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Series",AXN HD
+http://142.44.128.231:25461/live/drade30/3030/2165.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Bandeirantes
+http://142.44.128.231:25461/live/drade30/3030/1855.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/07/band.png" group-title="Canais Abertos",Band HD
+http://142.44.128.231:25461/live/drade30/3030/1858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Canais Abertos",Band News
+http://142.44.128.231:25461/live/drade30/3030/1857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2000px-BandSports_logo.svg.png" group-title="Esportes",Band Sports
+http://142.44.128.231:25461/live/drade30/3030/1856.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Esportes",Band Sports HD
+http://142.44.128.231:25461/live/drade30/3030/2119.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Entretenimento",BIS
+http://142.44.128.231:25461/live/drade30/3030/1853.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/250px-Logo_of_Bis.svg.png" group-title="Entretenimento",BIS HD
+http://142.44.128.231:25461/live/drade30/3030/2120.ts
+#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="Infantis",Boomerang
+http://142.44.128.231:25461/live/drade30/3030/1852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="Filmes",Canal Brasil
+http://142.44.128.231:25461/live/drade30/3030/1851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png" group-title="Filmes",Canal Brasil HD
+http://142.44.128.231:25461/live/drade30/3030/3370.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="http://2.bp.blogspot.com/-PBv8cht4HdI/VR2cAyBy8hI/AAAAAAAABTM/qIqwgetNXfs/s1600/canal_rural.png" group-title="Variedades",Canal Rural
+http://142.44.128.231:25461/live/drade30/3030/1850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Canal Sony
+http://142.44.128.231:25461/live/drade30/3030/1849.ts
+#EXTINF:-1 tvg-id="Sony HD [Brazil]" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Sony HD
+http://142.44.128.231:25461/live/drade30/3030/2164.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Canais Abertos",Cancao Nova
+http://142.44.128.231:25461/live/drade30/3030/1848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/31/Cartoon_Network_Logo_(2004-2010).png/revision/latest?cb=20111202084325" group-title="Infantis",Cartoon Network
+http://142.44.128.231:25461/live/drade30/3030/1847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="Infantis",Cartoon Network HD
+http://142.44.128.231:25461/live/drade30/3030/3369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" group-title="Canais HBO",Cinemax
+http://142.44.128.231:25461/live/drade30/3030/1846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/03/cineamaxHD.png" group-title="Canais HBO",Cinemax HD
+http://142.44.128.231:25461/live/drade30/3030/3368.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://cdn2.vendasclarohdtv.com.br/Content/Hotsites/luta/img/banner_012.png" group-title="Esportes",Combate
+http://142.44.128.231:25461/live/drade30/3030/1845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Esportes",Combate HD
+http://142.44.128.231:25461/live/drade30/3030/1844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Series",Comedy Central
+http://142.44.128.231:25461/live/drade30/3030/1843.ts
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/curta.png" group-title="Variedades",Curta!
+http://142.44.128.231:25461/live/drade30/3030/1842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Documentarios",Discovery Channel
+http://142.44.128.231:25461/live/drade30/3030/1841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" group-title="Documentarios",Discovery Channel HD
+http://142.44.128.231:25461/live/drade30/3030/1840.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png/revision/latest?cb=20110127062351" group-title="Documentarios",Discovery Civilization
+http://142.44.128.231:25461/live/drade30/3030/1839.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title="Variedades",Discovery H&H
+http://142.44.128.231:25461/live/drade30/3030/1838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="Variedades",Discovery Home & Health HD
+http://142.44.128.231:25461/live/drade30/3030/1837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="Infantis",Discovery Kids
+http://142.44.128.231:25461/live/drade30/3030/1836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png" group-title="Infantis",Discovery Kids HD
+http://142.44.128.231:25461/live/drade30/3030/3367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="Documentarios",Discovery Science
+http://142.44.128.231:25461/live/drade30/3030/1835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentarios",Discovery Turbo
+http://142.44.128.231:25461/live/drade30/3030/1834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png" group-title="Documentarios",Discovery Turbo HD
+http://142.44.128.231:25461/live/drade30/3030/1833.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="Documentarios",Discovery World HD
+http://142.44.128.231:25461/live/drade30/3030/2163.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Infantis",Disney Junior
+http://142.44.128.231:25461/live/drade30/3030/1831.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Infantis",Disney XD
+http://142.44.128.231:25461/live/drade30/3030/1830.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dd/Disney_Logo.png" group-title="Infantis",Disney
+http://142.44.128.231:25461/live/drade30/3030/1832.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Infantis",Disney Channel HD
+http://142.44.128.231:25461/live/drade30/3030/3366.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E!_Logo_2012.svg/1000px-E!_Logo_2012.svg.png" group-title="Variedades",E!
+http://142.44.128.231:25461/live/drade30/3030/1829.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://vignette2.wikia.nocookie.net/logosfake/images/2/25/E%21_HD.png" group-title="Variedades",E! HD
+http://142.44.128.231:25461/live/drade30/3030/3365.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/eimaxxb.png" group-title="Esportes",EI Maxx
+http://142.44.128.231:25461/live/drade30/3030/1828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx HD" tvg-logo="http://4.bp.blogspot.com/-x9DbV37Lns0/U1salrGOexI/AAAAAAAAiRw/vv0u-5dRYZ8/s1600/Esporte-interativo.png" group-title="Esportes",Ei Maxx HD
+http://142.44.128.231:25461/live/drade30/3030/1825.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",EI Maxx 2
+http://142.44.128.231:25461/live/drade30/3030/1827.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d4/EI_Maxx_logos.png" group-title="Esportes",Ei Maxx 2 HD
+http://142.44.128.231:25461/live/drade30/3030/1826.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/640px-Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
+http://142.44.128.231:25461/live/drade30/3030/1866.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Esportes",ESPN Brasil HD
+http://142.44.128.231:25461/live/drade30/3030/1823.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN
+http://142.44.128.231:25461/live/drade30/3030/1824.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD
+http://142.44.128.231:25461/live/drade30/3030/2162.ts
+#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-name="Esporte Interativo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" group-title="Esportes",Esporte Interativo HD
+http://142.44.128.231:25461/live/drade30/3030/2161.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="Variedades",Fish TV
+http://142.44.128.231:25461/live/drade30/3030/1822.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/500px-Food_Network_Logo.svg.png" group-title="Variedades",Food Network
+http://142.44.128.231:25461/live/drade30/3030/1821.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Food_Network_Canada_HD.PNG" group-title="Variedades",Food Network HD
+http://142.44.128.231:25461/live/drade30/3030/3364.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="Variedades",Fox Life
+http://142.44.128.231:25461/live/drade30/3030/1817.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Variedades",Fox Life HD
+http://142.44.128.231:25461/live/drade30/3030/2159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="Esportes",Fox Sports
+http://142.44.128.231:25461/live/drade30/3030/1815.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/de/IvIPy8fZekp1X.png/revision/latest?cb=20121102222303" group-title="Esportes",Fox Sports HD
+http://142.44.128.231:25461/live/drade30/3030/1816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",Fox Sports 2
+http://142.44.128.231:25461/live/drade30/3030/1814.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",Fox Sports 2 HD
+http://142.44.128.231:25461/live/drade30/3030/2158.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png/revision/latest?cb=20121206124654" group-title="Series",FOX
+http://142.44.128.231:25461/live/drade30/3030/1820.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="http://convergecom.com.br/wp-content/uploads/2015/03/FOX.png" group-title="Series",FOX HD
+http://142.44.128.231:25461/live/drade30/3030/2160.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1-hd.png?ver=56fd5e5e-ac03-4e47-a329-673317b6aa23" group-title="Series",Fox 1 HD
+http://142.44.128.231:25461/live/drade30/3030/1819.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/9d/Fox_Action_HD.png/revision/latest?cb=20160119140445" group-title="Series",Fox Action HD
+http://142.44.128.231:25461/live/drade30/3030/1818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="Documentarios",Futura
+http://142.44.128.231:25461/live/drade30/3030/1813.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/2000px-FX_Italia_logo.svg.png" group-title="Series",FX
+http://142.44.128.231:25461/live/drade30/3030/1812.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LogoFX.svg/2000px-LogoFX.svg.png" group-title="Series",FX HD
+http://142.44.128.231:25461/live/drade30/3030/2157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo SP
+http://142.44.128.231:25461/live/drade30/3030/1810.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo RJ HD
+http://142.44.128.231:25461/live/drade30/3030/1811.ts
+#EXTINF:-1 tvg-id="" tvg-name="GloboNews" tvg-logo="http://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Canais Globosat",GloboNews
+http://142.44.128.231:25461/live/drade30/3030/1809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Canais Globosat",Globo News HD
+http://142.44.128.231:25461/live/drade30/3030/3363.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png" group-title="Infantis",Gloob
+http://142.44.128.231:25461/live/drade30/3030/1808.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="Infantis",Gloob HD
+http://142.44.128.231:25461/live/drade30/3030/3362.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gnt.png" group-title="Canais Globosat",GNT
+http://142.44.128.231:25461/live/drade30/3030/1807.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://g.glbimg.com/og/gs/gsat5/static_files/responsivo/assets/images/gnt/logo/gnt.png" group-title="Canais Globosat",GNT HD
+http://142.44.128.231:25461/live/drade30/3030/2118.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://listaiptvbrasil.com/logos/h2.png" group-title="Documentarios",H2
+http://142.44.128.231:25461/live/drade30/3030/1806.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://2.bp.blogspot.com/-1wyWYE6VL80/VCwJ3TJfRtI/AAAAAAAAAFg/depxSjME-N4/s1600/History-2-logo-2011.png" group-title="Documentarios",H2 HD
+http://142.44.128.231:25461/live/drade30/3030/2156.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3a/HBO_Family_logo.png/revision/latest?cb=20160707203647" group-title="Canais HBO",HBO Family
+http://142.44.128.231:25461/live/drade30/3030/1803.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Family.png" group-title="Canais HBO",HBO Family HD
+http://142.44.128.231:25461/live/drade30/3030/2155.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus e" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus2.png" group-title="Canais HBO",HBO Plus e
+http://142.44.128.231:25461/live/drade30/3030/1800.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="Canais HBO",HBO Plus
+http://142.44.128.231:25461/live/drade30/3030/1801.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais HBO",HBO Plus HD
+http://142.44.128.231:25461/live/drade30/3030/2154.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png" group-title="Canais HBO",HBO Signature
+http://142.44.128.231:25461/live/drade30/3030/1799.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbosignatureb.png" group-title="Canais HBO",HBO Signature HD
+http://142.44.128.231:25461/live/drade30/3030/2153.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Canais HBO",HBO
+http://142.44.128.231:25461/live/drade30/3030/1805.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Canais HBO",HBO HD
+http://142.44.128.231:25461/live/drade30/3030/1802.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Documentarios",History Channel HD
+http://142.44.128.231:25461/live/drade30/3030/1797.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais HBO",HBO2
+http://142.44.128.231:25461/live/drade30/3030/1798.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124" group-title="Canais HBO",HBO 2 HD
+http://142.44.128.231:25461/live/drade30/3030/1804.ts
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://www.lamac.org/res/channels/logos/_0008_isat.png" group-title="Series",I-SAT
+http://142.44.128.231:25461/live/drade30/3030/1796.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Series",ID - Investigacao Discovery
+http://142.44.128.231:25461/live/drade30/3030/1795.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="Series",ID - Investigação Discovery HD
+http://142.44.128.231:25461/live/drade30/3030/2152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="http://vignette2.wikia.nocookie.net/tvpediabrasil/images/5/56/Ideal_TV.png/revision/latest?cb=20150219221719&path-prefix=pt-br" group-title="Canais Abertos",Ideal TV
+http://142.44.128.231:25461/live/drade30/3030/1794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://vignette1.wikia.nocookie.net/deviousmaids/images/b/bc/Lifetime_Logo.png/revision/latest?cb=20140216020400" group-title="Series",Lifetime
+http://142.44.128.231:25461/live/drade30/3030/1793.ts
+#EXTINF:-1 tvg-id="" tvg-name="LifeTime HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/57/Lifetime_us_hd.png" group-title="Series",LifeTime HD
+http://142.44.128.231:25461/live/drade30/3030/3361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="Canais Globosat",Mais Globosat
+http://142.44.128.231:25461/live/drade30/3030/1792.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime e" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="Canais HBO",MAX Prime e
+http://142.44.128.231:25461/live/drade30/3030/1789.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais HBO",MAX Prime
+http://142.44.128.231:25461/live/drade30/3030/1790.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/max_prime_oeste.png" group-title="Canais HBO",Max Prime HD
+http://142.44.128.231:25461/live/drade30/3030/3357.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maxup.png" group-title="Canais HBO",MAX UP
+http://142.44.128.231:25461/live/drade30/3030/1788.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max UP HD" tvg-logo="http://www.clarotvinternet.com/Content/Hotsites/hdtv/img/hdtv/max-up-hd.png" group-title="Canais HBO",Max UP HD
+http://142.44.128.231:25461/live/drade30/3030/3359.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais HBO",MAX
+http://142.44.128.231:25461/live/drade30/3030/1791.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max HD" tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="Canais HBO",Max HD
+http://142.44.128.231:25461/live/drade30/3030/3358.ts
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="Filmes",MegaPix
+http://142.44.128.231:25461/live/drade30/3030/1787.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="Filmes",Megapix HD
+http://142.44.128.231:25461/live/drade30/3030/2111.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="Entretenimento",MTV
+http://142.44.128.231:25461/live/drade30/3030/1786.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MTV_HD_Logo_2013.png" group-title="Entretenimento",MTV HD
+http://142.44.128.231:25461/live/drade30/3030/3356.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="http://s2.glbimg.com/65g89MNiYIXrhLX1jklSghn44mM=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6e/44/cfa477de2556a75a32a3ee2b7b89.png" group-title="Canais Globosat",Multishow
+http://142.44.128.231:25461/live/drade30/3030/1785.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://4.bp.blogspot.com/-2CojkQcbBZw/VuSjiLe9WBI/AAAAAAAAo2U/0cQqqLipg2AYGnF_od-jQzGQYddZQwKMgCKgB/s1600/80aa676019fdeb8d5cded638b6ec.png" group-title="Canais Globosat",Multishow HD
+http://142.44.128.231:25461/live/drade30/3030/2123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://tudotv.tv/fotos/c80c2cbdd39021dc0d0af2134cdb88fd.png" group-title="Entretenimento",Music Box Brazil
+http://142.44.128.231:25461/live/drade30/3030/1784.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentarios",NatGeo Wild
+http://142.44.128.231:25461/live/drade30/3030/1783.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="Documentarios",NatGeoWild HD
+http://142.44.128.231:25461/live/drade30/3030/2151.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="Documentarios",National Geographic
+http://142.44.128.231:25461/live/drade30/3030/1782.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentarios",National Geography HD
+http://142.44.128.231:25461/live/drade30/3030/1781.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="Canais Abertos",NBR
+http://142.44.128.231:25461/live/drade30/3030/1780.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="http://logonoid.com/images/nhk-logo.png" group-title="Variedades",NHK
+http://142.44.128.231:25461/live/drade30/3030/1779.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png" group-title="Infantis",Nick Jr
+http://142.44.128.231:25461/live/drade30/3030/1778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20121013060525" group-title="Infantis",Nickelodeon
+http://142.44.128.231:25461/live/drade30/3030/1777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="Infantis",Nick HD
+http://142.44.128.231:25461/live/drade30/3030/3355.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Variedades",Novo Tempo
+http://142.44.128.231:25461/live/drade30/3030/1776.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="Canais Globosat",OFF
+http://142.44.128.231:25461/live/drade30/3030/1775.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="http://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="Canais Globosat",OFF HD
+http://142.44.128.231:25461/live/drade30/3030/2150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Paramount_1988_Communications.png/revision/latest?cb=20121103012803" group-title="Filmes",Paramount
+http://142.44.128.231:25461/live/drade30/3030/1774.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://vignette4.wikia.nocookie.net/opoderosochefao/images/5/5e/Paramount.png/revision/latest?cb=20120816001553&path-prefix=pt" group-title="Filmes",Paramount HD
+http://142.44.128.231:25461/live/drade30/3030/2117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere Clubes
+http://142.44.128.231:25461/live/drade30/3030/1758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere Clubes HD
+http://142.44.128.231:25461/live/drade30/3030/1771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 2
+http://142.44.128.231:25461/live/drade30/3030/1770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 2 HD
+http://142.44.128.231:25461/live/drade30/3030/1769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 3
+http://142.44.128.231:25461/live/drade30/3030/1768.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 3 HD
+http://142.44.128.231:25461/live/drade30/3030/1767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 4
+http://142.44.128.231:25461/live/drade30/3030/1766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 4 HD
+http://142.44.128.231:25461/live/drade30/3030/1765.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 5
+http://142.44.128.231:25461/live/drade30/3030/1764.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 5 HD
+http://142.44.128.231:25461/live/drade30/3030/1763.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 6
+http://142.44.128.231:25461/live/drade30/3030/1762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 7
+http://142.44.128.231:25461/live/drade30/3030/1761.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 8
+http://142.44.128.231:25461/live/drade30/3030/1760.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 9
+http://142.44.128.231:25461/live/drade30/3030/1759.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/primeboxbrazil.png" group-title="Filmes",Prime Box Brazil
+http://142.44.128.231:25461/live/drade30/3030/1757.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBI" tvg-logo="https://pbs.twimg.com/profile_images/1188141070/Untitled-1_400x400.png" group-title="Canais Abertos",RBI
+http://142.44.128.231:25461/live/drade30/3030/1756.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/rbsrs.png" group-title="Canais Abertos",RBS TV Porto Alegre
+http://142.44.128.231:25461/live/drade30/3030/1755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/0/05/Record_News.png/revision/latest?cb=20120229133037&path-prefix=pt-br" group-title="Canais Abertos",Record News
+http://142.44.128.231:25461/live/drade30/3030/1753.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Canais Abertos",RECORDTV
+http://142.44.128.231:25461/live/drade30/3030/1752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="http://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="Canais Abertos",Record HD
+http://142.44.128.231:25461/live/drade30/3030/1754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Canais Abertos",Rede Brasil
+http://142.44.128.231:25461/live/drade30/3030/1751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="Canais Abertos",Rede TV
+http://142.44.128.231:25461/live/drade30/3030/1750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="Canais Abertos",Rede TV HD
+http://142.44.128.231:25461/live/drade30/3030/2149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Abertos",Rede Vida
+http://142.44.128.231:25461/live/drade30/3030/1749.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="Canais Abertos",RIT
+http://142.44.128.231:25461/live/drade30/3030/1748.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Canais Abertos",SBT
+http://142.44.128.231:25461/live/drade30/3030/1747.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="Canais Abertos",SBT HD
+http://142.44.128.231:25461/live/drade30/3030/1746.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/f/f8/SIC_Internacional.png" group-title="Variedades",SIC Internacional
+http://142.44.128.231:25461/live/drade30/3030/1743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://convergecom.com.br/wp-content/uploads/2016/05/SPACE.png" group-title="Filmes",Space
+http://142.44.128.231:25461/live/drade30/3030/1742.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://3.bp.blogspot.com/-CNxee4SfnJ4/TyJIrX9VP8I/AAAAAAAAADM/yLEZuzTbpBw/s1600/Space_lam_hd.png" group-title="Filmes",Space HD
+http://142.44.128.231:25461/live/drade30/3030/2115.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV
+http://142.44.128.231:25461/live/drade30/3030/1738.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154937-canal-sport-tv-hd.png" group-title="Esportes",SporTV HD
+http://142.44.128.231:25461/live/drade30/3030/1739.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2
+http://142.44.128.231:25461/live/drade30/3030/1737.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155032-canal-sport-tv-2-hd.png" group-title="Esportes",SporTV 2 HD
+http://142.44.128.231:25461/live/drade30/3030/1741.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 Alternativo" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2 Alternativo
+http://142.44.128.231:25461/live/drade30/3030/1736.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3
+http://142.44.128.231:25461/live/drade30/3030/1735.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3 HD
+http://142.44.128.231:25461/live/drade30/3030/1740.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV Alternativo" tvg-logo="http://static2.wikia.nocookie.net/__cb20120720191553/logopedia/images/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV Alternativo
+http://142.44.128.231:25461/live/drade30/3030/1734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png" group-title="Filmes",Studio Universal
+http://142.44.128.231:25461/live/drade30/3030/1733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://i.pinimg.com/originals/49/81/6a/49816a3abc55802c1442d81bd8498ca7.jpg" group-title="Filmes",Studio Universal HD
+http://142.44.128.231:25461/live/drade30/3030/3354.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series",Syfy
+http://142.44.128.231:25461/live/drade30/3030/1732.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/dc/Syfy_hd.png" group-title="Series",Syfy HD
+http://142.44.128.231:25461/live/drade30/3030/3353.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS
+http://142.44.128.231:25461/live/drade30/3030/1731.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS HD
+http://142.44.128.231:25461/live/drade30/3030/2121.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://vignette4.wikia.nocookie.net/world-of-media/images/c/c0/TCM_logo.png/revision/latest?cb=20140103150834" group-title="Filmes",TCM
+http://142.44.128.231:25461/live/drade30/3030/1726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action
+http://142.44.128.231:25461/live/drade30/3030/1725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action HD
+http://142.44.128.231:25461/live/drade30/3030/1730.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="Canais Telecine",Telecine Cult
+http://142.44.128.231:25461/live/drade30/3030/1724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="Filmes",Telecine Cult HD
+http://142.44.128.231:25461/live/drade30/3030/3352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcfunb.png" group-title="Canais Telecine",Telecine Fun
+http://142.44.128.231:25461/live/drade30/3030/1723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcfunb.png" group-title="Canais Telecine",Telecine Fun HD
+http://142.44.128.231:25461/live/drade30/3030/1729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcpipocab.png" group-title="Canais Telecine",Telecine Pipoca
+http://142.44.128.231:25461/live/drade30/3030/1722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcpipocab.png" group-title="Canais Telecine",Telecine Pipoca HD
+http://142.44.128.231:25461/live/drade30/3030/1728.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium
+http://142.44.128.231:25461/live/drade30/3030/1721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium HD
+http://142.44.128.231:25461/live/drade30/3030/1727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch
+http://142.44.128.231:25461/live/drade30/3030/1720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch HD
+http://142.44.128.231:25461/live/drade30/3030/2148.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel
+http://142.44.128.231:25461/live/drade30/3030/1718.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel HD
+http://142.44.128.231:25461/live/drade30/3030/2147.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Variedades",TLC
+http://142.44.128.231:25461/live/drade30/3030/1717.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TLC-HD_Logo_Germany.png" group-title="Variedades",TLC HD
+http://142.44.128.231:25461/live/drade30/3030/3351.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20150603173408" group-title="Series",TNT Series
+http://142.44.128.231:25461/live/drade30/3030/1714.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/69/TNT_Series_Logo_2016_Hu.png/revision/latest?cb=20170122154513" group-title="Series",TNT Series HD
+http://142.44.128.231:25461/live/drade30/3030/2116.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes",TNT
+http://142.44.128.231:25461/live/drade30/3030/1716.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/aa/TNT_HD_Europe_logo.png/revision/latest?cb=20160601164855" group-title="Filmes",TNT HD
+http://142.44.128.231:25461/live/drade30/3030/1715.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="Infantis",Tooncast
+http://142.44.128.231:25461/live/drade30/3030/1713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="http://exorbeo.com/wp-content/uploads/2013/06/universal_channel_hd.png" group-title="Series",Universal Channel
+http://142.44.128.231:25461/live/drade30/3030/1707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/500-entertainment/512-UniversalChannel.png" group-title="Series",Universal Channel HD
+http://142.44.128.231:25461/live/drade30/3030/2112.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Entretenimento",VH1 Megahits
+http://142.44.128.231:25461/live/drade30/3030/1706.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/vh1hd.png" group-title="Entretenimento",VH1 HD
+http://142.44.128.231:25461/live/drade30/3030/3350.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Canais Globosat",Viva
+http://142.44.128.231:25461/live/drade30/3030/1705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://1.bp.blogspot.com/-9dMEH-pU25E/U3eKe1UeOtI/AAAAAAAAiew/lTGTkCArT3U/s1600/Canal_Viva_logo.png" group-title="Canais Globosat",Viva HD
+http://142.44.128.231:25461/live/drade30/3030/2145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="http://www.lamac.org/res/channels/logos/_0000_warner.png" group-title="Series",Warner Channel
+http://142.44.128.231:25461/live/drade30/3030/1704.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="http://vignette4.wikia.nocookie.net/arrow/images/8/8a/Warner_Channel_logo.png/revision/latest?cb=20150529212740&path-prefix=pt-br" group-title="Series",Warner Channel HD
+http://142.44.128.231:25461/live/drade30/3030/2146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/woohoo.png" group-title="Variedades",Woohoo
+http://142.44.128.231:25461/live/drade30/3030/1703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio | Dance Music" tvg-logo="" group-title="",Rádio | Dance Music
+http://142.44.128.231:25461/live/drade30/3030/3085.ts
+#EXTINF:-1 tvg-id="" tvg-name="DBZ1 - Sayajins" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/saga1.png" group-title="Especiais",DBZ1 - Sayajins
+http://142.44.128.231:25461/live/drade30/3030/3116.ts
+#EXTINF:-1 tvg-id="" tvg-name="DBZ2 - Freeza" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/saga2.png" group-title="Especiais",DBZ2 - Freeza
+http://142.44.128.231:25461/live/drade30/3030/3120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/logo.png" group-title="Especiais",Pica-Pau
+http://142.44.128.231:25461/live/drade30/3030/3121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha" tvg-logo="https://seeklogo.com/images/S/spider-man-comic-new-logo-322E9DE914-seeklogo.com.png" group-title="Especiais",Homem-Aranha
+http://142.44.128.231:25461/live/drade30/3030/3123.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDZ1 - Saga do Santuario" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/cdz-santuario.png" group-title="Especiais",CDZ1 - Saga do Santuario
+http://142.44.128.231:25461/live/drade30/3030/3124.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDZ2 - Saga das 12 Casas" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/tumblr_mu7uhxETG31rvobogo5_1280.png" group-title="Especiais",CDZ2 - Saga das 12 Casas
+http://142.44.128.231:25461/live/drade30/3030/3125.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDZ3 - Saga de Asgard" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/312e602eb5ab47358554379308a50a49.png" group-title="Especiais",CDZ3 - Saga de Asgard
+http://142.44.128.231:25461/live/drade30/3030/3126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chapolim" tvg-logo="http://www.kmisetas.com.br/Imagens/Franquias/96.gif" group-title="Especiais",Chapolim
+http://142.44.128.231:25461/live/drade30/3030/3130.ts
+#EXTINF:-1 tvg-id="" tvg-name="DuckTales" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/ducktales_remastered___icon_by_blagoicons-dbbdy30.png" group-title="Especiais",DuckTales
+http://142.44.128.231:25461/live/drade30/3030/3140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/LogoLT.png" group-title="Especiais",Looney Tunes
+http://142.44.128.231:25461/live/drade30/3030/3342.ts
+#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="http://www.pngmart.com/files/3/X-Men-PNG-Clipart.png" group-title="Especiais",X-Men
+http://142.44.128.231:25461/live/drade30/3030/3339.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon 1 - Liga Indigo" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/Pokemon-Indigo.png" group-title="Especiais",Pokemon 1 - Liga Indigo
+http://142.44.128.231:25461/live/drade30/3030/3343.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDZ4 - Saga de Poseidon" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/cdz-poseidon.png" group-title="Especiais",CDZ4 - Saga de Poseidon
+http://142.44.128.231:25461/live/drade30/3030/3348.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDZ5 - Saga de Hades" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/cdz-hades.png" group-title="Especiais",CDZ5 - Saga de Hades
+http://142.44.128.231:25461/live/drade30/3030/3349.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Bailarina" tvg-logo="https://iptvwebcsgo.com/images/VOD2/A-Bailarina-Assistir-Online.jpg" group-title="Animacao",OnDemand | A Bailarina
+http://142.44.128.231:25461/movie/drade30/3030/2804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vida" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Vida-Assistir-Online.jpg" group-title="Ficcao cientifica",OnDemand | Vida
+http://142.44.128.231:25461/movie/drade30/3030/3081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Cura" tvg-logo="https://iptvwebcsgo.com/images/VOD2/A-Cura.jpg" group-title="Drama",OnDemand | A Cura
+http://142.44.128.231:25461/movie/drade30/3030/3044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Grande Aposta" tvg-logo="https://iptvwebcsgo.com/images/VOD2/A-Grande-Aposta.jpg" group-title="Comedia",OnDemand | A Grande Aposta
+http://142.44.128.231:25461/movie/drade30/3030/3041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Nao Ultrapasse" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Nao-Ultrapasse.jpg" group-title="Acao",OnDemand | Nao Ultrapasse
+http://142.44.128.231:25461/movie/drade30/3030/3045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Versoes de Um Crime" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Versoes-de-um-Crime.jpg" group-title="Drama",OnDemand | Versoes de Um Crime
+http://142.44.128.231:25461/movie/drade30/3030/3043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Como Eu Era Antes de Voce" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Como-eu-era-antes-de-voce-filme-iptv-vod.jpg" group-title="Romance",OnDemand | Como Eu Era Antes de Voce
+http://142.44.128.231:25461/movie/drade30/3030/3040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Antes Que Eu Va" tvg-logo="https://iptvwebcsgo.com/images/VOD2/antes-que-eu-va-assistir-online.jpg" group-title="Drama",OnDemand | Antes Que Eu Va
+http://142.44.128.231:25461/movie/drade30/3030/3046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Espaco Entre Nos" tvg-logo="https://iptvwebcsgo.com/images/VOD2/O-Espaco-Entre-Nos.jpg" group-title="Romance",OnDemand | O Espaco Entre Nos
+http://142.44.128.231:25461/movie/drade30/3030/3047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Kung Fu Panda 3" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/b6/99/be/b699bea1d7b91bcfa6d68f5998db8426.jpg" group-title="Animacao",OnDemand | Kung Fu Panda 3
+http://142.44.128.231:25461/movie/drade30/3030/883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Nerve Um Jogo Sem Regras" tvg-logo="http://www.thefandom.net/wp-content/uploads/2016/07/Nerve_SignedPoster_EmHR-669x1024.jpg" group-title="Aventura",OnDemand | Nerve Um Jogo Sem Regras
+http://142.44.128.231:25461/movie/drade30/3030/2031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Piratas do Caribe 4: Navegando em Aguas Misteriosas" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Piratas-do-Caribe-4.jpg" group-title="Aventura",OnDemand | Piratas do Caribe 4: Navegando em Aguas Misteriosas
+http://142.44.128.231:25461/movie/drade30/3030/3039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | Vizinhos Nada Secretos" tvg-logo="http://iptvwebcsgo.com/images/vizinhos-secretos_.jpg" group-title="Comedia",Ondemand | Vizinhos Nada Secretos
+http://142.44.128.231:25461/movie/drade30/3030/2340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | O Contador" tvg-logo="https://image.tmdb.org/t/p/w185/wYqU4XIIe3FUZiquMoWlgtEXp6F.jpg" group-title="Acao",Ondemand | O Contador
+http://142.44.128.231:25461/movie/drade30/3030/2321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | Spectral" tvg-logo="https://i.jeded.com/i/spectral.61144.jpg" group-title="Acao",Ondemand | Spectral
+http://142.44.128.231:25461/movie/drade30/3030/2033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | O Lar das Crianças Peculiares" tvg-logo="https://3.bp.blogspot.com/-75IBsNe-cTU/Vu6WGIwQTyI/AAAAAAAAN7Q/ae_Q9hO3eSUjb2F0-HdrqYim94GC3xiqg/s1600/O%2Blar%2Bdas%2Bcrian%25C3%25A7as%2Bpeculiares.jpg" group-title="Aventura",Ondemand | O Lar das Crianças Peculiares
+http://142.44.128.231:25461/movie/drade30/3030/1169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vizinhos 2" tvg-logo="http://br.web.img2.acsta.net/pictures/16/03/31/17/59/303127.jpg" group-title="Comedia",OnDemand | Vizinhos 2
+http://142.44.128.231:25461/movie/drade30/3030/2736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | M14 - Doutor Estranho" tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/estranhoPoster.jpg" group-title="Marvel",Ondemand | M14 - Doutor Estranho
+http://142.44.128.231:25461/movie/drade30/3030/2095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Warcraft o Primeiro Encontro de dois Mundos" tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/Warcraft-The-Beginning-Poster-01.jpg" group-title="Aventura",OnDemand | Warcraft o Primeiro Encontro de dois Mundos
+http://142.44.128.231:25461/movie/drade30/3030/941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Zootopia Essa Cidade e o Bicho" tvg-logo="https://static.omelete.uol.com.br/media/filer_public/aa/44/aa440331-8433-4f16-b467-21a87d307caa/zootopia-07.jpg" group-title="Animacao",OnDemand | Zootopia Essa Cidade e o Bicho
+http://142.44.128.231:25461/movie/drade30/3030/944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | Carrossel 2: O Sumico de Maria Joaquina." tvg-logo="http://www.ccine10.com.br/wp-content/uploads/2016/06/CARROSSEL-2-O-SUMICO-DE-MARIA-JOAQUINA.jpg" group-title="Aventura",Ondemand | Carrossel 2: O Sumico de Maria Joaquina.
+http://142.44.128.231:25461/movie/drade30/3030/2320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | X Men Apocalipse" tvg-logo="http://br.web.img3.acsta.net/pictures/16/04/14/11/28/136403.jpg" group-title="Aventura",OnDemand | X Men Apocalipse
+http://142.44.128.231:25461/movie/drade30/3030/943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | XXX: Reativado" tvg-logo="https://iptvwebcsgo.com/images/VOD2/xxx-reativado-assistir-online.jpg" group-title="Acao",OnDemand | XXX: Reativado
+http://142.44.128.231:25461/movie/drade30/3030/2812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | O Bom Gigante Amigo" tvg-logo="http://www.oestadoce.com.br/wp-content/uploads/2016/08/poltrona-BFG-poster-15mai16.jpg" group-title="Animacao",Ondemand | O Bom Gigante Amigo
+http://142.44.128.231:25461/movie/drade30/3030/2032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | A Era do Gelo a Grande Cacada aos Ovos de Pascoa" tvg-logo="https://1.bp.blogspot.com/-z8hrkdYTqNE/V1D4hI5xIXI/AAAAAAAAAL8/mPD27xZ7AlMVDoxEFhYijWvTGeIVjVQhgCLcB/s1600/ds.jpg" group-title="Animacao",Ondemand | A Era do Gelo a Grande Cacada aos Ovos de Pascoa
+http://142.44.128.231:25461/movie/drade30/3030/810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Turbo Kid" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Turbo-Kid-Assistir-Online.jpg" group-title="Acao",OnDemand | Turbo Kid
+http://142.44.128.231:25461/movie/drade30/3030/2818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Um Limite Entre Nos" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Um-Limite-Entre-Nos-Assistir-Online.jpg" group-title="Drama",OnDemand | Um Limite Entre Nos
+http://142.44.128.231:25461/movie/drade30/3030/2788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Um Espiao e Meio" tvg-logo="http://recantoadormecido.com.br/wp-content/uploads/2016/03/Central-Intelligence-Poster-nacional-21Mar%C3%A7o2016.jpg" group-title="Comedia",OnDemand | Um Espiao e Meio
+http://142.44.128.231:25461/movie/drade30/3030/2750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vai que da Certo 2" tvg-logo="http://www.cafecomfilme.com.br/media/k2/items/cache/aee6b7eabcfbb7f95c4f7ee66e00ef27_XL.jpg" group-title="Comedia",OnDemand | Vai que da Certo 2
+http://142.44.128.231:25461/movie/drade30/3030/937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vizinhos" tvg-logo="https://cinelogin.files.wordpress.com/2014/06/vizinhos.jpg" group-title="Comedia",OnDemand | Vizinhos
+http://142.44.128.231:25461/movie/drade30/3030/2735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Velozes e Furiosos 8" tvg-logo="https://listaiptv.online/images/VOD/Velozes-e-Furiosos-Assistir-Online.jpg" group-title="Acao",OnDemand | Velozes e Furiosos 8
+http://142.44.128.231:25461/movie/drade30/3030/3033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Um Senhor Estagiario" tvg-logo="https://iptvwebcsgo.com/images/VOD/um-senhor-estagiario-iptv.png" group-title="Comedia",OnDemand | Um Senhor Estagiario
+http://142.44.128.231:25461/movie/drade30/3030/934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Um Monstro em Paris" tvg-logo="http://listaiptv.online/images/VOD/Um-Monstro-em-Paris-assistir-online.jpg" group-title="Animacao",OnDemand | Um Monstro em Paris
+http://142.44.128.231:25461/movie/drade30/3030/3030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Um Estado de Liberdade" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Um-Estado-de-Liberdade-Assistir-Online.jpg" group-title="Drama",OnDemand | Um Estado de Liberdade
+http://142.44.128.231:25461/movie/drade30/3030/2805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Velozes & Furiosos 7 Versão Estendida" tvg-logo="http://3.bp.blogspot.com/-G0Fx-s7va3A/VRvX1oR0guI/AAAAAAAAFvY/7q3t89ak1NI/s1600/Velozes%2Be%2BFuriosos%2B7.jpg" group-title="Acao",OnDemand | Velozes & Furiosos 7 Versão Estendida
+http://142.44.128.231:25461/movie/drade30/3030/938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 4 - Rogue One" tvg-logo="http://www.coruscant.com.br/wp-content/uploads/2016/10/Rogue-One-Theatrical-Poster.jpg" group-title="Star Wars",OnDemand | Star Wars 4 - Rogue One
+http://142.44.128.231:25461/movie/drade30/3030/2738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ted 2" tvg-logo="https://image.tmdb.org/t/p/original/qH6j7Kij3HHnTflyOQlhv41USxO.jpg" group-title="Comedia",OnDemand | Ted 2
+http://142.44.128.231:25461/movie/drade30/3030/927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 7 - O Retorno de Jedi" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-O-Retorno-de-Jedi-Assistir-Online-iptv.png" group-title="Star Wars",OnDemand | Star Wars 7 - O Retorno de Jedi
+http://142.44.128.231:25461/movie/drade30/3030/2777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 5 - Uma Nova Esperanca" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-uma-nova-esperanca-assistir-online-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 5 - Uma Nova Esperanca
+http://142.44.128.231:25461/movie/drade30/3030/2775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Truque De Mestre 2 O Segundo Ato" tvg-logo="http://1.bp.blogspot.com/-diSJjO2oXII/VzpNDOEMGkI/AAAAAAAAA7E/YtxBIh-ningIIx-UC8WAP8X2dMTuFFuKgCK4B/s1600/157806--truque-de-mestre-o-2-ato-950x0-1.jpg" group-title="Aventura",OnDemand | Truque De Mestre 2 O Segundo Ato
+http://142.44.128.231:25461/movie/drade30/3030/925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Truque De Mestre" tvg-logo="http://www.ccine10.com.br/wp-content/uploads/2013/07/TRUQUE-DE-MESTRE.jpg" group-title="Aventura",OnDemand | Truque De Mestre
+http://142.44.128.231:25461/movie/drade30/3030/926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ta Dando Onda 2" tvg-logo="https://iptvwebcsgo.com/images/VOD/ta-dando-onda-2-iptv.jpg" group-title="Animacao",OnDemand | Ta Dando Onda 2
+http://142.44.128.231:25461/movie/drade30/3030/2757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Trolls" tvg-logo="http://br.web.img2.acsta.net/pictures/16/06/29/11/56/106134.jpg" group-title="Animacao",OnDemand | Trolls
+http://142.44.128.231:25461/movie/drade30/3030/1173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Tinha Que ser Ele" tvg-logo="https://iptvwebcsgo.com/images/TQSE.jpg" group-title="Comedia",OnDemand | Tinha Que ser Ele
+http://142.44.128.231:25461/movie/drade30/3030/2740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 6 - O Imperio Contra Ataca" tvg-logo="https://iptvwebcsgo.com/images/VOD2/star-wars-o-imperio-contra-ataca-assistir-online-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 6 - O Imperio Contra Ataca
+http://142.44.128.231:25461/movie/drade30/3030/2776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 8 - O Despertar da Forca" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-O-Despertar-da-Forca-assistir-online-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 8 - O Despertar da Forca
+http://142.44.128.231:25461/movie/drade30/3030/2778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Steve Jobs" tvg-logo="https://www.uphe.com/sites/default/files/styles/scale__319w_/public/2015/12/SteveJobs_PosterArt.jpg?itok=iytWd5Bx" group-title="Drama",OnDemand | Steve Jobs
+http://142.44.128.231:25461/movie/drade30/3030/923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Te Pego na Saida" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Te-Pego-Na-Saida-Assistir-Online.jpg" group-title="Comedia",OnDemand | Te Pego na Saida
+http://142.44.128.231:25461/movie/drade30/3030/2815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Procurando Dory" tvg-logo="http://www.kontrolmag.com/wp-content/uploads/2016/06/FINDING_DORY_-_Key_Art.jpg" group-title="Animacao",OnDemand | Procurando Dory
+http://142.44.128.231:25461/movie/drade30/3030/914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Quando as Luzes se Apagam" tvg-logo="http://www.cinemarden.com.br/wp-content/uploads/2016/08/Quando-as-Luzes-se-Apagam-Poster-Teaser-Online.jpg" group-title="Terror",OnDemand | Quando as Luzes se Apagam
+http://142.44.128.231:25461/movie/drade30/3030/915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Trek Sem Fronteiras" tvg-logo="http://www.startrekofilme.com.br/images/posters/Star_Trek_Beam_Teaser_1_Sheet.jpg" group-title="Ficcao cientifica",OnDemand | Star Trek Sem Fronteiras
+http://142.44.128.231:25461/movie/drade30/3030/922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 3 - A Vinganca dos Sith" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-a-vinganca-dos-sith-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 3 - A Vinganca dos Sith
+http://142.44.128.231:25461/movie/drade30/3030/2770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Rebeliao" tvg-logo="https://image.tmdb.org/t/p/original/lr46yP6ygDiJUISHk7FEBNKjFkU.jpg" group-title="Acao",OnDemand | Rebeliao
+http://142.44.128.231:25461/movie/drade30/3030/917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Sing" tvg-logo="http://br.web.img3.acsta.net/pictures/16/08/23/00/17/011755.jpg" group-title="Animacao",OnDemand | Sing
+http://142.44.128.231:25461/movie/drade30/3030/2745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 2 - O Ataque dos Clones" tvg-logo="https://iptvwebcsgo.com/images/VOD2/star-wars-ataque-dos-clones-iptv.png" group-title="Star Wars",OnDemand | Star Wars 2 - O Ataque dos Clones
+http://142.44.128.231:25461/movie/drade30/3030/2769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 1 - A Ameaca Fantasma" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-a-ameaca-fantasma-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 1 - A Ameaca Fantasma
+http://142.44.128.231:25461/movie/drade30/3030/2768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Sahara" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Sahara-Animacao-Assistir-Online.jpg" group-title="Animacao",OnDemand | Sahara
+http://142.44.128.231:25461/movie/drade30/3030/2814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Snoopy e Charlie Brown Peanuts o Filme" tvg-logo="http://br.web.img2.acsta.net/pictures/15/09/04/17/43/597579.jpg" group-title="Animacao",OnDemand | Snoopy e Charlie Brown Peanuts o Filme
+http://142.44.128.231:25461/movie/drade30/3030/920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Quatro Vidas de Um Cachorro" tvg-logo="https://iptvwebcsgo.com/images/VOD2/quatro-vidas-de-um-cachorro-poster.jpg" group-title="Comedia",OnDemand | Quatro Vidas de Um Cachorro
+http://142.44.128.231:25461/movie/drade30/3030/2810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Quarteto Fantastico" tvg-logo="http://empauta.ufpel.edu.br/wp-content/uploads/2015/08/quarteto2.jpg" group-title="Aventura",OnDemand | Quarteto Fantastico
+http://142.44.128.231:25461/movie/drade30/3030/916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Resident Evil 6 O Capitulo Final-LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Resident-Evil-6-O-Capitulo-Final-assistir-online-iptv.jpg" group-title="Acao",OnDemand | Resident Evil 6 O Capitulo Final-LEG
+http://142.44.128.231:25461/movie/drade30/3030/2760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Regresso do Mal" tvg-logo="http://www.cafecomfilme.com.br/media/k2/items/cache/f35cd86e77728ea2e15a1259a0a61c0c_XL.jpg" group-title="Terror",OnDemand | Regresso do Mal
+http://142.44.128.231:25461/movie/drade30/3030/918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Slam: Tutto per una ragazza" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Slam-Tudo-por-uma-Ragazza.jpg" group-title="Comedia",OnDemand | Slam: Tutto per una ragazza
+http://142.44.128.231:25461/movie/drade30/3030/2819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Pixels O Filme" tvg-logo="http://umtigrenocinema.com/wp-content/uploads/2015/07/Pixels_O_Filme.jpg" group-title="Comedia",OnDemand | Pixels O Filme
+http://142.44.128.231:25461/movie/drade30/3030/912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Hobbit - A Batalha dos Cinco Exercitos" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-hobbit-a-batalha-dos-cinco-exercitos-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Hobbit - A Batalha dos Cinco Exercitos
+http://142.44.128.231:25461/movie/drade30/3030/2767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Piratas do Caribe 3: No Fim do Mundo" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Piratas-do-Caribe-3.jpg" group-title="Aventura",OnDemand | Piratas do Caribe 3: No Fim do Mundo
+http://142.44.128.231:25461/movie/drade30/3030/3038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Piratas do Caribe 2 : O Bau da Morte" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Piratas-do-Caribe-2-O-Bau-da-Morte.jpg" group-title="Aventura",OnDemand | Piratas do Caribe 2 : O Bau da Morte
+http://142.44.128.231:25461/movie/drade30/3030/3037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Piratas do Caribe 1: A Maldicao do Perola Negra" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Piratas-do-Caribe-1.jpg" group-title="Aventura",OnDemand | Piratas do Caribe 1: A Maldicao do Perola Negra
+http://142.44.128.231:25461/movie/drade30/3030/3036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Nossos Amantes" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Nossos-Amantes-Assistir-Online.jpg" group-title="Romance",OnDemand | Nossos Amantes
+http://142.44.128.231:25461/movie/drade30/3030/2807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Assassino de Mojave" tvg-logo="https://iptvwebcsgo.com/images/VOD2/O-Assassino-de-Mojave-assistir-online-iptv.jpg" group-title="Suspense",OnDemand | O Assassino de Mojave
+http://142.44.128.231:25461/movie/drade30/3030/2774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Noite de Amadores - LEG" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2016/10/noite-de-amadores.jpg" group-title="Comedia",OnDemand | Noite de Amadores - LEG
+http://142.44.128.231:25461/movie/drade30/3030/2782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Bebe de Bridget Jones" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/28/17/51/061145.jpg" group-title="Romance",OnDemand | O Bebe de Bridget Jones
+http://142.44.128.231:25461/movie/drade30/3030/2746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Operacao Big Hero" tvg-logo="http://listaiptv.online/images/VOD/big-hero-6-poster-historia-camundongo.jpg" group-title="Animacao",OnDemand | Operacao Big Hero
+http://142.44.128.231:25461/movie/drade30/3030/3031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Regresso" tvg-logo="http://assets.caixabelasartes.com.br/wp-content/uploads/2016/02/O-Regresso-poster.jpg" group-title="Drama",OnDemand | O Regresso
+http://142.44.128.231:25461/movie/drade30/3030/899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Senhor dos Aneis - A Sociedade do Anel" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-senhor-dos-aneis-a-sociedade-do-anel-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Senhor dos Aneis - A Sociedade do Anel
+http://142.44.128.231:25461/movie/drade30/3030/2764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Hobbit - A Desolacao de Smaug" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-hobbit-a-desolacao-de-smaug-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Hobbit - A Desolacao de Smaug
+http://142.44.128.231:25461/movie/drade30/3030/2763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Nos Limites da Lei - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Nos-Limites-da-Lei-Assistir-Online-IPTV.jpg" group-title="Acao",OnDemand | Nos Limites da Lei - LEG
+http://142.44.128.231:25461/movie/drade30/3030/2787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Hobbit - Uma Jornada Inesperada" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-hobbit-uma-jornada-inesperada-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Hobbit - Uma Jornada Inesperada
+http://142.44.128.231:25461/movie/drade30/3030/2762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Ultimo Cacador de Bruxas" tvg-logo="http://cinema10.com.br/upload/noticias/otultimocestreia.jpg" group-title="Acao",OnDemand | O Ultimo Cacador de Bruxas
+http://142.44.128.231:25461/movie/drade30/3030/901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Senhor dos Aneis - As Duas Torres" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-senhor-dos-aneis-as-duas-torres-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Senhor dos Aneis - As Duas Torres
+http://142.44.128.231:25461/movie/drade30/3030/2765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Pets a Vida Secreta dos Animais" tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/02/19/28/557955.jpg" group-title="Animacao",OnDemand | Pets a Vida Secreta dos Animais
+http://142.44.128.231:25461/movie/drade30/3030/911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Bom Dinossauro" tvg-logo="https://iptvwebcsgo.com/images/VOD/O-Bom-Dinossauro-iptv.jpg" group-title="Animacao",OnDemand | O Bom Dinossauro
+http://142.44.128.231:25461/movie/drade30/3030/896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Chamado 3" tvg-logo="https://iptvwebcsgo.com/images/VOD2/O-Chamado-3-Assistir-Online.jpg" group-title="Terror",OnDemand | O Chamado 3
+http://142.44.128.231:25461/movie/drade30/3030/2803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M6 - Os Vingadores" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Vindadores-1-Assistir-Online.jpg" group-title="Marvel",OnDemand | M6 - Os Vingadores
+http://142.44.128.231:25461/movie/drade30/3030/2801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Minha Vida de Abobrinha" tvg-logo="http://br.web.img3.acsta.net/pictures/17/01/06/12/11/422346.jpg" group-title="Animacao",OnDemand | Minha Vida de Abobrinha
+http://142.44.128.231:25461/movie/drade30/3030/2781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Max Steel" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Max-Steel-Assistir-Online-iptv.jpg" group-title="Acao",OnDemand | Max Steel
+http://142.44.128.231:25461/movie/drade30/3030/2785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M13 - Capitao America 3 Guerra Civil" tvg-logo="https://iptvwebcsgo.com/images/VOD/Capito-Amrica-Guerra-Civil-IPTV.jpg" group-title="Marvel",OnDemand | M13 - Capitao America 3 Guerra Civil
+http://142.44.128.231:25461/movie/drade30/3030/840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M5 - Capitao America O Primeiro Vingador" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Capitao-America-1-Assistir-Online.jpg" group-title="Marvel",OnDemand | M5 - Capitao America O Primeiro Vingador
+http://142.44.128.231:25461/movie/drade30/3030/2795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M3 - Homem de Ferro 2" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Homem-de-Ferro-2-Assistir-Online.jpg" group-title="Marvel",OnDemand | M3 - Homem de Ferro 2
+http://142.44.128.231:25461/movie/drade30/3030/2797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Mago das Mentiras" tvg-logo="https://listaiptv.online/images/VOD/O-Mago-das-Mentiras.jpg" group-title="Drama",OnDemand | O Mago das Mentiras
+http://142.44.128.231:25461/movie/drade30/3030/3034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M7 - Homem de Ferro 3" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Homem-de-Ferro-3-Assistir-Online.jpg" group-title="Marvel",OnDemand | M7 - Homem de Ferro 3
+http://142.44.128.231:25461/movie/drade30/3030/2798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M2 - O Incrivel Hulk" tvg-logo="https://iptvwebcsgo.com/images/VOD2/O-Incrivel-Hulk-Assistir-Online.jpg" group-title="Marvel",OnDemand | M2 - O Incrivel Hulk
+http://142.44.128.231:25461/movie/drade30/3030/2799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M12 - Homem Formiga" tvg-logo="http://im.ziffdavisinternational.com/ign_br/screenshot/default/image002_fz5h.jpg" group-title="Marvel",OnDemand | M12 - Homem Formiga
+http://142.44.128.231:25461/movie/drade30/3030/872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Era do Gelo o Big Bang" tvg-logo="https://iptvwebcsgo.com/images/VOD/A-Era-do-Gelo-O-Big-Bang-IPTV.jpg" group-title="Animacao",OnDemand | A Era do Gelo o Big Bang
+http://142.44.128.231:25461/movie/drade30/3030/805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Passageiros" tvg-logo="http://br.web.img3.acsta.net/pictures/16/09/19/21/02/477814.jpg" group-title="Romance",OnDemand | Passageiros
+http://142.44.128.231:25461/movie/drade30/3030/2730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Mad Max Estrada da Furia" tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/Mad-Max-6abril2015-poster.jpg" group-title="Acao",OnDemand | Mad Max Estrada da Furia
+http://142.44.128.231:25461/movie/drade30/3030/891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Minha Mae e uma Peca" tvg-logo="http://br.web.img3.acsta.net/newsv7/16/11/18/15/07/418240.jpg" group-title="Comedia",OnDemand | Minha Mae e uma Peca
+http://142.44.128.231:25461/movie/drade30/3030/2739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ouija - Origem do Mal" tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/16/06/23/18/55/294204.jpg" group-title="Terror",OnDemand | Ouija - Origem do Mal
+http://142.44.128.231:25461/movie/drade30/3030/2742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Os Caca Noivas" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Os-Caca-Noivas-Assistir-Online.jpg" group-title="Comedia",OnDemand | Os Caca Noivas
+http://142.44.128.231:25461/movie/drade30/3030/2816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Orgulho e Preconceito e Zumbis" tvg-logo="http://br.web.img3.acsta.net/pictures/15/12/15/18/30/467996.jpg" group-title="Comedia",OnDemand | Orgulho e Preconceito e Zumbis
+http://142.44.128.231:25461/movie/drade30/3030/903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Os Guardioes" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Os-Guardioes-Assistir-Online1.jpg" group-title="Acao",OnDemand | Os Guardioes
+http://142.44.128.231:25461/movie/drade30/3030/2806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Dia do Atentado - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-dia-do-atentado-assistir-online-iptv.jpg" group-title="Drama",OnDemand | O Dia do Atentado - LEG
+http://142.44.128.231:25461/movie/drade30/3030/2758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Perfeita e a Mae" tvg-logo="https://3.bp.blogspot.com/-owrdyX61fMk/V3tr8ba_e4I/AAAAAAAAEvs/xD54jY7FfEEV2h0Vs4XQEjkdoapHFjtFQCLcB/s1600/Poster_BadMoms_Fingers_BR_64x94cm_v7.jpg.jpeg" group-title="Comedia",OnDemand | Perfeita e a Mae
+http://142.44.128.231:25461/movie/drade30/3030/908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Moonlight: Sob a Luz do Luar" tvg-logo="http://listaiptv.online/images/VOD/Moonlight-Sob-a-Luz-do-Luar-Assistir-Online.jpg" group-title="Drama",OnDemand | Moonlight: Sob a Luz do Luar
+http://142.44.128.231:25461/movie/drade30/3030/3029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Monster Trucks" tvg-logo="https://iptvwebcsgo.com/images/VOD2/monster-trucks-iptv.jpg" group-title="Aventura",OnDemand | Monster Trucks
+http://142.44.128.231:25461/movie/drade30/3030/2751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Moana" tvg-logo="http://br.web.img2.acsta.net/newsv7/16/09/12/21/32/391585.jpg" group-title="Animacao",OnDemand | Moana
+http://142.44.128.231:25461/movie/drade30/3030/2729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Mogli O Menino Lobo" tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/18/20/52/012972.jpg" group-title="Aventura",OnDemand | Mogli O Menino Lobo
+http://142.44.128.231:25461/movie/drade30/3030/894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Senhor dos Aneis - O Retorno do Rei" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-senhor-dos-aneis-o-retorno-do-rei-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Senhor dos Aneis - O Retorno do Rei
+http://142.44.128.231:25461/movie/drade30/3030/2766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Mindhorn" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Mindhorn-Assistir-Online.jpg" group-title="Comedia",OnDemand | Mindhorn
+http://142.44.128.231:25461/movie/drade30/3030/3026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Minions" tvg-logo="http://www.dvdsreleasedates.com/posters/800/M/Minions-2015-movie-poster.jpg" group-title="Animacao",OnDemand | Minions
+http://142.44.128.231:25461/movie/drade30/3030/893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Dragao do Natal" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-dragao-do-natal-assistir-online-iptv.jpg" group-title="Aventura",OnDemand | O Dragao do Natal
+http://142.44.128.231:25461/movie/drade30/3030/2759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Batman Sangue Ruim" tvg-logo="https://2.bp.blogspot.com/-s9mkMGkaFM0/VtOYLZeQfOI/AAAAAAAAA9M/JA7oKdwU3ks/s1600/p12462349_p_v8_aa.jpg" group-title="Animacao",OnDemand | Batman Sangue Ruim
+http://142.44.128.231:25461/movie/drade30/3030/835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Barbie em um Mundo de VideoGame" tvg-logo="https://iptvwebcsgo.com/images/VOD/Barbie-Em-Um-Mundo-De-Video-Game-iptv.jpg" group-title="Animacao",OnDemand | Barbie em um Mundo de VideoGame
+http://142.44.128.231:25461/movie/drade30/3030/2756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Jovens Titas O Contrato de Judas" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Jovens-Titas-O-Contrato-de-Judas-Assistir-Online.jpg" group-title="Animacao",OnDemand | Jovens Titas O Contrato de Judas
+http://142.44.128.231:25461/movie/drade30/3030/2813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | John Wick 2: Um Novo Dia Para Matar" tvg-logo="http://listaiptv.online/images/VOD/John-Wick-Um-Novo-Dia-Para-Matar-Assistir-Online.jpg" group-title="Acao",OnDemand | John Wick 2: Um Novo Dia Para Matar
+http://142.44.128.231:25461/movie/drade30/3030/3027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Jurassic World O Mundo dos Dinossauros" tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/Jurassic-World-poster-19Abr2015.jpg" group-title="Aventura",OnDemand | Jurassic World O Mundo dos Dinossauros
+http://142.44.128.231:25461/movie/drade30/3030/882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Deadpool" tvg-logo="http://expressocultural.com/wp-content/uploads/2016/03/deadpool-capa.jpg" group-title="Acao",OnDemand | Deadpool
+http://142.44.128.231:25461/movie/drade30/3030/854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Kubo e as Cordas Mágicas" tvg-logo="https://iptvwebcsgo.com/images/VOD2/kubo-e-as-cordas-mgicas-iptv-vod.jpg" group-title="Animacao",OnDemand | Kubo e as Cordas Mágicas
+http://142.44.128.231:25461/movie/drade30/3030/2753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Lego Friend Girlz 4 Life" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81%2BEOIBd%2BGL._SL1500_.jpg" group-title="Animacao",OnDemand | Lego Friend Girlz 4 Life
+http://142.44.128.231:25461/movie/drade30/3030/886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Liga da Justica vs Jovens Titans" tvg-logo="http://image.tmdb.org/t/p/original/iyjBPHj1xBNGM44Wp7BQqMqnN5y.jpg" group-title="Animacao",OnDemand | Liga da Justica vs Jovens Titans
+http://142.44.128.231:25461/movie/drade30/3030/887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Lion: Uma Jornada Para Casa" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Lion.jpg" group-title="Drama",OnDemand | Lion: Uma Jornada Para Casa
+http://142.44.128.231:25461/movie/drade30/3030/3024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Logan" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Logan-Assistir-Online.jpg" group-title="Acao",OnDemand | Logan
+http://142.44.128.231:25461/movie/drade30/3030/2817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Lego DC Comics Super Herois LJ Combate Cosmico" tvg-logo="https://2.bp.blogspot.com/-oVLLDXPbKDk/V7TJPObfo7I/AAAAAAAADFw/L5W64-rTrMs66A-lZ4TrWArcXtEE-U02QCLcB/s1600/Lego-DC-Comics-Super-Heroes-Justice-League-Cosmic-Clash-2016-movie-poster.jpg" group-title="Animacao",OnDemand | Lego DC Comics Super Herois LJ Combate Cosmico
+http://142.44.128.231:25461/movie/drade30/3030/885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | John Wick 1 - [De Volta ao Jogo]" tvg-logo="https://listaiptv.online/images/VOD/De-Volta-ao-Jogo.jpg" group-title="Acao",OnDemand | John Wick 1 - [De Volta ao Jogo]
+http://142.44.128.231:25461/movie/drade30/3030/3035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Kung Fu Panda Segredos do Pergaminho" tvg-logo="https://4.bp.blogspot.com/-ovb4803tCYA/VvwxVchL2LI/AAAAAAAABDM/jNnHgKXPYjwOSshfTD9OCfoY0HVb5xDIA/s1600/Kung%2BFu%2BPanda%2B-%2BSegredos%2Bdo%2BPergaminho%2B%25282016%2529.jpg" group-title="Animacao",OnDemand | Kung Fu Panda Segredos do Pergaminho
+http://142.44.128.231:25461/movie/drade30/3030/884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | La La Land - Cantando Estacoes - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/La-La-Land-Assistitr-Online.jpg" group-title="Romance",OnDemand | La La Land - Cantando Estacoes - LEG
+http://142.44.128.231:25461/movie/drade30/3030/2789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Lego Batman O Filme" tvg-logo="http://listaiptv.online/images/VOD/The-Lego-Batman-Assistir-Online.jpg" group-title="Animacao",OnDemand | Lego Batman O Filme
+http://142.44.128.231:25461/movie/drade30/3030/3028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cacadores de Emocao Alem do Limite" tvg-logo="https://4.bp.blogspot.com/-mx1KLRqY6YE/Vtdw641RPJI/AAAAAAAAVf8/gfEl9MwCBIM/s1600/Ca%25C3%25A7adores%2Bde%2BEmo%25C3%25A7ao%2B-%2BAlem%2Bdo%2BLimite.jpg" group-title="Acao",OnDemand | Cacadores de Emocao Alem do Limite
+http://142.44.128.231:25461/movie/drade30/3030/838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Genios do Crime" tvg-logo="http://br.web.img3.acsta.net/pictures/15/08/28/21/58/041768.jpg" group-title="Comedia",OnDemand | Genios do Crime
+http://142.44.128.231:25461/movie/drade30/3030/1167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Horizonte Profundo - Desastre no Golfo" tvg-logo="http://br.web.img3.acsta.net/pictures/16/11/14/16/43/487715.jpg" group-title="Acao",OnDemand | Horizonte Profundo - Desastre no Golfo
+http://142.44.128.231:25461/movie/drade30/3030/2737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Independence Day o Ressurgimento" tvg-logo="https://static.omelete.uol.com.br/media/filer_public/3c/71/3c71d9d8-e39f-4ede-997b-492b9bbaba4c/download.jpg" group-title="Ficcao cientifica",OnDemand | Independence Day o Ressurgimento
+http://142.44.128.231:25461/movie/drade30/3030/875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Iboy" tvg-logo="https://iptvwebcsgo.com/images/VOD2/iBoyPoster.jpg" group-title="Acao",OnDemand | Iboy
+http://142.44.128.231:25461/movie/drade30/3030/2820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Goosebumps Monstros e Arrepios" tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/15/16/04/433352.jpg" group-title="Aventura",OnDemand | Goosebumps Monstros e Arrepios
+http://142.44.128.231:25461/movie/drade30/3030/868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Jason Bourne 2016" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/21/09/42/573260.jpg" group-title="Acao",OnDemand | Jason Bourne 2016
+http://142.44.128.231:25461/movie/drade30/3030/878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Invocacao do Mal 2" tvg-logo="http://br.web.img3.acsta.net/pictures/16/04/18/20/43/025084.jpg" group-title="Terror",OnDemand | Invocacao do Mal 2
+http://142.44.128.231:25461/movie/drade30/3030/876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Inferno" tvg-logo="http://pics.filmaffinity.com/inferno-993771440-large.jpg" group-title="Suspense",OnDemand | Inferno
+http://142.44.128.231:25461/movie/drade30/3030/1168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Imperium Resistencia Sem Lider" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Imperium-Assistir-Online.jpg" group-title="Suspense",OnDemand | Imperium Resistencia Sem Lider
+http://142.44.128.231:25461/movie/drade30/3030/3023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Hotel Transylvania 2" tvg-logo="http://1.bp.blogspot.com/-Mkyc06bG4jA/VgtDI-pT3wI/AAAAAAAATmQ/75J6NzWLDZY/s1600/Hotel%2BTransilvania%2B2.jpg" group-title="Animacao",OnDemand | Hotel Transylvania 2
+http://142.44.128.231:25461/movie/drade30/3030/874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Caes de Guerra" tvg-logo="http://br.web.img2.acsta.net/pictures/16/07/05/15/49/383591.jpg" group-title="Comedia",OnDemand | Caes de Guerra
+http://142.44.128.231:25461/movie/drade30/3030/853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Capitao Fantastico" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Capitao-Fantastico-assistir-online-iptv.jpg" group-title="Drama",OnDemand | Capitao Fantastico
+http://142.44.128.231:25461/movie/drade30/3030/2773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Fim da Linha" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Fim-da-Linha-Assistir-Online.jpg" group-title="Acao",OnDemand | Fim da Linha
+http://142.44.128.231:25461/movie/drade30/3030/2811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Fragmentado" tvg-logo="https://iptvwebcsgo.com/images/VOD2/fragmentado-assistir-online-iptv.jpg" group-title="Terror",OnDemand | Fragmentado
+http://142.44.128.231:25461/movie/drade30/3030/2772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Estrelas Alem do Tempo" tvg-logo="http://assets.caixabelasartes.com.br/wp-content/uploads/2017/02/Estrelas-Alem-do-Tempo-Cartaz.jpg" group-title="Drama",OnDemand | Estrelas Alem do Tempo
+http://142.44.128.231:25461/movie/drade30/3030/2744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Eu Deus e Bin Laden" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Eu-Deus-e-Bin-Laden.jpg" group-title="Comedia",OnDemand | Eu Deus e Bin Laden
+http://142.44.128.231:25461/movie/drade30/3030/2802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Call of Duty Fora de Alcance" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Call-to-Duty-Fora-de-Alcance-iptv.jpg" group-title="Acao",OnDemand | Call of Duty Fora de Alcance
+http://142.44.128.231:25461/movie/drade30/3030/2752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Desnorteados" tvg-logo="https://2.bp.blogspot.com/-cRqMEYAsVEU/V8_Il9vJXJI/AAAAAAAABbQ/XyREd3llZ8020yR5hTnSr0ApsZYB7FxuQCLcB/s1600/Perdiendo-el-norte.jpg" group-title="Comedia",OnDemand | Desnorteados
+http://142.44.128.231:25461/movie/drade30/3030/855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Dois Virgens na América" tvg-logo="https://iptvwebcsgo.com/images/VOD2/dois-virgens-na-america-iptv.jpg" group-title="Comedia",OnDemand | Dois Virgens na América
+http://142.44.128.231:25461/movie/drade30/3030/2754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Divertidamente" tvg-logo="http://3.bp.blogspot.com/-XF__MHrSXS0/VgtBtbWX_VI/AAAAAAAATmE/VS0h_nPgnAg/s1600/Divertida%2BMente.jpg" group-title="Animacao",OnDemand | Divertidamente
+http://142.44.128.231:25461/movie/drade30/3030/860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Deuses do Egito" tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/14/13/03/358252.jpg" group-title="Aventura",OnDemand | Deuses do Egito
+http://142.44.128.231:25461/movie/drade30/3030/858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Diablo" tvg-logo="http://br.web.img2.acsta.net/pictures/15/12/17/13/48/005524.jpg" group-title="Acao",OnDemand | Diablo
+http://142.44.128.231:25461/movie/drade30/3030/859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Deus Nao Esta Morto" tvg-logo="http://br.web.img2.acsta.net/pictures/14/07/09/16/27/398352.jpg" group-title="Drama",OnDemand | Deus Nao Esta Morto
+http://142.44.128.231:25461/movie/drade30/3030/857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Deus Nao Esta Morto 2" tvg-logo="http://topdezfilmes.org/wp-content/uploads/2016/08/Deus-N%C3%A3o-Est%C3%A1-Morto-2-Gods-Not-Dead-2.jpg" group-title="Drama",OnDemand | Deus Nao Esta Morto 2
+http://142.44.128.231:25461/movie/drade30/3030/856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Esquadrao Suicida" tvg-logo="http://www.cinemadebuteco.com.br/wp-content/uploads/2016/08/poster-esquadrao-suicida.jpg" group-title="Acao",OnDemand | Esquadrao Suicida
+http://142.44.128.231:25461/movie/drade30/3030/865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Duelo de Cordas" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Duelo-de-Cordas-Assistir-Online.jpg" group-title="Romance",OnDemand | Duelo de Cordas
+http://142.44.128.231:25461/movie/drade30/3030/3022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Beleza Oculta" tvg-logo="http://seriesemcena.com.br/wp-content/uploads/2016/10/belezaoculta-1.jpg" group-title="Drama",OnDemand | Beleza Oculta
+http://142.44.128.231:25461/movie/drade30/3030/2731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Jogos Vorazes A Esperanca O Final" tvg-logo="https://previamente.files.wordpress.com/2015/11/jogos-vorazes-a-esperanc3a7a-o-final-pc3b4ster.jpg" group-title="Aventura",OnDemand | Jogos Vorazes A Esperanca O Final
+http://142.44.128.231:25461/movie/drade30/3030/881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cinquenta Tons Mais Escuros" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Cinquenta-Tons-Mais-Escuros-assistir-online-iptv.jpg" group-title="Romance",OnDemand | Cinquenta Tons Mais Escuros
+http://142.44.128.231:25461/movie/drade30/3030/2771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cidades de Papel" tvg-logo="http://trechosdelivros.com/wp-content/uploads/2015/07/poster-cidades-de-papel.jpg" group-title="Romance",OnDemand | Cidades de Papel
+http://142.44.128.231:25461/movie/drade30/3030/842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Como Sobreviver a um Ataque Zumbi" tvg-logo="http://br.web.img2.acsta.net/pictures/15/08/26/16/22/341317.jpg" group-title="Comedia",OnDemand | Como Sobreviver a um Ataque Zumbi
+http://142.44.128.231:25461/movie/drade30/3030/850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Batman Vs Superman a Origem da Justica" tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/05/98/d6/0598d64ee56d97b28e3ba323135c6423.jpg" group-title="Acao",OnDemand | Batman Vs Superman a Origem da Justica
+http://142.44.128.231:25461/movie/drade30/3030/848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Bruxa de Blair" tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2016/08/POSTERBR_TEASER_BRUXA_DE_BLAIR-760x1111.jpg" group-title="Terror",OnDemand | Bruxa de Blair
+http://142.44.128.231:25461/movie/drade30/3030/2741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cegonhas" tvg-logo="http://cinespaco.com.br/_img/_fotos_galerias/629.jpg" group-title="Animacao",OnDemand | Cegonhas
+http://142.44.128.231:25461/movie/drade30/3030/2531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Bob Esponja Um Heroi Fora D agua" tvg-logo="http://br.web.img3.acsta.net/pictures/14/12/22/09/59/355468.jpg" group-title="Animacao",OnDemand | Bob Esponja Um Heroi Fora D agua
+http://142.44.128.231:25461/movie/drade30/3030/836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ben-Hur" tvg-logo="http://cinea.com.br/Images/Movies/113.jpg" group-title="Acao",OnDemand | Ben-Hur
+http://142.44.128.231:25461/movie/drade30/3030/2724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cinquenta Tons de Cinza" tvg-logo="http://1.bp.blogspot.com/-XA1RNJm6NKY/VOJjTbrtUdI/AAAAAAAAGKI/ahGiVXakGCE/s1600/poster%2Bfilme%2Bcinquenta%2Btons.jpg" group-title="Romance",OnDemand | Cinquenta Tons de Cinza
+http://142.44.128.231:25461/movie/drade30/3030/843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cafe Society" tvg-logo="https://www.cinematerial.com/media/posters/md/2d/2dtl6yrm.jpg?v=1470044516" group-title="Romance",OnDemand | Cafe Society
+http://142.44.128.231:25461/movie/drade30/3030/2749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cinquenta Tons de Preto | Dublado" tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/22/13/12/507057.jpg" group-title="Comedia",OnDemand | Cinquenta Tons de Preto | Dublado
+http://142.44.128.231:25461/movie/drade30/3030/802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Frank e Lola" tvg-logo="https://iptvwebcsgo.com/images/VOD2/frank-e-lola-assistir-online-iptv.jpg" group-title="Drama",OnDemand | Frank e Lola
+http://142.44.128.231:25461/movie/drade30/3030/2786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Assassino a Preco Fixo 2" tvg-logo="http://br.web.img2.acsta.net/pictures/16/07/07/18/06/104239.jpg" group-title="Acao",OnDemand | Assassino a Preco Fixo 2
+http://142.44.128.231:25461/movie/drade30/3030/828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ate o Ultimo Homem" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Ate-O-Ultimo-Homem-Assistir-Online.jpg" group-title="Drama",OnDemand | Ate o Ultimo Homem
+http://142.44.128.231:25461/movie/drade30/3030/2790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Barbie Aventura nas Estrelas" tvg-logo="http://megafilmesonline.net/wp-content/uploads/2016/09/Barbie-Aventura-nas-Estrelas-Dublado.jpg" group-title="Animacao",OnDemand | Barbie Aventura nas Estrelas
+http://142.44.128.231:25461/movie/drade30/3030/830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Andron" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Andron.jpg" group-title="Ficcao cientifica",OnDemand | Andron
+http://142.44.128.231:25461/movie/drade30/3030/3025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Alvin e os Esquilos Na Estrada" tvg-logo="https://iptvwebcsgo.com/images/VOD/Alvin-e-os-Esquilos-Na-Estrada-IPTV.jpg" group-title="Comedia",OnDemand | Alvin e os Esquilos Na Estrada
+http://142.44.128.231:25461/movie/drade30/3030/820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ate Que a Sorte nos Separe 3" tvg-logo="http://br.web.img3.acsta.net/pictures/15/12/01/12/49/214995.jpg" group-title="Comedia",OnDemand | Ate Que a Sorte nos Separe 3
+http://142.44.128.231:25461/movie/drade30/3030/829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Angry Birds  | O Filme" tvg-logo="http://megafilmesonline.net/wp-content/uploads/2016/05/Angry-Birds.jpg" group-title="Animacao",OnDemand | Angry Birds  | O Filme
+http://142.44.128.231:25461/movie/drade30/3030/822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Animais Fantasticos e Onde Habitam DUB" tvg-logo="http://www.estrelando.com.br/uploads/2016/06/20/animaisfantasticosposter-divulga-o-1466432040.jpg" group-title="Aventura",OnDemand | Animais Fantasticos e Onde Habitam DUB
+http://142.44.128.231:25461/movie/drade30/3030/2733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | As Caca Fantasmas" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/13/15/19/283746.jpg" group-title="Comedia",OnDemand | As Caca Fantasmas
+http://142.44.128.231:25461/movie/drade30/3030/824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | As Tartarugas Ninjas Fora das Sombras" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Tartarugas_Ninja_Fora_das_Sombras.jpg" group-title="Aventura",OnDemand | As Tartarugas Ninjas Fora das Sombras
+http://142.44.128.231:25461/movie/drade30/3030/825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Anjos da Noite - Guerra de Sangue" tvg-logo="http://br.web.img3.acsta.net/pictures/16/09/13/10/01/479417.jpg" group-title="Acao",OnDemand | Anjos da Noite - Guerra de Sangue
+http://142.44.128.231:25461/movie/drade30/3030/2722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | As Aventuras de Robinson Crusoe" tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/24/09/11/213315.jpg" group-title="Animacao",OnDemand | As Aventuras de Robinson Crusoe
+http://142.44.128.231:25461/movie/drade30/3030/2755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Assassin's Creed" tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2016/10/assassins-creed-movie-poster-760x1127.jpg" group-title="Acao",OnDemand | Assassin's Creed
+http://142.44.128.231:25461/movie/drade30/3030/2734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Lenda de Tarzan" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcQIrAcciz7nTNzR0Vx9wUEtbHziG5FiBahhwq5xvRsGENChe_Eu" group-title="Acao",OnDemand | A Lenda de Tarzan
+http://142.44.128.231:25461/movie/drade30/3030/806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Cabana" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/03/10/37/384098.jpg" group-title="Drama",OnDemand | A Cabana
+http://142.44.128.231:25461/movie/drade30/3030/3032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Ultima Ressaca do Ano." tvg-logo="https://i2.wp.com/www.plugou.com/wp-content/uploads/2016/10/ultima-ressaca-do-ano-cartaz.jpg?resize=882%2C1306" group-title="Comedia",OnDemand | A Ultima Ressaca do Ano.
+http://142.44.128.231:25461/movie/drade30/3030/2728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Grande Muralha" tvg-logo="http://image.tmdb.org/t/p/original/vQmGMhUeQPg2QU4NS2bl7bkI7d2.jpg" group-title="Acao",OnDemand | A Grande Muralha
+http://142.44.128.231:25461/movie/drade30/3030/2784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Chegada" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/19/01/57/552532.jpg" group-title="Ficcao cientifica",OnDemand | A Chegada
+http://142.44.128.231:25461/movie/drade30/3030/2721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Aliados" tvg-logo="http://cinecinemania.com.br/wp-content/uploads/2016/11/ALL_INTL_DGTL_1_SHT_BRA.jpg" group-title="Acao",OnDemand | Aliados
+http://142.44.128.231:25461/movie/drade30/3030/2743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Serie Divergente Convergente" tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/22/15/04/196967.jpg" group-title="Acao",OnDemand | A Serie Divergente Convergente
+http://142.44.128.231:25461/movie/drade30/3030/808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Lei da Noite" tvg-logo="https://i.imgur.com/kyvf229.jpg" group-title="Acao",OnDemand | A Lei da Noite
+http://142.44.128.231:25461/movie/drade30/3030/2747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Alice Atraves do Espelho" tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/15/22/40/327086.jpg" group-title="Aventura",OnDemand | Alice Atraves do Espelho
+http://142.44.128.231:25461/movie/drade30/3030/819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Luz Entre Oceanos" tvg-logo="http://br.web.img3.acsta.net/pictures/16/10/18/23/38/086160.jpg" group-title="Romance",OnDemand | A Luz Entre Oceanos
+http://142.44.128.231:25461/movie/drade30/3030/2748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Garota do trem" tvg-logo="http://br.web.img3.acsta.net/pictures/16/08/16/21/02/177564.jpg" group-title="Suspense",OnDemand | A Garota do trem
+http://142.44.128.231:25461/movie/drade30/3030/2727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Fraternidade" tvg-logo="https://iptvwebcsgo.com/images/VOD2/A-Fraternidade-Assistir-Online.jpg" group-title="Comedia",OnDemand | A Fraternidade
+http://142.44.128.231:25461/movie/drade30/3030/2809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M11 - Vingadores Era de Ultron" tvg-logo="https://iptvwebcsgo.com/images/VOD/vingadores-era-de-ultron-iptv.jpg" group-title="Marvel",OnDemand | M11 - Vingadores Era de Ultron
+http://142.44.128.231:25461/movie/drade30/3030/939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Bela e a Fera" tvg-logo="https://iptvwebcsgo.com/images/VOD2/A-Bela-e-a-Fera-Assistir-Online.jpg" group-title="Romance",OnDemand | A Bela e a Fera
+http://142.44.128.231:25461/movie/drade30/3030/3082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Power Rangers" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Power-Rangers-Assistir-Online.jpg" group-title="Acao",OnDemand | Power Rangers
+http://142.44.128.231:25461/movie/drade30/3030/3080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M1 - Homem de Ferro" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Homem-de-Ferro-1-Assistir-Online.jpg" group-title="Marvel",OnDemand | M1 - Homem de Ferro
+http://142.44.128.231:25461/movie/drade30/3030/3086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M10 - Guardioes da Galaxia" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Guardioes-da-Galaxia-1-Assistir-Online.jpg" group-title="Marvel",OnDemand | M10 - Guardioes da Galaxia
+http://142.44.128.231:25461/movie/drade30/3030/3090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M4 - Thor" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Thor-1-Assistir-Online.jpg" group-title="Marvel",OnDemand | M4 - Thor
+http://142.44.128.231:25461/movie/drade30/3030/3087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M8 - Thor 2: O Mundo Sombrio" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Thor-2-Assistir-Online.jpg" group-title="Marvel",OnDemand | M8 - Thor 2: O Mundo Sombrio
+http://142.44.128.231:25461/movie/drade30/3030/3088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | M9 - Capitao America 2: O Soldado Invernal" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Capitao-America-2-Assistir-Online.jpg" group-title="Marvel",OnDemand | M9 - Capitao America 2: O Soldado Invernal
+http://142.44.128.231:25461/movie/drade30/3030/3089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Sete Homens e um Destino" tvg-logo="https://iptvwebcsgo.com/images/VOD2/sete-homens-e-um-destino-iptv.jpg" group-title="Acao",OnDemand | Sete Homens e um Destino
+http://142.44.128.231:25461/movie/drade30/3030/3091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Conexao Escobar" tvg-logo="https://iptvwebcsgo.com/images/VOD/Conexao-Escobar-iptv.jpg" group-title="Suspense",OnDemand | Conexao Escobar
+http://142.44.128.231:25461/movie/drade30/3030/3092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Kong: A Ilha da Caveira" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Kong-A-Ilha-da-Caveira-Assistir-Online.jpg" group-title="Acao",OnDemand | Kong: A Ilha da Caveira
+http://142.44.128.231:25461/movie/drade30/3030/3093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Pedro A Redencao" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Pedro-A-Redencao.jpg" group-title="Drama",OnDemand | Pedro A Redencao
+http://142.44.128.231:25461/movie/drade30/3030/3095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Fome de Poder" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Fome-de-Poder.jpg" group-title="Drama",OnDemand | Fome de Poder
+http://142.44.128.231:25461/movie/drade30/3030/3094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Chips" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Chips-Assistir-Online.jpg" group-title="Comedia",OnDemand | Chips
+http://142.44.128.231:25461/movie/drade30/3030/3101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Jose e Maria" tvg-logo="https://iptvwebcsgo.com/images/VOD2/unnamed.jpg" group-title="Drama",OnDemand | Jose e Maria
+http://142.44.128.231:25461/movie/drade30/3030/3100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Caes Selvagens" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Caes-Selvagens.jpg" group-title="Acao",OnDemand | Caes Selvagens
+http://142.44.128.231:25461/movie/drade30/3030/3099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Os Smurfs e a Vila Perdida" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Smurfs-e-a-vila-perdida-assitir-online.jpg" group-title="Animacao",OnDemand | Os Smurfs e a Vila Perdida
+http://142.44.128.231:25461/movie/drade30/3030/3102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Poderoso Chefinho" tvg-logo="https://iptvwebcsgo.com/images/VOD2/O-Poderoso-Chefinho.jpg" group-title="Animacao",OnDemand | O Poderoso Chefinho
+http://142.44.128.231:25461/movie/drade30/3030/3103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Mulher Maravilha - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Mulher-Maravilha-Assitir-Online.jpg" group-title="Acao",OnDemand | Mulher Maravilha - LEG
+http://142.44.128.231:25461/movie/drade30/3030/3113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Rei Arthur: A Lenda da Espada" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Rei-Arthur-Assistir-Online.jpg" group-title="Acao",OnDemand | Rei Arthur: A Lenda da Espada
+http://142.44.128.231:25461/movie/drade30/3030/3114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Mumia 2017 - LEG" tvg-logo="http://br.web.img3.acsta.net/pictures/17/04/18/19/09/596203.jpg" group-title="Acao",OnDemand | A Mumia 2017 - LEG
+http://142.44.128.231:25461/movie/drade30/3030/3115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Vigilante do Amanha" tvg-logo="https://ae01.alicdn.com/kf/HTB19.McRXXXXXXpaXXXq6xXFXXXs/-font-b-DIY-b-font-font-b-frame-b-font-Ghost-in-the-Shell-2017.jpg" group-title="Acao",OnDemand | A Vigilante do Amanha
+http://142.44.128.231:25461/movie/drade30/3030/3117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | DuckTales: O Tesouro da Lampada Perdida" tvg-logo="https://image.tmdb.org/t/p/original/q3Qkf2vcZQLQfI7K4DctNJWWBbA.jpg" group-title="Animacao",OnDemand | DuckTales: O Tesouro da Lampada Perdida
+http://142.44.128.231:25461/movie/drade30/3030/3119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Resident Evil: Vendetta" tvg-logo="https://fesapusewebsite.blob.core.windows.net/fathom/resident-evil-poster-1-c1a88c9ff818308fec3483323cc5839b.jpg" group-title="Animacao",OnDemand | Resident Evil: Vendetta
+http://142.44.128.231:25461/movie/drade30/3030/3118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vida Dupla" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/910rLzrGntL._SL1500_.jpg" group-title="Suspense",OnDemand | Vida Dupla
+http://142.44.128.231:25461/movie/drade30/3030/3122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | S0701 - Dragonstone" tvg-logo="https://i0.wp.com/buddybits.com/wp-content/uploads/2016/11/2-Game-of-Thrones-Season-7-Fan-Made-Posters.jpg" group-title="GoT",OnDemand | S0701 - Dragonstone
+http://142.44.128.231:25461/movie/drade30/3030/3127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | American Pie 1" tvg-logo="https://iptvwebcsgo.com/images/VOD2/American-Pie-1.jpg" group-title="Comedia",OnDemand | American Pie 1
+http://142.44.128.231:25461/movie/drade30/3030/3131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | American Pie 2" tvg-logo="https://iptvwebcsgo.com/images/VOD2/American-Pie-2.jpg" group-title="Comedia",OnDemand | American Pie 2
+http://142.44.128.231:25461/movie/drade30/3030/3132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | American Pie 3" tvg-logo="https://iptvwebcsgo.com/images/VOD2/American-Pie-3.jpg" group-title="Comedia",OnDemand | American Pie 3
+http://142.44.128.231:25461/movie/drade30/3030/3133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | American Pie 4" tvg-logo="https://iptvwebcsgo.com/images/VOD2/American-Pie-4.jpg" group-title="Comedia",OnDemand | American Pie 4
+http://142.44.128.231:25461/movie/drade30/3030/3134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Alien Covenant" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Alien_Covenant_cartaz.jpg" group-title="Ficcao cientifica",OnDemand | Alien Covenant
+http://142.44.128.231:25461/movie/drade30/3030/3135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Drone" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Drone.jpg" group-title="Suspense",OnDemand | Drone
+http://142.44.128.231:25461/movie/drade30/3030/3137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Despedida Em Grande Estilo" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Despedida-em-Grande-Estilo.jpg" group-title="Comedia",OnDemand | Despedida Em Grande Estilo
+http://142.44.128.231:25461/movie/drade30/3030/3136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Fora da Trilha" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Fora-da-Trilha-2017.jpg" group-title="Acao",OnDemand | Fora da Trilha
+http://142.44.128.231:25461/movie/drade30/3030/3138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Leve Me" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Leve-me.jpg" group-title="Comedia",OnDemand | Leve Me
+http://142.44.128.231:25461/movie/drade30/3030/3139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | SuperBad - É Hoje" tvg-logo="https://iptvwebcsgo.com/images/VOD2/SuperBad.jpg" group-title="Comedia",OnDemand | SuperBad - É Hoje
+http://142.44.128.231:25461/movie/drade30/3030/3141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand |Harry Potter e a Câmera Secreta" tvg-logo="https://iptvwebcsgo.com/images/VOD2/HP2.jpg" group-title="Harry Potter",OnDemand |Harry Potter e a Câmera Secreta
+http://142.44.128.231:25461/movie/drade30/3030/3143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Harry Potter e a Pedra Filosofal" tvg-logo="https://iptvwebcsgo.com/images/VOD2/HP1.jpg" group-title="Harry Potter",OnDemand | Harry Potter e a Pedra Filosofal
+http://142.44.128.231:25461/movie/drade30/3030/3142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Harry Potter e a Ordem da Fenix" tvg-logo="https://iptvwebcsgo.com/images/VOD2/HP5.jpg" group-title="Harry Potter",OnDemand | Harry Potter e a Ordem da Fenix
+http://142.44.128.231:25461/movie/drade30/3030/3146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Harry Potter e as Reliquias da Morte Parte 1" tvg-logo="https://iptvwebcsgo.com/images/VOD2/HP7.1.jpg" group-title="Harry Potter",OnDemand | Harry Potter e as Reliquias da Morte Parte 1
+http://142.44.128.231:25461/movie/drade30/3030/3148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Harry Potter e as Reliquias da Morte Parte 2" tvg-logo="https://iptvwebcsgo.com/images/VOD2/HP7.2.jpg" group-title="Harry Potter",OnDemand | Harry Potter e as Reliquias da Morte Parte 2
+http://142.44.128.231:25461/movie/drade30/3030/3149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Harry Potter e O Calice de Fogo" tvg-logo="https://iptvwebcsgo.com/images/VOD2/HP4.jpg" group-title="Harry Potter",OnDemand | Harry Potter e O Calice de Fogo
+http://142.44.128.231:25461/movie/drade30/3030/3145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Harry Potter e o Enigma do Principe" tvg-logo="https://iptvwebcsgo.com/images/VOD2/HP6.jpg" group-title="Harry Potter",OnDemand | Harry Potter e o Enigma do Principe
+http://142.44.128.231:25461/movie/drade30/3030/3147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Harry Potter e O Prisioneiro de Azkaban" tvg-logo="https://iptvwebcsgo.com/images/VOD2/HP3.jpg" group-title="Harry Potter",OnDemand | Harry Potter e O Prisioneiro de Azkaban
+http://142.44.128.231:25461/movie/drade30/3030/3144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | S0701 - Dragonstone - LEG" tvg-logo="https://pmctvline2.files.wordpress.com/2017/05/game-of-thrones-season-7-poster-night-king.jpg" group-title="GoT",OnDemand | S0701 - Dragonstone - LEG
+http://142.44.128.231:25461/movie/drade30/3030/3150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | S07E02 - Stormborn" tvg-logo="https://i0.wp.com/buddybits.com/wp-content/uploads/2016/11/2-Game-of-Thrones-Season-7-Fan-Made-Posters.jpg" group-title="GoT",Ondemand | S07E02 - Stormborn
+http://142.44.128.231:25461/movie/drade30/3030/3338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | S0702 - Stormborn - LEG" tvg-logo="https://pmctvline2.files.wordpress.com/2017/05/game-of-thrones-season-7-poster-night-king.jpg" group-title="GoT",OnDemand | S0702 - Stormborn - LEG
+http://142.44.128.231:25461/movie/drade30/3030/3340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | As Branquelas" tvg-logo="https://iptvwebcsgo.com/images/VOD2/AsBranquelas.jpg" group-title="Comedia",OnDemand | As Branquelas
+http://142.44.128.231:25461/movie/drade30/3030/3341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Uma Carta de Amor" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/96/19/20498992.jpg" group-title="Romance",OnDemand | Uma Carta de Amor
+http://142.44.128.231:25461/movie/drade30/3030/3344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Rock Dog" tvg-logo="http://br.web.img3.acsta.net/pictures/16/09/21/10/07/450263.jpg" group-title="Animacao",OnDemand | Rock Dog
+http://142.44.128.231:25461/movie/drade30/3030/3346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Real: O Plano por Trás da História" tvg-logo="https://static.omelete.uol.com.br/media/filer_public/fc/08/fc08a420-a286-40f9-aca8-23aa9bfb2f09/cartazfinalreal.jpg" group-title="Drama",OnDemand | Real: O Plano por Trás da História
+http://142.44.128.231:25461/movie/drade30/3030/3347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Amar" tvg-logo="http://lista.sv1.tv:25461/images/5479616.jpg" group-title="Romance",OnDemand | Amar
+http://142.44.128.231:25461/movie/drade30/3030/3345.mp4
