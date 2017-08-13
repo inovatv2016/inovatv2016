@@ -1,0 +1,6 @@
+<item><name>[COLOR gold][B]Exclusivo 01 - Br CANAIS H265 1080P [/B][/COLOR]</name><link>http://178.132.3.50:15000/get.php?username=tor&password=123&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://144.217.79.160:8505/get.php?username=JorgeO&password=SFUJH9qVD3&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 03 - Br [/B][/COLOR]</name><link>http://142.44.128.231:25461/get.php?username=abraham.carvalhoo@gmail.com&password=V3eDeWZqop&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 04 - Br [/B][/COLOR]</name><link>http://144.217.79.160:8505/get.php?username=JorgeO&password=SFUJH9qVD3&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 05 - Br [/B][/COLOR]</name><link>http://142.44.128.231:25461/get.php?username=abraham.carvalhoo@gmail.com&password=V3eDeWZqop&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 06 - Br [/B][/COLOR]</name><link>http://mundogf.dyndns.tv:25461/get.php?username=programador&password=ICin4JD3tI&type=m3u_plus&output=ts</link></item>
