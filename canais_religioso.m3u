@@ -1,0 +1,620 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://i63.tinypic.com/2utq22q.jpg" group-title="Categorias", RELIGIOSOS:
+swfUrl= pageUrl=
+ 
+#EXTINF:-1 tvg-logo="gospel001" tvg-logo="http://i62.tinypic.com/2lj22va.jpg" group-title="RELIGIOSOS", ADinet TV 
+http://stmv2.srvstm.com/adinet/adinet/playlist.m3u8?gpctv
+
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i67.tinypic.com/21jtbmw.jpg" group-title="RELIGIOSOS", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i67.tinypic.com/352q814.jpg" group-title="RELIGIOSOS", Boas Novas (REDE)
+http://api.new.livestream.com/accounts/722680/events/7017449/live.m3u8
+
+#EXTINF:-1 tvg-logo="aparecida" tvg-logo="http://i62.tinypic.com/2d0ibv5.jpg" group-title="RELIGIOSOS", Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="iurd" tvg-logo="http://i59.tinypic.com/2dc7go1.jpg" group-title="RELIGIOSOS", IURD TV
+http://xiurdtveux.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="CnoVA" tvg-logo="http://i62.tinypic.com/24l7ns4.jpg" group-title="RELIGIOSOS", Cancao Nova HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="cristovive" tvg-logo="http://i58.tinypic.com/er0mu0.jpg" group-title="RELIGIOSOS", CRISTO VIVE
+rtmp://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115 TV 
+
+#EXTINF:-1 tvg-logo="RCR" tvg-logo="https://sites.google.com/site/gpctvonline/iptv/TVAD.jpg?attredirects=0" group-title="RELIGIOSOS", TV AD Mossoró
+http://streaming59.sitehosting.com.br:1935/tvad/tvad/chunklist_w789239529.m3u8
+
+#EXTINF:-1 tvg-logo="tv00evan" tvg-logo="http://i66.tinypic.com/33fg6so.jpg" group-title="RELIGIOSOS", TVCI
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tv00evan" tvg-logo="http://oi66.tinypic.com/adiutt.jpg" group-title="RELIGIOSOS", RCI - Rede Catolicada Igreja
+rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
+
+#EXTINF:-1 tvg-logo="RCR" tvg-logo="http://i65.tinypic.com/19qkox.jpg" group-title="RELIGIOSOS", Rede Vida
+rtmp://rtmp.cdn.upx.net.br:80/74cc//myStream.sdp
+
+
+#EXTINF:-1 tvg-logo="redegoslpel" tvg-logo="http://i62.tinypic.com/2s9u6vr.jpg" group-title="RELIGIOSOS", REDE GOSPEL
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="RS21" tvg-logo="http://i60.tinypic.com/jky5o0.jpg" group-title="RELIGIOSOS", REDE SÉCULO 21
+http://257920-lh.akamaihd.net/i/TVSeculo21_hls@145741/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="TVGG" tvg-logo="http://i57.tinypic.com/b3vaz6.jpg" group-title="RELIGIOSOS", TV GIDEOES
+rtmp://streaming01.zas.media/gideoes/_definst_/mp4:programacao_360p
+
+#EXTINF:-1 tvg-logo="MUNDIAL" tvg-logo="http://i61.tinypic.com/2wnohvt.jpg" group-title="RELIGIOSOS", TV MUNDIAL
+http://impd.crossdigital.com.br:1935/impd/impd/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i58.tinypic.com/2i1z9g9.png" group-title="RELIGIOSOS", Fonte TV 
+http://flash.softhost.com.br:1935/fonte/fontetv.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i66.tinypic.com/15o7z34.png" group-title="RELIGIOSOS",TV Plenitude
+rtmp://srv9.zoeweb.tv/zw902//zw902
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i66.tinypic.com/dy56kw.jpg" group-title="RELIGIOSOS",Novo canal
+rtmp://live.sba1.com/livenc/livestream?adbe-live-event=liveevent
+
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i58.tinypic.com/avmq15.jpg" group-title="RELIGIOSOS",Rede Genesis
+rtmp://snt.sisdera.com/tvgenesis/aovivo.stream
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i62.tinypic.com/29f9i10.png" group-title="RELIGIOSOS", RIT TV
+http://flash1.crossdigital.com.br/ponto79//ongrace/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i59.tinypic.com/1zcdb47.jpg" group-title="RELIGIOSOS", Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i59.tinypic.com/v3d4ic.jpg" group-title="RELIGIOSOS", Vem&vê TV
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://www.lineup.net.br/canais/tvverdade.gif" group-title="RELIGIOSOS", TV Verdade
+rtmp://ocatv.mcgi.me/public/247_br
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i58.tinypic.com/105p6co.jpg" group-title="RELIGIOSOS", Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w377023153_b512000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i65.tinypic.com/2urb5w4.jpg" group-title="RELIGIOSOS",tvcrio
+http://streaming55.sitehosting.com.br:1935/guanabarasites/guanabarasites/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i67.tinypic.com/sbqxy8.jpg" group-title="RELIGIOSOS", TvCinec
+http://104.156.60.74:1935/tvcinec/tvcinec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i63.tinypic.com/3162sfp.jpg" group-title="RELIGIOSOS", tvadud
+http://70.38.71.93:1935/tvadud/tvadud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://www.marluscosta.com.br/wp-content/uploads/2012/09/46.jpg" group-title="RELIGIOSOS",TV Nova
+http://cdn-br-002938543.comets.com.br/novanordeste/aovivo/chunklist_w2062189796.m3u8
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i65.tinypic.com/2vwix09.jpg" group-title="RELIGIOSOS",Juce TV
+http://109.68.190.192:1935/WEB_JuceTV/ngrp:JuceTV.stream-adaptive/chunklist_w1180172763_b864000.m3u8
+
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i64.tinypic.com/154zimv.jpg" group-title="RELIGIOSOS",RBC TV
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_w1394611438_b600000.m3u8
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i63.tinypic.com/30kxamu.jpg" group-title="RELIGIOSOS", Canal UM
+http://nossatvhls01-lh.akamaihd.net/i/nossatv_hls@366619/index_400_av-p.m3u8?gpctv
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i67.tinypic.com/978rqr.jpg" group-title="RELIGIOSOS",canal das Igrejas
+http://nossatvhls03-lh.akamaihd.net/i/nossatv_hls@381920/index_600_av-p.m3u8?sd=10&rebase=on/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i67.tinypic.com/efkos8.jpg" group-title="RELIGIOSOS",Canal Show da Fé
+http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_200_av-p.m3u8?gpctv
+
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i60.tinypic.com/14ajzox.jpg" group-title="RELIGIOSOS",CJC HD
+http://nossatvhls03-lh.akamaihd.net/i/nossatv_hls@389008/index_400_av-p.m3u8?gpctv
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i60.tinypic.com/14ajzox.jpg" group-title="RELIGIOSOS",CJC
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/live.m3u8?gpctv
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i67.tinypic.com/352q814.jpg" group-title="RELIGIOSOS", Boas Novas AM
+http://streaming57.sitehosting.com.br/boas//boas/livestream.m3u8
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i65.tinypic.com/awfg2c.jpg" group-title="RELIGIOSOS",TV MCA
+rtmp://tv.zasmediastreaming.com.br/tvitajai/mca.sdp
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i64.tinypic.com/5e5p28.jpg" group-title="RELIGIOSOS", Portal GospelTV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="rit.png" tvg-logo="http://i66.tinypic.com/o0v72f.jpg" group-title="RELIGIOSOS", Sky Gospel Web TV
+http://fms.skyradios.com.br:1935/skylive/skylive/Anderson_Elias.m3u8
+
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i68.tinypic.com/20prd4x.jpg" group-title="RELIGIOSOS",TV Cidade Osasco
+rtmp://stream01.msolutionbrasil.com.br/tvcidadenet//live
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i64.tinypic.com/16jkokx.jpg" group-title="RELIGIOSOS",TV Osasco
+rtmp://stmv2.video.foxsolucoes.net/luis6478//luis6478
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i68.tinypic.com/2lna621.jpg" group-title="RELIGIOSOS", Santa Cecília TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8 
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i57.tinypic.com/o9mk5l.png" group-title="RELIGIOSOS", RBC TV
+http://flash1.crossdigital.com.br/ponto10//latina/live.m3u8
+
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i65.tinypic.com/2rwq3x0.jpg" group-title="RELIGIOSOS",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8 
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i63.tinypic.com/eki29s.jpg" group-title="RELIGIOSOS",TV União
+rtmp://192.99.101.129/tvuniao//tvuniao
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="https://goo.gl/ceNI0e" group-title="RELIGIOSOS",TV Feliz
+rtmp://tv.taaqui.org/redetvrn//redetvrn
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="https://goo.gl/1duuy2" group-title="RELIGIOSOS",Canal promessas
+rtmp://177.153.227.71/canal/cpro/stream
+
+
+#EXTINF:-1  tvg-logo="adenet.png" tvg-logo="http://i67.tinypic.com/16bwnq0.jpg" group-title="RELIGIOSOS",Itu tv
+rtmp://172.93.110.130/itutv//itutv
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="ANGOLA", TV MIRAMAR - RECORD ANGOLA
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvguara.png" group-title="JORNALISMO", RECORD NEWS TO
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/futura.png" group-title="CANAL ABERTO", FUTURA - TV UNIVATES HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w19089781.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvup.png" group-title="CANAL ABERTO", FUTURA TV UP
+http://caikron.com.br:8081/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/ngt.png" group-title="CANAL ABERTO", NGT RJ HD
+http://iphone-streaming.ustream.tv:80/uhls/14419615/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/ngt.png" group-title="CANAL ABERTO", NGT - TVTC
+http://streaming59.sitehosting.com.br:1935/tvtc/_definst_/tvtc/chunklist_w2043059567.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvmarajoara.png" group-title="CANAL ABERTO", TV MARAJOARA - REDE BRASIL
+http://104.156.60.74:1935/canal50/canal50/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/365defd359f0551f8ee7f7a21da916c2.png" group-title="CANAL ABERTO", TV Boa Esperança
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/200066cef78ac68d4f1c509ac742b1c6.jpg" group-title="CANAL ABERTO", Amazon Sat - Amazonas
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream1/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/8yz2d01r5/Logo_OK.png" group-title="CANAL ABERTO",Rede Petrópolis
+http://wz6.dnip.com.br:1935/california/california.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jy9ug0er1/TV_Gazeta.png" group-title="CANAL ABERTO",TV Gazeta HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redemeionorte.png" group-title="CANAL ABERTO", REDE MEIO NORTE
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/bhnewstv.png" group-title="VARIEDADES", BH NEWS
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/central.png" group-title="VARIEDADES", CENTRAL TV
+http://172.93.110.130:1935/rbt/rbt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="BFTV (26).PNG" tvg-logo="http://goo.gl/HTkZVc" group-title="NTERNACIONAIS", GOSPEL TV
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-gospelsc/_definst_/live/stream2.m3u8
+
+#EXTINF:-1  tvg-name="TBN" tvg-logo="BFTV (10).PNG" tvg-logo="http://goo.gl/5BnMcs" group-title="NTERNACIONAIS", TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:-1  tvg-logo="BFTV (6).PNG" tvg-logo="http://i67.tinypic.com/21f0fvs.jpg" group-title="NTERNACIONAIS", TCI
+rtmp://tvcn3sz3vud.rtmphost.com/FMEWebViewer/livestream
+
+#EXTINF:-1 tvg-logo="BFTV (64).PNG" tvg-logo="https://goo.gl/UdgQgr" group-title="NTERNACIONAIS", TELE RESTAURACION 
+rtmp://servers10.com:1935/8082/ playpath=8082  swfUrl=http://servers10.com/mediacp/system/misc/jwplayer7/jwplayer.flash.swf  pageUrl=http://telerestauracionmexico.com/
+
+
+#EXTINF:-1 tvg-logo="BFTV (9).PNG" tvg-logo="http://goo.gl/DEHcfe" group-title="NTERNACIONAIS", TV DAKI
+http://104.156.60.74:1935/tvdaki/tvdaki/chunklist_w1989268928.m3u8
+
+
+#EXTINF:-1 tvg-logo="BFTV (6).JPG" tvg-logo="http://goo.gl/otXVCB" group-title="NTERNACIONAIS", TV JESUS
+http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="BFTV (1).PNG" tvg-logo="https://goo.gl/fj2rz9" group-title="NTERNACIONAIS", TV MISSOES
+http://wse5.player.tv.br:1935/tvmissoes/tvmissoes/live.m3u8
+
+#EXTINF:-1  tvg-logo="BFTV (46).PNG" tvg-logo="http://goo.gl/8ssEPL" group-title="NTERNACIONAIS", TV VERDADE
+rtmp://ocatv.mcgi.me/public/247_br
+
+#EXTINF:-1 tvg-logo="BFTV (35).PNG" tvg-logo="http://goo.gl/128GIE" group-title="NTERNACIONAIS", UCB
+http://live.ucb.simplestreamcdn.com/live/ucbtv/bitrate1.isml/bitrate1-audio_track=64000-video=2500000.m3u8?DVR=1
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://goo.gl/pcZLzM" group-title="NTERNACIONAIS", UNCION 24
+http://198.24.172.74:1936/25/smil:25.smil/chunklist_w214446692_b1596000_slesp.m3u8
+
+
+#EXTINF:-1 tvg-logo="BFTV (33).PNG" tvg-logo="http://goo.gl/bbyFsy" group-title="NTERNACIONAIS", VEM E VE TV (1)
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="BFTV (34).PNG" tvg-logo="http://goo.gl/BXhIco" group-title="NTERNACIONAIS", VEM E VE TV (2)
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://goo.gl/51OPxw" group-title="NTERNACIONAIS", VIDA TV
+rtmp://ciaelsalvador.srfms.com:2049/live//livestream
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://goo.gl/6MBLfP" group-title="NTERNACIONAIS", VISION CELESTIAL
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w542422338.m3u8
+
+
+#EXTINF:-1 tvg-logo="BFTV (2).JPG" tvg-logo="http://goo.gl/Y7lT9V" group-title="NTERNACIONAIS", WEB TV
+http://stmv1.hostgs.net/pramos/pramos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="BFTV (2).JPG" tvg-logo="http://i66.tinypic.com/oa9nat.jpg" group-title="NTERNACIONAIS", Canal Oasis
+http://stream.doxainternational.co:8081/oasistv/oasistv_abr/oasistv/83101/chunks.m3u8?gpctv
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2hoh05k.jpg" group-title="FILMES", O Quanto de Guerra
+http://download658.mediafire.com/xob1gzychy2g/9hgtdxe2sdf13ge/QDG.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1NfDjzf" group-title="FILMES", A FILHA DO PASTOR (Off)
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/6fmwqf.jpg" group-title="FILMES", A Filha do Pastor(v2)
+http://download1820.mediafire.com/qxgq2vybbjig/djmmcgnqa3lmki7/FILME001.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmesgospel.com/images/conteudo/peq/15.jpg" group-title="FILMES", A Virada
+http://vimeo.com/42473354
+
+
+#EXTINF:-1 tvg-logo="http://gospelfilmes.com.br/wp-content/uploads/2014/05/Inabalavel-214x300.jpg " group-title="FILMES", INABALAVEL
+https://vimeo.com/82989537
+
+#EXTINF:-1 tvg-logo="https://cinemacristao.files.wordpress.com/2010/01/deuses-do-asfalto.jpg" group-title="FILMES", Deuses do Asfalto
+https://vimeo.com/82582881
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1HnHdlo" group-title="FILMES", DESAFIANDO GIGANTES
+https://vimeo.com/103204417
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1QFnCa2" group-title="FILMES", A PROVA DE FOGO
+https://vimeo.com/101509271
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1QFnCa2" group-title="FILMES", A PROVA DE FOGO (OP2)
+https://vimeo.com/31411940
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1Llz0Ry" group-title="FILMES", APOCALIPSE
+https://vimeo.com/44687102
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R9mcj3" group-title="FILMES", CARTAS PARA DEUS - 720p
+https://vimeo.com/104121555
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1hsckpV" group-title="FILMES", CONTAGEM REGRESSIVA
+https://vimeo.com/103305613
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1LYyT1V" group-title="FILMES", DEUS NAO ESTA MORTO 2
+https://vimeo.com/103299842
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/ek0tfo.jpg" group-title="FILMES", JESUS A HISTORIA DO NASCIMENTO
+https://vimeo.com/160564334
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1M7S85V" group-title="FILMES", LUTERO
+https://vimeo.com/9779235
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2cptjjb.jpg" group-title="FILMES", MEU NOME E PAULO
+https://vimeo.com/105178870 
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1IPbVGD" group-title="FILMES", NOE
+https://vimeo.com/12711591
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2i6ji55.jpg" group-title="FILMES",Jacó
+https://vimeo.com/12548222
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/26243v4.jpg" group-title="FILMES", Jeremias
+https://vimeo.com/12585574
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/35aq4af.jpg" group-title="FILMES", Abraão
+https://vimeo.com/12540892
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2yjuhw0.jpg" group-title="FILMES", Pedro
+https://vimeo.com/12789901
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1WfmWbF" group-title="FILMES", PARADA INESPERADA
+https://vimeo.com/88756591
+
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/9hhrb9.jpg" group-title="FILMES", Salomão
+https://vimeo.com/12581846
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2i0w4y9.jpg" group-title="FILMES", Sansão e Dalila
+https://vimeo.com/12609141
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/ndtq29.jpg" group-title="FILMES", Davi
+https://vimeo.com/12554172
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/17sqyo.jpg" group-title="FILMES",O Poder da Graça - Dublado
+https://vimeo.com/142582548
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/34pesmv.jpg" group-title="FILMES", UMA RAZAO PARA CANTAR
+https://vimeo.com/107665903
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/30t71vl.jpg" group-title="FILMES", Corajosos
+https://vimeo.com/34998097
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2lvhbth.jpg" group-title="FILMES", Sangue na Montanha (OFF)
+http://zip.net/bpssgq
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2moypsk.jpg" group-title="FILMES", Os Dez mandamentos (1956)
+https://vimeo.com/12707377
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2056nmv.jpg" group-title="FILMES", Os Dez mandamentos (1956) – OP2
+https://vimeo.com/12709080
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2a9v41v.jpg" group-title="FILMES", Os Dez mandamentos o Filme
+https://vimeo.com/164927188
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2eeaijq.jpg" group-title="FILMES", O Quarto Sábio
+https://vimeo.com/58092966
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/ei9ysk.jpg" group-title="FILMES", A história de Ruth
+https://vimeo.com/12706306
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/izuez6.jpg" group-title="FILMES", O Peregrino
+https://vimeo.com/103299842
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/s3k6sz.jpg" group-title="FILMES",O Apocalipse de João
+https://vimeo.com/86496068
+ 
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2ztg1lz.jpg" group-title="FILMES", Jesus de Nazaré
+https://vimeo.com/104081121
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/21ov8lu.jpg" group-title="FILMES",Atos dos Apóstolos
+https://vimeo.com/15651679
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/5as1dt.jpg" group-title="FILMES", A Mulher do Pastor (OFF)
+
+
+#EXTINF:-1 tvg-logo="http://www.filmesgospel.com/images/conteudo/peq/30.jpg" group-title="FILMES",A SEGUNDA CHANCE
+https://vimeo.com/65674750
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/30c2246.jpg" group-title="FILMES",O Pastor
+https://vimeo.com/101334585
+
+#EXTINF:-1 tvg-logo="http://megafilmesonline.net/wp-content/uploads/2015/08/a-amante-do-pastor-dublado.jpg" group-title="FILMES", A Amante do Pastor
+http://download1683.mediafire.com/b0v9hs68tuwg/tc4l14a0383bbfk/Filme.mp4
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/30s8tic.jpg" group-title="FILMES", O Fazendeiro de Deus 
+https://vimeo.com/35924127
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2nlft4.jpg" group-title="FILMES",O Poder do Perdão
+https://vimeo.com/164295096
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/befv9f.jpg" group-title="FILMES",PAULO DE TARSO
+http://vimeo.com/12973667
+
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/28r02ur.jpg" group-title="FILMES", NOE
+http://rc.lella.la/vd/dd/RC/RCFServer1/ondemand/NOE.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/ay4yub.jpg" group-title="FILMES",CÉU DE VERDADE
+
+http://rc.lella.la/vd/dd/RC/RCFServer3/ondemand/OCEDVRD.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/5n51fd.jpg" group-title="FILMES",O Anjo de sardes
+http://download1280.mediafire.com/fv84kg88phag/otphnbs0d97s5wa/FILME002.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Corajosos.jpg" group-title="FILMES", Corajosos
+https://02-lvl3-pdl.vimeocdn.com/01/319/4/101597617/273258950.mp4?expires=1488424420&token=084863139411b21aaef87
+
+
+################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="http://bit.ly/1TBuBP9" tvg-logo="http://i65.tinypic.com/e70a6b.jpg" group-title="DESENHOS BIBLICOS",[COLOR yellow] > > > DESENHOS < < <[/COLOR]
+http://on.fb.me/1I65bWd
+
+#EXTINF:-1 tvg-logo="face" tvg-logo="http://i68.tinypic.com/2rr8fw2.jpg" group-title="Creditos", USE O XMTV PLAYER
+swfUrl= pageUrl
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1L8z3Sx" group-title="DESENHOS BIBLICOS", A CRIACAO
+http://bit.ly/1GSEdwj
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1ITvkYY" group-title="DESENHOS BIBLICOS", A ARCA DE NOE
+http://bit.ly/1KNfNK7
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1HxUOFW" group-title="DESENHOS BIBLICOS", A TORRE DE BABEL
+http://bit.ly/1CX55dy
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1Tu6T7m" group-title="DESENHOS BIBLICOS", O CHAMADO DE ABRAAO
+http://bit.ly/1Ux4uuk
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1gvunLl" group-title="DESENHOS BIBLICOS", ABRAAO E ISMAEL
+http://bit.ly/1IHiUmT
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1IUkf9S" group-title="DESENHOS BIBLICOS", ABRAAO E ISAAC
+http://bit.ly/1NPvsIP
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1M0Hmkj" group-title="DESENHOS BIBLICOS", SODOMA E GOMORRA
+http://bit.ly/1HKIWGV
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1CxEJV3" group-title="DESENHOS BIBLICOS", A REUNIAO DE JOSE
+http://bit.ly/1D1kxWl
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1gvuKWf" group-title="DESENHOS BIBLICOS", JOSE DO EGITO
+http://bit.ly/1KP7iQh
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1ITxSGy" group-title="DESENHOS BIBLICOS", MOISES
+http://bit.ly/1NJPSm3
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1HwETqY" group-title="DESENHOS BIBLICOS", MOISES E O EXODO
+http://bit.ly/1TdahSh
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1fA9PBd" group-title="DESENHOS BIBLICOS", JERICO
+http://bit.ly/1H8cKYg
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1dUcKTC" group-title="DESENHOS BIBLICOS", ELIAS
+http://bit.ly/1H7pfTc
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1K2iK8j" group-title="DESENHOS BIBLICOS", ELIZEU
+http://bit.ly/1KN1C87
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1dUcYtS" group-title="DESENHOS BIBLICOS", DANIEL NA COVA DOS LEOES
+http://bit.ly/1CisOtZ
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1ITR6eV" group-title="DESENHOS BIBLICOS", A RAINHA ESTER                                       
+http://bit.ly/1eYXHIC
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1ITywDX" group-title="DESENHOS BIBLICOS", JONAS                                         
+http://bit.ly/1KI5CYX
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1Hy2p7k" group-title="DESENHOS BIBLICOS", RUTE
+http://bit.ly/1MT7gHZ
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", SANSAO E DALILA
+http://bit.ly/1OWra2q
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1Hpl6wZ" group-title="DESENHOS BIBLICOS", DAVI E GOLIAS
+http://bit.ly/1H1r3hh
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1Hy2WWW" group-title="DESENHOS BIBLICOS", SALOMAO
+http://bit.ly/1NMKMWf
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", SAMUEL, O MENINO PROFETA
+http://bit.ly/1EeXJTA
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1Czwbg4" group-title="DESENHOS BIBLICOS", JOAO BATISTA
+http://bit.ly/1Hde2QZ
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", NASCE O REI
+http://bit.ly/1MlEhg4
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", JESUS O FILHO DE DEUS
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", O PAO DO CEU
+https://vimeo.com/103969618
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", O JUIZ JUSTO
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", TESOUROS NO CEU
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", O FILHO PRÓDIGO
+https://vimeo.com/103970451
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1dUOD7c" group-title="DESENHOS BIBLICOS", JESUS E A SAMARITANA
+http://bit.ly/1J4PhHV
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", O BOM SAMARITANO
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1Hy44cY" group-title="DESENHOS BIBLICOS", OS MILAGRES DE JESUS
+http://bit.ly/1JNu0bw
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1LZIAw2" group-title="DESENHOS BIBLICOS", LAZARO VIVE
+http://bit.ly/1go86Pw
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1eTn52Z" group-title="DESENHOS BIBLICOS", O MAIOR E O MENOR
+http://bit.ly/1J3givf
+
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1URb2nL" group-title="DESENHOS BIBLICOS", PAIXAO DE CRISTO
+http://bit.ly/1CZtGP6
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", ELE RESSUCITOU
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", SAULO DE TARSO
+https://vimeo.com/103970473
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1R8NYw1" group-title="DESENHOS BIBLICOS", 2 horas de Desenhos
+https://vimeo.com/103970501
+
+
+################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="http://i63.tinypic.com/2njdm2q.jpg" tvg-logo="http://i63.tinypic.com/2njdm2q.jpg" group-title="ESTUDOS",[COLOR yellow] > > ESTUDOS [/COLOR]
+http://on.fb.me/1I65bWd
+
+#EXTINF:-1 tvg-logo="face" tvg-logo="http://i68.tinypic.com/2rr8fw2.jpg" group-title="Creditos", USE O XMTV PLAYER
+swfUrl= pageUrl
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/wanazo.jpg" group-title="ESTUDOS", Oriente Médio - Parte 01
+https://vimeo.com/173072651
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/4k8ewm.jpg" group-title="ESTUDOS", Oriente Médio - Parte 02
+https://vimeo.com/173689103
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/4k8ewm.jpg" group-title="ESTUDOS", Oriente Médio-A Questão Palestina #3
+https://vimeo.com/173074252
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/igfcxx.jpg" group-title="ESTUDOS", Os segredos da Bíblia - Ep02 - A Terra prometida
+https://vimeo.com/89554544
+
+############################################################################################################################### Series
+
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 01
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP01.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 02
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP02.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 03
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP03.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 04
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP04.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 05
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP05.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 06
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP06.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 07
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP07.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 08
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP08.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 09
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP09.mp4
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/25h31mp.png" group-title="Series",A Bíblia Dublado - Episódio Nº 10
+http://rc.lella.la/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP10.mp4
