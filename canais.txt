@@ -1,1 +1,0 @@
-<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://158.69.24.208:8081/get.php?username=pedro01&password=AXmnnu4qAr&type=m3u_plus&output=ts</link></item>
