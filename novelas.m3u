@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/kvLk6nK9ScsvmzT1fgeZaKHDHEs=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2011/06/145c4501981dd6e9915644fcfbd972c7.jpg",[COLOR deepskyblue] ROQUE SANTEIRO - COMPLETO[/COLOR][COLOR gray] DUB[/COLOR]
+plugin://plugin.video.quasar/play?uri=http://itorrents.org/torrent/1030A66817779F89FFBFCC697EFB7A097DF82BB9.torrent
+
+#EXTINF:-1 tvg-logo="http://www.lapumiafilmes.com/wp-content/uploads/2016/11/Pai-Her%C3%B3i-em-DVD.jpg",[COLOR deepskyblue] PAI HEROI - COMPLETO[/COLOR][COLOR gray] DUB[/COLOR]
+plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A10A05EA43D71E979E3673A0E2A5FB42383BF72C&dn=WWW.LAPUMiAFiLMES.COM+-+Pai%20Her%C3%B3i%20-%20Disco%2004.iso&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
