@@ -1,0 +1,2 @@
+<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://iptvdiamante.dyndns.tv:8000/get.php?username=Wesleyevaristo1&password=whd2AsMCTm&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://149.56.98.189:25461/get.php?username=Edmar WZ3&password=rjghosji&type=m3u_plus&output=ts</link></item>
