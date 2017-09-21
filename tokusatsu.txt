@@ -1,0 +1,351 @@
+<name>Bakuryuu Sentai Abaranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/754</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/bakuryuu-sentai-abaranger.jpg</iconimage>
+
+<name>Chikyuu Sentai Fiveman</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/796</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/chikyuu-sentai-fiveman.jpg</iconimage>
+
+<name>Choujin Sentai Jetman</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/805</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/choujin-sentai-jetman.jpg</iconimage>
+
+<name>Chouriki Sentai Ohranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/806</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/chouriki-sentai-ohranger.jpg</iconimage>
+
+<name>Cutie Honey The Live</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/807</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/cutie-honey-the-live.jpg</iconimage>
+
+<name>Cybercop: Os Policiais Do Futuro</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/808</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/cybercop-os-policiais-do-futuro.jpg</iconimage>
+
+<name>Chojuu Sentai Liveman</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1593</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/149882321459563a2e09042.jpg</iconimage>
+
+<name>Choudenshi Bioman</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1594</link>
+<iconimage>https://s-media-cache-ak0.pinimg.com/236x/f7/e7/21/f7e7212984f0437ee6430a3a8abf43ce.jpg</iconimage>
+
+<name>Comando Estelar Flashman</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1595</link>
+<iconimage>https://http2.mlstatic.com/comando-estelar-flashman-serie-completa-e-dublada-D_NQ_NP_307705-MLB25072250037_092016-O.jpg</iconimage>
+
+<name>Denji Sentai Megaranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/809</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/denji-sentai-megaranger.jpg</iconimage>
+
+<name>Doubutsu Sentai Zyuohger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1975</link>
+<iconimage>http://orig11.deviantart.net/0a34/f/2016/187/b/e/doubutsu_sentai_zyuohger_by_andiemasterson-da8zu0o.png</iconimage>
+
+<name>Engine Sentai Go-Onger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/810</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/engine-sentai-go-onger.jpg</iconimage>
+
+<name>Estrela Fascinante Patrine</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/870</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/estrela-fascinante-patrine.jpg</iconimage>
+
+<name>Gosei Sentai Dairanger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1003</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/gosei-sentai-dairanger.jpg</iconimage>
+
+<name>Gogo Sentai Boukenger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1004</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/gogo-sentai-boukenger.jpg</iconimage>
+
+<name>Giant Saver</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1977</link>
+<iconimage>http://www.4icdn.com/img/animes/xGp--large.jpg</iconimage>
+
+<name>Hikounin Sentai Akibaranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1005</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/hikounin-sentai-akibaranger.jpg</iconimage>
+
+<name>Hyakujuu Sentai Gaoranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1006</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/hyakujuu-sentai-gaoranger.jpg</iconimage>
+
+<name>Jiraya, O Incrível Ninja</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/798</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/jiraya-o-incrivel-ninja.jpg</iconimage>
+
+<name>Juuken Sentai Gekiranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1007</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/juuken-sentai-gekiranger.jpg</iconimage>
+
+<name>Kamen Rider 555</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/981</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-555.jpg</iconimage>
+
+<name>Kamen Rider Agito</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/982</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-agito.jpg</iconimage>
+
+<name>Kamen Rider Amazon</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/983</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-amazon.jpg</iconimage>
+
+<name>Kamen Rider Black</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/984</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-black.jpg</iconimage>
+
+<name>Kamen Rider Black - Dublado</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/985</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-black-dublado.jpg</iconimage>
+
+<name>Kamen Rider Blade</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/986</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-blade.jpg</iconimage>
+
+<name>Kamen Rider Decade</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/987</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-decade.jpg</iconimage>
+
+<name>Kamen Rider Den-O</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/988</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-den-o.jpg</iconimage>
+
+<name>Kamen Rider Double</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/989</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-double.jpg</iconimage>
+
+<name>Kamen Rider Black RX</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/990</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-black-rx.jpg</iconimage>
+
+<name>Kamen Rider Drive</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/991</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-drive.jpg</iconimage>
+
+<name>Kamen Rider Fourze</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/992</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-fourze.jpg</iconimage>
+
+<name>Kamen Rider Gaim</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/993</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-gaim.jpg</iconimage>
+
+<name>Kamen Rider Ghost</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/994</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-ghost.jpg</iconimage>
+
+<name>Kamen Rider Hibiki</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/995</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-hibiki.jpg</iconimage>
+
+<name>Kamen Rider Kabuto</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/996</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-kabuto.jpg</iconimage>
+
+<name>Kamen Rider Kiva</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/997</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-kiva.jpg</iconimage>
+
+<name>Kamen Rider Kuuga</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/998</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-kuuga.jpg</iconimage>
+
+<name>Kamen Rider OOO</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/999</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-ooo.jpg</iconimage>
+
+<name>Kamen Rider Ryuki</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1000</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-ryuki.jpg</iconimage>
+
+<name>Kamen Rider Wizard</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1001</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-wizard.jpg</iconimage>
+
+<name>Kamen Rider: O Cavaleiro Dragão</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1002</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kamen-rider-o-cavaleiro-dragao.jpg</iconimage>
+
+<name>Kyouryu Sentai Zyuranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1008</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kyouryu-sentai-zyuranger.jpg</iconimage>
+
+<name>Kousoku Sentai Turboranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1009</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kousoku-sentai-turboranger.jpg</iconimage>
+
+<name>Kaizoku Sentai Gokaiger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1010</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/kaizoku-sentai-gokaiger.jpg</iconimage>
+
+<name>Kamen Rider Ex-Aid</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1510</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/1499191432595bd8882e71d.jpg</iconimage>
+
+<name>Lion Man</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/872</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/lion-man.jpg</iconimage>
+
+<name>Machineman</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/874</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/machineman.jpg</iconimage>
+
+<name>Mirai Sentai Timeranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1011</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/mirai-sentai-timeranger.jpg</iconimage>
+
+<name>Mahou Sentai Magiranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1012</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/mahou-sentai-magiranger.jpg</iconimage>
+
+<name>Ninpuu Sentai Hurricanger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1013</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/ninpuu-sentai-hurricanger.jpg</iconimage>
+
+<name>Power Rangers Dino Charge</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/833</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-dino-charge.jpg</iconimage>
+
+<name>Power Rangers Dino Charge - Dublado</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/834</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-dino-charge-dublado.jpg</iconimage>
+
+<name>Power Rangers Dino Super Charge</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/837</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-dino-super-charge.jpg</iconimage>
+
+<name>Power Rangers Dino Trovão</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/838</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-dino-trovao.jpg</iconimage>
+
+<name>Power Rangers Fúria Da Selva</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/840</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-furia-da-selva.jpg</iconimage>
+
+<name>Power Rangers Força Animal</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/841</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-forca-animal.jpg</iconimage>
+
+<name>Power Rangers Força Do Tempo</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/842</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-forca-do-tempo.jpg</iconimage>
+
+<name>Power Rangers Força Mística</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/843</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-forca-mistica.jpg</iconimage>
+
+<name>Power Rangers LightSpeed O Resgate</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/844</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-lightspeed-o-resgate.jpg</iconimage>
+
+<name>Power Rangers Megaforce</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/845</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-megaforce.jpg</iconimage>
+
+<name>Power Rangers Na Galáxia Perdida</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/847</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-na-galaxia-perdida.jpg</iconimage>
+
+<name>Power Rangers No Espaço</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/849</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-no-espaco.jpg</iconimage>
+
+<name>Power Rangers Operação Ultra Veloz</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/851</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-operacao-ultra-veloz.jpg</iconimage>
+
+<name>Power Rangers S.P.D</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/853</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-s.p.d.jpg</iconimage>
+
+<name>Power Rangers Samurai</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/854</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-samurai.jpg</iconimage>
+
+<name>Power Rangers Super Megaforce</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/856</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-super-megaforce.jpg</iconimage>
+
+<name>Power Rangers Super Samurai</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/857</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-super-samurai.jpg</iconimage>
+
+<name>Power Rangers Tempestade Ninja</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/859</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-tempestade-ninja.jpg</iconimage>
+
+<name>Power Rangers Turbo</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/860</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-turbo.jpg</iconimage>
+
+<name>Power Rangers Zeo</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/862</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-zeo.jpg</iconimage>
+
+<name>Power Rangers: RPM</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/864</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-rpm.jpg</iconimage>
+
+<name>Power Rangers Mighty Morphin Alien Rangers</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/865</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/power-rangers-mighty-morphin-alien-rangers.jpg</iconimage>
+
+<name>Power Rangers Ninja Steel</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1496</link>
+<iconimage>http://www.4icdn.com/img/animes/L43J-large.jpg</iconimage>
+
+<name>Ressha Sentai ToQger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1014</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/ressha-sentai-toqger.jpg</iconimage>
+
+<name>Shuriken Sentai Ninninger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/725</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/15008269055974cd19a6275.jpg</iconimage>
+
+<name>Super Equipe De Resgate Solbrain</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/876</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/super-equipe-de-resgate-solbrain.jpg</iconimage>
+
+<name>Samurai Sentai Shinkenger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1015</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/samurai-sentai-shinkenger.jpg</iconimage>
+
+<name>Tokusou Sentai Dekaranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1017</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/tokusou-sentai-dekaranger.jpg</iconimage>
+
+<name>Taiyou Sentai Sun Vulcan</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1019</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/taiyou-sentai-sun-vulcan.jpg</iconimage>
+
+<name>Tensou Sentai Goseiger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1020</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/tensou-sentai-goseiger.jpg</iconimage>
+
+<name>Ultraman Geed</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1900</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/15000447515968ddcf15f64.jpg</iconimage>
+
+<name>Uchuu Sentai Kyuranger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1492</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/14997022615963a3f5a14cd.jpg</iconimage>
+
+<name>Ultraman Orb THE ORIGIN SAGA</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1830</link>
+<iconimage>https://vignette2.wikia.nocookie.net/ultra/images/0/0e/ORB_ORIGIN_SAGA_Poster.jpg/revision/latest?cb=20161215012501</iconimage>
+
+<name>Ultraman X</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1976</link>
+<iconimage>http://www.stevenhwilson.com/wp-content/uploads/2015/08/329.png</iconimage>
+
+<name>Ultraman Ginga S</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1978</link>
+<iconimage>https://2.bp.blogspot.com/-tnbx0z46be0/VGNzomDxVMI/AAAAAAAAGMw/07j3o-67TAE/s1600/Ginga_S_movie.jpg</iconimage>
+
+<name>Zyuden Sentai Kyoryuger</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1016</link>
+<iconimage>http://www.animesonlinebr.com.br/thumbs/zyuden-sentai-kyoryuger.jpg</iconimage>
+
+<name>Zyuuden Sentai Kyouryuuger Brave</name>
+<link>http://www.animesonlinebr.com.br/tokusatsu/1834</link>
+<iconimage>http://cdn.shopify.com/s/files/1/0318/2649/products/619IqqZ60AL_29f6d3e1-7c2b-4fef-8045-371c7288fbed_large.jpeg?v=1418087156</iconimage>
