@@ -1,0 +1,2 @@
+<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://iptvbrasil.dyndns.tv:8080/get.php?username=AlexandroFerreiraDaSilva&password=nHTVx98KKI&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://meuiptv.dyndns.tv:25461/get.php?username=Elianegomesiptv&password=aysdwdGo3a&type=m3u_plus&output=ts</link></item>
