@@ -1,0 +1,1353 @@
+<channels>
+</channels><channel>
+<name>[COLOR white][B]11.22.63[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/301824-14.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/inovatv2016/inovatv2016/master/11.22.63.xml</externallink>
+<fanart><fanart>https://goo.gl/ZzBqhc</fanart></fanart>
+<info>11.22.63 é uma minissérie americana de ficção científica, drama e mistério baseada no romance 11/22/63 de Stephen King e composta por oito episódios.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]12 Monkeys[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/HBHSdx</thumbnail>
+<externallink>https://pastebin.com/raw/e3tZrrgs</externallink>
+<fanart>https://goo.gl/rUdtGn</fanart>
+<info>Em 2043, um vírus matou a maior parte da população mundial. Um viajante no tempo, James Cole (Aaron Stanford), deve voltar para 2015 e impedir que esse vírus letal jamais seja feito. Depois de sobreviver à praga e viver como um saqueador durante o apocalipse, Cole pode detonar qualquer um se for preciso, mas a sua inteligência é sua maior arma. Ele é impulsivo, sagaz e corajoso até demais, indo além do bom senso. Como um saqueador, ele fazia o que era preciso para sobreviver, mas agora se vê atormentado por suas ações. Assim, Cole busca corrigir o passado, não apenas para salvar bilhões de vidas, mas também para ter sua redenção. Ao viajar para o passado, ele vai diretamente em busca da Dra. Cassandra Railly (Amanda Schull), uma brilhante virologista, cujo mundo é virado de cabeça para baixo, quando é sequestrada por Cole. Ele chega dizendo que, no futuro, ela</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]1 Contra Todos[/B][/COLOR] [COLORyellow][B]B[/B][/COLOR][COLORlime][B]R[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/313540-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/cfq4iaha</externallink>
+<fanart>https://dg31sz3gwrwan.cloudfront.net/fanart/313540/1145252-0-q80.jpg</fanart>
+<info>Cadu (Julio Andrade) é um exemplo de cidadão, um advogado dedicado que preza pela verdade e pela justiça acima de tudo. Sua envergadura moral, entretanto, acaba fazendo com que ele perca o emprego. Como se não fosse o suficiente, ele é confundido com o maior traficante de drogas do Brasil, indo para a cadeia em seu lugar. Ao chegar lá, ele decide manter a mentira para melhorar suas chances de sobrevivência, arrastando junto a sua esposa Malu (Julia Lanina), grávida do segundo filho do casal. Por sorte esta pode contar com a ajuda de Jonas (Caio Junqueira), um policial tão honesto e íntegro, que passou anos investigando o cartel que Cadu é acusado de liderar, e não acredita que o advogado tenha sido acusado corretamente, e com o apoio do seu pai, JP (Xando Graça), que acredita na inocência do genro. Dentro da penitenciária, Cadu terá muitos inimigos, como o diretor Demóst</info>
+</channel>
+
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]13 Reasons Why[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/323168-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/XmRxzcA0</externallink>
+<fanart>https://goo.gl/FLjbf8</fanart>
+<info>Após o suicídio de uma adolescente, um colega de turma encontra fitas que revelam os misteriosos motivos de sua decisão.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]13 Medos[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/LQYBsE</thumbnail>
+<externallink>https://pastebin.com/raw/wxQ8JhLc</externallink>
+<fanart>https://goo.gl/p7D5MX</fanart>
+<info>13 medos é uma série de ficção, composta por treze capítulos de meia hora. É terror, é suspense e é a pura tensão que prende e emociona o espectador do princípio ao fim. A cada história exploramos um medo em particular, seja através de um evento paranormal, ou simplesmente um acontecimento bizarro da vida normal. Qualquer que seja o caso, nos aprofundamos sobre o medo da semana, interrompendo a vida de algumas vítimas desafortunadas. Os medos abordados não são superficiais e sim profundos. São medos que vivem no subconciente de cada um de nós.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]3%[/B][/COLOR]  [COLORyellow][B]B[/B][/COLOR][COLORlime][B]R[/B][/COLOR]</name>
+<thumbnail>http://br.web.img1.acsta.net/pictures/16/11/08/13/03/368745.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/frVCiU8w</externallink>
+<fanart>https://goo.gl/o9ZB1Q</fanart>
+<info>A série acompanha a luta dos personagens para fazer parte dos 3% dos aprovados que irão para o Lado de Lá. A trama se passa em um mundo no qual todas as pessoas, ao completarem 20 anos, podem se inscrever em um processo seletivo. Apenas 3% dos inscritos são aprovados e serão aceitos em um mundo melhor, cheio de oportunidades e com a promessa de uma vida digna. O processo de seleção é cruel, composto por provas cheias de tensão e situações limites de estresse, medo e dilemas morais.
+</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]A Bíblia[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/UoELYa</thumbnail>
+<externallink>https://pastebin.com/raw/HsJLPJjY</externallink>
+<fanart>https://goo.gl/XBhFX1</fanart>
+<info>A série abrange "Gênesis a Acensão de Cristo ao céu" em "uma grande narrativa", dentro de cinco partes de duas horas, cada uma contendo duas ou três histórias bíblicas contadas através de ação ao vivo e imagens geradas por computador. De acordo com Burnett, a narrativa inclui histórias "óbvias", como a Arca de Noé, o êxodo e a vida de Jesus Cristo. Cinco horas são tirados do Antigo Testamento, cinco do Novo Testamento. A série é baseada na Nova Versão Internacional e a Nova Versão Revisada da Bíblia.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]As Crônicas de Shannara[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/NMMPdD</thumbnail>
+<externallink>https://pastebin.com/raw/CpG5ZpdW</externallink>
+<fanart>https://goo.gl/94WEZW</fanart>
+<info>Um misto de mágica com tecnologia primitiva em um reino de fantasia. A história ocorre milhares de anos após a destruição da atual civilização, e é centrada na família Shannara, cujos descendentes possuem magia e protagonizam aventuras com o poder de remodelar o futuro do universo.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Agent Carter[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/sXdTGm</thumbnail>
+<externallink>https://pastebin.com/raw/h9B2WDXB</externallink>
+<fanart>https://goo.gl/sJKLVW</fanart>
+<info>Em 1946, Peggy Carter é relegada para funções de secretariado na Reserva Científica Estratégica. Quando Howard Stark é acusado de traição, secretamente recruta Peggy para limpar seu nome com a ajuda de seu mordomo, Edwin Jarvis.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Alias Grace[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/329586-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/DF2bye4Y</externallink>
+<fanart>https://goo.gl/Qqmg3z</fanart>
+<info>Grace Marks era uma imigrante irlandesa pobre e doméstica no Alto Canadá e, juntamente com uma mão estável, foi condenada pelos assassinatos brutais de seu empregador e sua governanta em 1843. Grace foi condenada à prisão perpétua e tornou-se uma das mulheres mais enigmáticas e notórias da década de 1840, o Canadá por seu papel suposto no duplo assassinato sensacional. Eventualmente exonerado após 30 anos de prisão, sua convicção foi controversa e provocou muito debate sobre se ela estava envolvida no assassinato, ou era apenas um acessório involuntário.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Amigos da Faculdade[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/328972-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/01kW7SXV</externallink>
+<fanart>https://pogd.es/assets/bg/Friends-from-College.jpg</fanart>
+<info>Vinte anos depois da graduação, um grupo de amigos da faculdade se reconecta e descobre que o amor não ficou mais fácil com a idade.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]American Crime Story[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/Cc62zf</thumbnail>
+<externallink>https://pastebin.com/raw/ij3ZSMi2</externallink>
+<fanart>https://goo.gl/yFcP2Z</fanart>
+<info>Uma série de antologias centrou-se em alguns dos criminosos mais famosos da história, incluindo O.J. Simpson.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]American Gods[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/D79oKy</thumbnail>
+<externallink>https://pastebin.com/raw/VQC7B5zj</externallink>
+<fanart>https://goo.gl/JpsXyj</fanart>
+<info>O drama é centrado em uma guerra entre os velhos e os novos deuses. Os seres bíblicos e mitológicos estão perdendo cada vez mais fiéis para novos deuses, que refletem o amor da sociedade por dinheiro, tecnologia, celebridades e drogas. Shadow Moon é um ex-vigarista que agora serve como segurança e companheiro de viagem para o Sr. Wednesday, um homem fraudulento que é, na verdade, um dos velhos deuses, e está na Terra em uma missão: reunir forças para lutar contra as novas entidades.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]American Horror Story[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/DFvCES</thumbnail>
+<externallink>https://pastebin.com/raw/zrUu1EYq</externallink>
+<fanart>https://goo.gl/sd69v2</fanart>
+<info>American Horror Story é uma série de televisão norte-americana de terror-drama. Descrita como uma série antológica, cada temporada é concebida como uma minissérie independente, seguindo um conjunto de personagens e ambientações distintas, e um enredo com o seu próprio "começo, meio e fim."</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Anne[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/322971-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/MkHmfJUT</externallink>
+<fanart>https://goo.gl/ZrJ4qG</fanart>
+<info>Depois de treze anos sofrendo no sistema de assistência social, a orfã Anne é mandada para morar com uma solteirona e seu irmão. Munida de sua imaginação e de seu intelecto, a pequena Anne vai transformar a vida de sua família adotiva e da cidade que lhe abrigou, lutando pela sua aceitação e pelo seu lugar no mundo.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Arrow[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/PcPt2e</thumbnail>
+<externallink>https://pastebin.com/raw/CgTvEAaf</externallink>
+<fanart>https://goo.gl/9a7Rkz</fanart>
+<info>Oliver Queen e seu pai estão perdidos no mar quando seu iate de luxo afunda. Seu pai não sobrevive. Oliver sobreviveu em uma ilha inexplorada por cinco anos aprendendo a lutar, mas também aprendendo sobre a corrupção de seu pai e negócios sem escrúpulos. Ele retorna à civilização um homem mudado, determinado a colocar as coisas corretamente. Ele se disfarça com o capuz de um de seus misteriosos mentores da ilha, se arma com um arco e se acha caçar os homens e mulheres que corromperam sua cidade.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Atypical[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/9HXSAM</thumbnail>
+<externallink>https://pastebin.com/raw/uiTiiKYk</externallink>
+<fanart>https://goo.gl/Ag3yWq</fanart>
+<info>Sam ( Keir Gilchrist) é um jovem autista de 18 anos que está em busca de sua própria independência. Nesta jornada, repleta de desafios, mas que rende algumas risadas, ele e sua família aprendem a lidar com as dificuldades da vida e descobrem que o significado de "ser um pessoa normal" não é tão óbvio assim.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Backstrom[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/277093-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/u1f3iWE7</externallink>
+<fanart>https://goo.gl/nWe1As</fanart>
+<info>O detetive Everett Backstrom é um detetive ofensivo e irascível, enquanto tenta, e falha, mudar seu comportamento autodestrutivo. Ao longo da série, a Backstrom lidera sua equipe, a Unidade de Crimes Graves, enquanto navegam nos casos mais sensíveis de Portland.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Ballers[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/kGzxQN</thumbnail>
+<externallink>https://pastebin.com/raw/As6xKg3U</externallink>
+<fanart>https://goo.gl/n1X94s</fanart>
+<info>Em Miami, a Ballers é uma dramática de meia hora centrada em um grupo de jogadores de futebol profissional atuais e antigos, bem como suas famílias, amigos e manipuladores. A série vai além do jogo e explora não só os desafios que os jogadores atuais enfrentam, mas também leva uma visão real e retratada em suas vidas dentro e fora do campo.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Band of Brothers[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/sV6kVZ</thumbnail>
+<externallink>https://pastebin.com/raw/CyC26htt</externallink>
+<fanart>https://goo.gl/Y6TbMr</fanart>
+<info>Uma das minisséries de maior sucesso da HBO, Band of Brothers coloca o telespectador dentro do universo da Segunda Guerra Mundial, enquanto mostra de perto a saga da lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais.nEm dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de para-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.nAo início de cada episódio, há o depoimento de veteranos da Companhia Easy, cujas experiências estão traduzidas neste drama, que mostra os momentos mais importantes vividos por cada um soldados.nAlém disso, grandes nomes produzem a minissérie, garantindo sua qualidade: Tom Hanks e Steven Spielberg, ambos em seu primeiro tra</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Banshee[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/HFeGXr</thumbnail>
+<externallink>https://pastebin.com/raw/aHcmi9gs</externallink>
+<fanart>https://goo.gl/puwwmH</fanart>
+<info>Banshee se passa numa pequena cidade da Pensilvânia amish e segue as aventuras de Lucas Hood, um ex-presidiário e expert em artes marciais que toma a identidade de um xerife assassinado. Enquanto estabelece sua própria noção de justiça, ele aproveita para fazer planos que servem aos seus próprios interesses.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Bates Motel[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/25h7ZW</thumbnail>
+<externallink>https://pastebin.com/raw/VHEm1pnk</externallink>
+<fanart>https://goo.gl/AmRyFo</fanart>
+<info>Uma prequação contemporânea de Psycho, dando um retrato de como a psique de Norman Bates se desenrola em sua adolescência e quão profundamente intrincada é o relacionamento dele com sua mãe, Norma.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Better Call Saul[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/M8U2o1</thumbnail>
+<externallink>https://pastebin.com/raw/eS0zA5DB</externallink>
+<fanart>https://images-eu.ssl-images-amazon.com/images/G/02//uk-dvd/sony/merch/2015/BetterCallSaul._V288859056_.jpg</fanart>
+<info>Série derivada do sucesso Breaking Bad, é ambientada seis anos antes de Saul Goodman (Bob Odenkirk) conhecer Walter White. Quando o conhecemos, o homem que se tornará Saul Goodman é conhecido como Jimmy McGill, um advogado de pequenas causas procurando o próprio destino e, mais imediatamente, tentando acertar sua vida financeira. Trabalhando ora junto a ele e ora contra, está Mike Erhmantraut (Jonathan Banks). A série acompanhará a transformação de Jimmy em Saul Goodman, o homem que coloca "criminosos" dentro da "lei"</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Beyond[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/318106-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/FZxuB0a1</externallink>
+<fanart>https://images7.alphacoders.com/453/453547.jpg</fanart>
+<info>Um jovem acorda de coma após 12 anos e descobre novas habilidades sobrenaturais que o levam ao meio de uma conspiração perigosa.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Bitten[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/269550-6.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/jeBCpRzQ</externallink>
+<fanart>https://goo.gl/fuuGVt</fanart>
+<info>As aventuras de Elena Michaels (Laura Vandervoort), uma bela loira de 28 anos de idade que é a única lobisomem do sexo feminino em todo o mundo.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Big Bang a Teória[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/80379-48.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/ndFbim7u</externallink>
+<fanart>https://goo.gl/eYVmKX</fanart>
+<info>Leonard (Johnny Galecki) e Sheldon (Jim Parsons) são dois brilhantes físicos que dividem o mesmo apartamento. Suas vidas se complicam quando uma belíssima jovem, porém pouco inteligente, Penny (Kaley Cuoco), se muda para o apartamento da frente.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Big Little Lies[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/305719-4.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/DykF9jUA</externallink>
+<fanart><fanart>https://goo.gl/5b7cdB</fanart></fanart>
+<info>O drama subversivo, sombrio e cômico, Big Little Lies, conta o conto de três mães de alunos de primeira série, cujas vidas aparentemente perfeitas se desenrolam até o assassinato.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Big Mouth[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/1qGni7</thumbnail>
+<externallink>https://pastebin.com/raw/C2pE5vEx</externallink>
+<fanart>https://goo.gl/9dNPbm</fanart>
+<info>Amigos adolescentes acham suas vidas revoltadas pelas maravilhas e horrores da puberdade nesta comédia nervosa dos amigos da vida real, Nick Kroll e Andrew Goldberg.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Blindspot[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/1PPkjh</thumbnail>
+<externallink>https://pastebin.com/raw/Xy3MnZ4a</externallink>
+<fanart>https://goo.gl/1sZonV</fanart>
+<info>Um vasto enredo internacional explode quando uma bonita Jane Doe é descoberta nua na Times Square, completamente coberta de tatuagens misteriosas e intrincadas, sem lembrança de quem ela é ou como ela chegou lá. Mas há uma tatuagem que é impossível perder: o nome do agente do FBI, Kurt Weller, embutido em suas costas. "Jane", o agente Weller e o resto do FBI rapidamente percebem que cada marca em seu corpo é um crime para resolver, levando-os mais perto da verdade sobre sua identidade e os mistérios a serem revelados.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Black Mirror[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/NXRnRg</thumbnail>
+<externallink>https://pastebin.com/raw/6RYXWeGn</externallink>
+<fanart>https://goo.gl/SzJDyf</fanart>
+<info>Black Mirror retrata a inquietação coletiva em relação ao mundo moderno. Com muito suspense e genialidade, cada história explora temas relacionados à paranoia tecnológica contemporânea. A tecnologia transformou todos os aspectos de nossa vida: em todas as casas, em todos os escritórios e nas mãos de todas as pessoas há uma tela de plasma, um monitor, um smartphone um espelho negro refletindo a nossa existência no século 21.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]BoJack Horseman[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/esPJf5</thumbnail>
+<externallink>https://pastebin.com/raw/77AWBJKr</externallink>
+<fanart>https://goo.gl/CmsFBQ</fanart>
+<info>BoJack (Will Arnett) é um decadente cavalo que trabalha na TV. Uma estrela já esquecida de um seriado da década de 1990 chamado Horsin' Around, ele disfarça sua baixa auto-estima com uísque e relações fracassadas. Com a ajuda de Todd (Aaron Paul), seu parceiro humano, e a ex-amante Princesa Caroline (Amy Sedaris), ele quer deixar novamente a sua marca no mundo do entretenimento. </info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Breaking Bad[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/rTrB3q</thumbnail>
+<externallink>https://pastebin.com/raw/pg1RwU1U</externallink>
+<fanart>https://goo.gl/a58X81</fanart>
+<info>O drama "Breaking Bad" narra a história de Walter White (Bryan Cranston), um humilde professor de química que vê sua vida se transformar quando descobre ser portador de um câncer terminal. Com um passado brilhante como pesquisador, Walter amarga agora uma terrível situação financeira trabalhando como professor em uma escola de ensino médio. Com seu modesto salário sustenta a esposa Skyler (Anna Gunn) e seu filho Walter Jr. (RJ Mitte), que sofre de paralisia cerebral. Walter fica desesperado ao perceber que sua família irá passar necessidades após sua morte e decide que fará qualquer coisa para que eles não sofram com a falta de dinheiro. Impulsionado pelo medo e por desejo de oferecer dignidade à Skyler e Jr. ele começa a usar suas habilidades em química a favor do crime, montando um laboratório de drogas para financiar seus anseios. Com uma trama intensa e emocionante
+</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Cosmos: Uma Odisséia do Espaço-Tempo[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/mmFVmz</thumbnail>
+<externallink>https://pastebin.com/raw/5EvsJU5D</externallink>
+<fanart>https://goo.gl/8ceC9h</fanart>
+<info>Organizado pelo renomado astrofísico Dr. Neil deGrasse Tyson, o Cosmos continua desde o antecessor de 1980, explorando como descobrimos as leis da natureza e encontramos nossas coordenadas no espaço e no tempo. Isso traz vida a histórias nunca antes contadas da busca heróica de conhecimento e transporta espectadores para mundos novos e em todo o universo para uma visão do cosmos na escala mais grandiosa. Os conceitos científicos mais profundos são apresentados com uma clareza deslumbrante, unindo cepticismo e maravilha, tecendo ciência rigorosa com emoção e espiritualidade para formar uma experiência única, unida e transcendente</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Dark[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/334824-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/110xHMrE</externallink>
+<fanart>https://goo.gl/NpDWm6</fanart>
+<info>Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.
+Estrelando: Louis Hofmann,Oliver Masucci,Jördis Triebel</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Dear White People[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/323855-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/AYhsX9V3</externallink>
+<fanart>https://goo.gl/DhLYkU</fanart>
+<info>Em uma faculdade predominantemente branca da Ivy League, um grupo diversificado de estudantes navega várias formas de discriminação racial e outros.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Desventuras em Série[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/9c5o8F</thumbnail>
+<externallink>https://pastebin.com/raw/Kdi1fGxh</externallink>
+<fanart>https://goo.gl/Qm57Pp</fanart>
+<info>Os órfãos Baudelaire são três irmãos muito inteligentes; Violet é a mais velha, Klaus é o irmão do meio e Sunny é a mais nova, com três anos. Quando seus pais morrem, eles passam a morar com diferentes tutores, e o primeiro é Conde Olaf, que irá tentar roubar a enorme herança deixada pelos pais.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Empire[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/281617-22.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/YNi83CvQ</externallink>
+<fanart>https://goo.gl/ZJnWGt</fanart>
+<info>Lucious Lyon é um rapper que saiu das ruas e prosperou na música. Dono da gravadora Empire, ele construiu um império no meio musical. Quando descobre que tem uma doença grave, ele decide eleger um dos seus três filhos - Andre, Jamal ou Hakeem - para ocupar o seu trono. Ao mesmo tempo, a sua ex-esposa Cookie regressa, depois de passar 17 anos na prisão, disposta a recuperar tudo o que perdeu. Ao longo da história é revelado que Lucious tem um passado sombrio do qual não pode fugir.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]El Chapo[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/326027-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/bVimGNeD</externallink>
+<fanart>https://i0.wp.com/setimacabine.com.br/wp-content/uploads/2017/06/el-chapo-serie-netflix.jpg?fit=1294%2C731</fanart>
+<info>Um olhar sobre a vida do notório chefe da droga, El Chapo, desde os primeiros dias da década de 1980 trabalhando para o Cartel de Guadalajara, até sua ascensão ao poder durante os anos 90 e sua queda final em 2016.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B](fdp)[/B][/COLOR]  [COLORyellow][B]B[/B][/COLOR][COLORlime][B]R[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/SVA3rC</thumbnail>
+<externallink>https://pastebin.com/raw/eXAS9fg8</externallink>
+<fanart>https://goo.gl/Pcfq1N</fanart>
+<info>A série (fdp) acompanha a história do juiz de futebol Juarez Gomes da Silva. O sonho de Juarez é apitar a final da Copa do Mundo. Apesar de algumas vitórias profissionais, sua vida pessoal é uma derrota. Com um filho e abandonado pela mulher, ele precisa encontrar uma maneira de reconquistar a sua família e recolocar sua vida nos eixos. Em 13 episódios, um olhar inédito e generoso para esse personagem tão mal compreendido. Esta produção conta com várias participações de jogadores e especialistas em futebol.
+</info>
+</channel>
+
+
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Fargo[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/269613-12.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/rDTUreQy</externallink>
+<fanart>https://goo.gl/TwDkvq</fanart>
+<info>Esta minissérie de 10 episódios vem das mãos de Joel e Ethan Coen, roteiristas, diretores e produtores do filme de mesmo nome, de 1996, em que ela será baseada. Um novo enredo de crime e um novo elenco, diferentes do filme que a inspira, compõem a minissérie, que conta com kate Walsh (Private Practice), Martin Freeman (Sherlock), Billy Bob Thornton (Na Corda Bamba, Papai Noel às Avessas) e Colin Hanks (Dexter). O protagonista Lester Nygaard é um vendedor de seguros de uma pequena cidade, que vive sendo espezinhado por sua esposa, até que sua vida muda quando um misterioso desconhecido, Lorne Malvo chega à cidade.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Fear The Walking Dead[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/7DBZ1c</thumbnail>
+<externallink>https://pastebin.com/raw/2nyTie43</externallink>
+<fanart>https://goo.gl/vmcNb7</fanart>
+<info>Na visão de uma família de Los Angeles, saberemos e entenderemos os primórdios do apolicapse zumbi retratado na série The Walking Dead, de Robert Kirkman. O spin-off, também produzido pelo AMC, contará isso.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]FEUDO[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/322466-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/aap1Ym3d</externallink>
+<fanart>https://goo.gl/58nWQK</fanart>
+<info>Com base na lendária rivalidade entre Bette Davis e Joan Crawford, que começou no início de suas carreiras, o clímax no conjunto de "Whatever Happened to Baby Jane"? e evoluindo para uma vingança de Oscar.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Filhos da Anarquia[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/prVu3m</thumbnail>
+<externallink>https://pastebin.com/raw/tte9nbz4</externallink>
+<fanart>https://goo.gl/Wj1FjZ</fanart>
+<info>Charming é uma comunidade vigiada por um clube de motociclistas renegados, que protegem a cidade de recém-chegados. Jackson "Jax" Teller é um membro da irmandade, que tem sua lealdade ao grupo posta à prova ao testemunhar sua crescente fama e desprezo pelas leis, ao mesmo tempo em que tenta se ajustar à vida de pai. Mas sua tranquilidade é frequentemente perturbada por sua mãe e seu padrasto, dois indivíduos impiedosos que comandam a irmandade.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Game Of Thrones[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/z8Q4rC</thumbnail>
+<externallink>https://pastebin.com/raw/NE8DMhn2</externallink>
+<fanart>https://goo.gl/c4CrBS</fanart>
+<info>Há muito tempo, em um tempo esquecido, uma força destruiu o equilíbrio das estações. Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, as reivindicações e as forças sobrenaturais correm as portas do Reino dos Sete Reinos. A irmandade da Patrulha da Noite busca proteger o reino de cada criatura que pode vir de lá da Muralha, mas já não tem os recursos necessários para garantir a segurança de todos. Depois de um verão de dez anos, um inverno rigoroso promete chegar com um futuro mais sombrio. Enquanto isso, conspirações e rivalidades correm no jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Guerras Mundiais[/B][/COLOR]</name>
+<thumbnail>https://img.fstatic.com/t08MgqYt3rcquHTpRusD4k_00JQ=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/07/guerras-mundiais_t103743.png</thumbnail>
+<externallink>https://pastebin.com/raw/HMUe5h7b</externallink>
+<fanart>https://drupal-multisite-s3.s3-us-west-2.amazonaws.com/files/clas_bg-guerras-mundiais_0.jpg</fanart>
+<info>Minissérie em 6 episódios, que traz a história de uma geração de homens que lutaram como soldados nas trincheiras da Primeira Guerra Mundial, e que se tornaram líderes na Segunda Guerra Mundial. Hitler, Churchill, De Gaulle, MacArthur, Patton, Stalin e Mussolini hoje são conhecidas lendas globais, e fizeram parte das duas guerras sangrentas que abalaram a humanidade por 30 anos. Desde as primeiras batalhas, eles souberam o quanto lhes custaria subir ao poder, lutando por suas vidas na linha de frente. As lições que aprenderam ali os moldou, e os revelou quando o combate irrompeu de novo. Alguns se tornaram heróis, forjados pela coragem debaixo de fogo; outros, despontaram como os vilões mais infames que o mundo já viu. Reconstituir as guerras mundiais dessa forma, é contá-la através desses homens em uma abordagem única e inédita: a Primeira Guerra os mudou e na Segunda Guerra, eles mudaram o mundo.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Grey's Anatomy[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/73762-18.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/AgX1hq1b</externallink>
+<fanart>https://goo.gl/xz2XrJ</fanart>
+<info>Conheça Meredith Gray, um brilhante estagiário cirúrgico de primeiro ano no Seattle Grace Hospital. Juntamente com os seus colegas residentes em treinamento, Meredith atravessa os traumas diários e as minas terrestres sociais da vida dentro do hospital e no mundo real. Grey's Anatomy é um olhar inteligente e espirituoso sobre jovens que lutam para serem médicos e médicos que lutam para ser humanos.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Glow[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/oYzL1x</thumbnail>
+<externallink>https://pastebin.com/raw/cRBrxkKb</externallink>
+<fanart>https://goo.gl/Dym8AP</fanart>
+<info>Ruth Wilder (Alison Brie) é uma atriz sem trabalho sai em busca de uma última tentativa de viver o seu sonho, quando descobre uma série semanal de luta livre.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Godless[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/333801-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/q23bwARr</externallink>
+<fanart>https://goo.gl/qHKXnB</fanart>
+<info>Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.
+Estrelando: Jeff Daniels,Michelle Dockery,Jack O'Connell</info>
+<genre>Faroestes</genre>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Gotham[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/274431-5.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/vGL4QMNn</externallink>
+<fanart>https://goo.gl/1uRCbG</fanart>
+<info>Antes de Batman, a cidade de Gotham já existia. James Gordon (Ben McKenzie) é um detetive iniciante na polícia. Corajoso, sincero e ansioso para mostrar serviço, o recém-promovido tem como missão solucionar o caso do assassinato dos bilionários Thomas e Martha Wayne, um dos casos mais complexos da cidade. Com seu parceiro, o oficial Harvey Bullock (Donal Logue), Gordon conhece o único sobrevivente do assassinato: Bruce (David Mazuouz), um garoto de 12 anos, filho do casal, por quem ele imediatamente sente uma grande afeição.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]House of Cards[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/xRoPzz</thumbnail>
+<externallink>https://pastebin.com/raw/krLy4qqQ</externallink>
+<fanart>https://goo.gl/M1eJBf</fanart>
+<info>House of Cards é uma série dramática sobre a política americana criada por Beau Willimon. É uma adaptação de uma minissérie anterior de mesmo nome da BBC baseada no livro de Michael Dobbs. A série conta a história de Frank Underwood, democrata do 5º distrito da Carolina do Sul, que, depois de ser preterido na nomeação a Secretário de Estado, decide vingar-se daqueles que o traíram. Retrato cruel e fiel da política americana e, mais amplamente, das relações humanas a série é inspirada em duas tragédias de Shakespeare (Ricardo III e Macbeth).</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Hatfields & McCoys[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/256233-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/zSWT6WgU</externallink>
+<fanart>https://fanart.tv/api/download.php?type=download&image=40084&section=1</fanart>
+<info>Um choque de clãs que provocou grande paixão, vingança, coragem, sacrifício, crimes e acusações, que mudaram as famílias e a história da região para sempre. A saga Hatfield-McCoy começa com 'Devil' Anse Hatfield e Randall McCoy. Amigos e camaradas próximos até o final da Guerra Civil, eles retornam para suas casas vizinhas - Hatfield, na Virgídia Ocidental, McCoy, apenas em toda a fronteira do Rio Tug, no Kentucky - para aumentar as tensões, mal-entendidos e ressentimentos que logo explodem em uma guerra total entre as famílias. À medida que as hostilidades crescem, amigos, vizinhos e forças externas se juntam à luta, trazendo os dois estados à beira de outra Guerra Civil.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Hemlock Grove[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/259948-8.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/vk64Gqvt</externallink>
+<fanart>https://goo.gl/FonQCb</fanart>
+<info>Em uma decadente cidade siderúrgica na Pensilvânia, é descoberto o corpo destroçado de uma jovem. Enquanto a cidade procura pelo monstro responsável pela tragédia, os residentes passam a ser vistos como suspeitos, da nova família de ciganos até o rico clã dos Godfrey. No mundo obscuro de Hemlock Grove, todos têm segredos obscuros. Do diretor Eli Roth ("O albergue maldito") chega uma nova série sobrenatural e cheia de mistério baseada no livro de Brian McGreevy.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Hell On Wheels[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/212961-8.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/uBNQei9D</externallink>
+<fanart>https://goo.gl/4eYJoS</fanart>
+<info>A série “Hell on Wheels”retrata uma história situada no período pós-Guerra Civil. Acompanhando a vida de Cullen Bohannon (Anson Mount), verá os bastidores da construção da ferrovia transcontinental. A missão de Cullen é vingar a sua esposa, morta pelos soldados da União. Tentando localizá-los, ele arranja emprego na Union Pacific, empresa que está a construir a primeira ferrovia transcontinental. Lá, ele encontra o ex-escravo Elam (o rapper Common). Entre os envolvidos da obra está Thomas ‘Doc’ Durant (Colm Meaney, de “Jornada nas Estrelas: a Nova Geração”), um empresário que não mede esforços para obter lucro com os seus negócios.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Homeland - Segurança Nacional[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/Yd92MV</thumbnail>
+<externallink>https://pastebin.com/raw/Fkm9Cg8v</externallink>
+<fanart>https://goo.gl/4HBWes</fanart>
+<info>Oito anos após o desaparecimento de dois soldados norte-americanos no Iraque, um deles retorna após ser resgatado pelo exército americano. Repatriado, ele é recebido como herói pela família, amigos e pelo governo. Contra todos que o exaltam, a agente da CIA Carrie Mathison, que passou vários anos no Afeganistão, acredita que o herói é, na verdade, um espião do inimigo preparando o próximo ataque terrorista em solo dos EUA.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Hotel Beau Séjour[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/318352-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/jaSdP9vR</externallink>
+<fanart>https://goo.gl/gK34R6</fanart>
+<info>A jovem Kato (Lynn Van Royen) acorda no pequeno hotel Beau Séjour e se depara com um corpo na banheira – o seu. Ela não se lembra do que aconteceu na noite anterior e sai em busca de respostas, mas acaba descobrindo muito mais do que esperava. Cinco pessoas conseguem vê-la e se comunicar enquanto ela busca desesperadamente por respostas de quem a matou.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]I'm Sorry[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/324294-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/R8UFZ8Wg</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6LyhhntwCagEwTH2B1lmAozAuvB.jpg</fanart>
+<info>Andrea é uma escritora de comédia aparentemente confiante, esposa e mãe, que comicamente expõe sua imaturidade interna e neuroses através de situações de vida inesperadas.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Into the Badlands[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/JCkC7N</thumbnail>
+<externallink>https://pastebin.com/raw/ZFZWY1hG</externallink>
+<fanart>https://goo.gl/EDwCqs</fanart>
+<info>Um guerreiro poderoso e um menino jovens buscam a iluminação em um território implacável controlado por barões feudais.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]iZombie[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/281470-19.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Ek7SeNRe</externallink>
+<fanart>https://goo.gl/QdqtYS</fanart>
+<info>Uma estudante de medicina que se torna um zumbi junta-se a um médico legista para obter acesso aos cérebros, que relutantemente tem de comer para que possa manter a sua humanidade, mas a cada cérebro que ela come, ela também herda as suas memórias. E agora ela deve resolver as suas mortes com a ajuda do médico legista e um detective da polícia.</info>
+</channel>
+
+
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Julie e os Fantasmas[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/252901-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/w77m8ZgA</externallink>
+<fanart>https://goo.gl/sn9vPW</fanart>
+<info>Um dia Julie resolve colocar um vinil antigo para tocar e descobre uma banda de fantasmas que muda completamente a sua vida. Eles provocam confusões, mas com o tempo a convivência com esses amigos surreais vai ajudar Julie a enfrentar suas inseguranças e a desenvolver o seu grande talento: a música. Juntos eles formam a banda Julie e os Fantasmas. No mundo real, Julie também tem que enfrentar muitos desafios. Ela gosta de Nicolas, mas ele gosta da Thalita e essa patricinha vai fazer de tudo para atrapalhar os planos de Julie. Ainda bem que ela pode contar com Bia, sua melhor amiga inteligente e atrapalhada, e seu irmão Pedrinho que tenta facilitar a vida de todos com suas invenções.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]La casa de papel[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-5.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/hdj2akGV</externallink>
+<fanart>https://goo.gl/57t2gP</fanart>
+<info>Um golpe mestre concebido e aperfeiçoado por anos, planejado por meses e executado em poucos minutos para que o grupo escolhido de ladrões que entre na Fábrica Nacional de Moeda e Carimbo a ponto de armas de fogo faça com que a polícia acredite que seu plano falhou ... e que eles estão sitiados dentro do prédio sem outra saída que a sua rendição. Onze dias de confinamento com os 67 reféns (entre funcionários da FNMT e estudantes de uma escola que estavam visitando) e uma operação policial sem precedentes que manterá todo o governo sob controle. Um roubo de planejamento meticuloso, cujos executores precisam de um mínimo de dias para poder realizá-lo. Por esta razão, é por a razão que, ao longo do tempo, a chave do seu sucesso reside. Quem pode estar por trás dessa idéia louca?</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Lei e ordem: crime verdadeiro[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/328518-2.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://goo.gl/EcZynZ</fanart>
+<info>Quando os irmãos Menendez foram tentados na TV nacional por matar brutalmente seus pais em Beverly Hills, sua história tornou-se uma obsessão nacional. Agora, a primeira edição desta série de antologia aprofunda os jogadores, o crime e o circo da mídia, detalhando as batalhas do dia-a-dia do julgamento e revelando a verdade chocante do que realmente diminuiu quando as câmeras pararam de rolar.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Legends Of Tomorrow[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/BKy8Xo</thumbnail>
+<externallink>https://pastebin.com/raw/HZ4zMCXG</externallink>
+<fanart>https://goo.gl/GCDwKT</fanart>
+<info>Quando os heróis sozinhos não são suficientes ... o mundo precisa de lendas. Tendo visto o futuro, ele tentará desesperadamente impedir que isso aconteça, o Rip Hunter viajando no tempo é encarregado de reunir um grupo disparatado de heróis e vilões para enfrentar uma ameaça imparável - uma na qual o planeta não está em jogo, mas todo o tempo em si. Essa equipe de ragtag pode derrotar uma ameaça imortal diferente de tudo o que já conheceu?</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Legion[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/320724-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/7ahvTipt</externallink>
+<fanart>http://i.imgur.com/wHi10fD.jpg</fanart>
+<info>David Haller (Dan Stevens) é um rapaz diagnosticado com esquizofrenia que passou os últimos cinco anos de sua vida em um hospital. Institucionalizado mais uma vez, David se perde na rotina estruturada da vida no hospital, e passa todo o seu tempo em silêncio junto à amiga Lenny (Aubrey Plaza), uma paciente cujo vício em drogas e álcool não diminuiu em nada seu otimismo. Mas a vida de David muda com a chegada de uma nova paciente: Syd Barrett (Rachel Keller). Atraídos um pelo outro, David e Syd compartilham um encontro surpreendente, depois do qual David enfrenta a possibilidade de as vozes que ele ouve não sejam exatamente produtos de sua imaginação.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Lie To Me[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/83602-5.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Vv9K7TkG</externallink>
+<fanart>https://goo.gl/Q5Lcof</fanart>
+<info>A série traz as investigações de uma equipe formada por especialistas em detectar mentiras. As mínimas expressões e gestos são interpretados por esses cientistas do comportamento, que prestam seus serviços para diversas entidades, como o FBI, a polícia, empresas particulares ou mesmo pessoas que estejam dispostas a descobrir a verdade que alguém pode estar escondendo. O grupo é liderado pelo Dr. Cal Lightman, um cientista que dedicou toda a sua vida ao estudo do comportamento humano. Lightman ainda conta com a ajuda da sua parceira e psicóloga Dra. Gillian Foster, além do pesquisador Eli Locker e de Ria Torres, uma mulher com o talento natural de interpretar as expressões humanas. Juntos eles formam uma equipe de verdadeiros polígrafos humanos.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Lucifer[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/8FoABz</thumbnail>
+<externallink>https://pastebin.com/raw/HE8e7aPa</externallink>
+<fanart>https://goo.gl/NxHgXS</fanart>
+<info>Lucifer é o anjo caído original encantador, carismático e bonito, que, entediado e infeliz no inferno, se refugia em Los Angeles, onde ele usa seu dom de persuasão para punir os bandidos. Mas quanto mais ele estiver longe do mundo subterrâneo, maior a ameaça que o pior da humanidade poderia escapar.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Luke Cage[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/bDiiTP</thumbnail>
+<externallink>https://pastebin.com/raw/nzLBLxd6</externallink>
+<fanart>https://goo.gl/2gJYeh</fanart>
+<info>Depois que um experimento sabotado ter deixado Luke Cage com uma super-força e pele indestrutível, ele se torna um fugitivo que tenta reconstruir a vida no Harlem, bairro de Nova York. Mas logo ele é forçado a sair das sombras e lutar pela sua cidade, bem como confrontar o passado do qual tentou fugir e assumir a identidade de herói.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]MacGyver: Remake[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/311902-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/5rtMbqdC</externallink>
+<fanart>https://goo.gl/R9Seof</fanart>
+<info>Angus "Mac" MacGyver, cria o Departamento de Serviços Externos (DXS), uma organização clandestina dentro do governo dos EUA, onde ele usa seu extraordinário talento para a resolução de problemas não convencionais e o vasto conhecimento científico para salvar vidas.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Magnífica 70[/B][/COLOR] [COLORyellow][B]B[/B][/COLOR][COLORlime][B]R[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/295971-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/xnpGvWZq</externallink>
+<fanart>https://goo.gl/ceGStW</fanart>
+<info>A série acompanha Vicente (Marcos Winter), um homem entediado com sua realidade, que trabalha no departamento de censura do governo de São Paulo. Ele é casado com Isabel (Maria Luiza Mendonça), mas acaba se apaixonando por Dora Dumar (Simone Spoladore), atriz de um dos filmes que ele tem como obrigação censurar. Querendo conhecê-la, Vicente ai até a Boca do Lixo, onde se produziam os filmes da pornochanchadas e alguns filmes independentes. Ao conhecer Dora e seu trabalho, ele fica encantado, e começa então a querer fazer mais parte desse mundo.</info>
+</channel>
+
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Malasartes[/B][/COLOR] [COLORyellow][B]B[/B][/COLOR][COLORlime][B]R[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/339027-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/j4LSGrU2</externallink>
+<fanart>https://i.ytimg.com/vi/loh9-o0JYTg/maxresdefault.jpg</fanart>
+<info>Pedro Malasartes é um malandro que, por mais que seja apaixonado por Áurea, não resiste a um rabo de saia. Devendo muito dinheiro a Próspero, irmão de sua amada, Malasartes precisa escapar dele ao mesmo tempo em que prega peças, sempre usando a inteligência, de forma a conseguir alguns trocados. Só que seu padrinho, a Morte em pessoa, tem outros planos para ele.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Máquina Mortífera[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/4xkedY</thumbnail>
+<externallink>https://pastebin.com/raw/t9EqpyJ9</externallink>
+<fanart>https://goo.gl/Ni3bws</fanart>
+<info>Quando o policial do Texas e antigo membro da SEAL Martin Riggs perde a mulher e o bebê, ele se muda para Los Angeles para começar uma vida nova. Lá, ele forma parceria com o detetive da polícia Roger Murtaugh, que, por sofrido recentemente um pequeno ataque cardíaco, deve evitar qualquer estresse em sua vida.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Marvel's Agents of S.H.I.E.L.D.[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/Sj8gsL</thumbnail>
+<externallink>https://pastebin.com/raw/d6Rx09wJ</externallink>
+<fanart>https://goo.gl/M6FhYL</fanart>
+<info>Após os acontecimentos em Nova York, retratados em Os Vingadores, a S.H.I.E.L.D. (Superintendência Humana de Intervenção, Espionagem, Logística e Dissuasão) deve mobilizar seus integrantes para solucionar vários casos relacionados com super-heróis. A equipe é liderada pelo agente Phil Coulson.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Marco Polo[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/266091-18.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/L0eTd7hM</externallink>
+<fanart>https://goo.gl/5YKXa3</fanart>
+<info>Num mundo repleto de ganância, traição, intriga sexual e rivalidade, "Marco Polo" baseia-se em aventuras do famoso explorador da corte de Kublai Khan na China no século XIII.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Marvel - Demolidor[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/6biF9d</thumbnail>
+<externallink>https://pastebin.com/raw/10wzczcs</externallink>
+<fanart>https://goo.gl/ad6p2v</fanart>
+<info>Matt Murdock, com seus outros sentidos superaventados, combate o crime como um advogado cego de dia e vigilante de noite.</info>
+</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Marvel - Jessica Jones[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/RBqtmj</thumbnail>
+		<externallink>https://pastebin.com/raw/gf0xJXfB</externallink>
+		<fanart>https://goo.gl/kmz4AM</fanart>
+		<info>Como a sua curta jornada como super-heroína terminou em tragédia, Jessica Jones (Krysten Ritter) reconstruiu a sua vida pessoal e carreira como uma detetive particular em Hell's Kitchen. Atormentada por auto-depreciação e um forte caso de stress pós-traumático, Jessica luta os seus demónios, interiores e exteriores, usando as suas habilidades para ajudar aqueles que precisam... Principalmente se estiverem dispostos a pagar a conta.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Marvel - O Justiceiro[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/331980-3.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/a40xpNR2</externallink>
+		<fanart>https://goo.gl/FTxWnx</fanart>
+		<info>O crime não dura quando Frank Castle está por perto. O veterano de guerra é impiedoso na sua guerra contra malfeitores, alimentada pelo ódio gerado quando sua família foi pega no fogo cruzado durante um tiroteio entre mafiosos.</info>
+		<genre>Ação,Crime</genre>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Marvel - Os Inumanos[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/320558-5.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/01D5BhPP</externallink>
+		<fanart>https://goo.gl/pBey15</fanart>
+		<info>Uma voz que pode destruir cidades, cabelos que são mortais e pés que causam terremotos. Estes são alguns dos poderes dos Inumanos, um grupo de seres raros e poderosos, que apesar da ascendência de humanos comuns, foram modificados após sucessivos testes realizados por uma raça de alienígenas conhecida como Kree. Organizados por um sistema de castas, eles são liderados pela Família Real, que fará de tudo para manter a ordem na sociedade</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Marvel - Punho de Ferro[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/317953-12.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/icTu9C8S</externallink>
+		<fanart>https://goo.gl/9rd4Lz</fanart>
+		<info>Voltando à cidade de Nova York depois de ter desaparecido há anos, Daniel Rand luta contra o elemento criminoso que corrompe a cidade de Nova York com seu incrível domínio de kung-fu e habilidade para convocar o incrível poder do ardente Iron Fist</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Marvel - Runaways[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/332027-10.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/YH3Y03wL</externallink>
+		<fanart>https://goo.gl/H26E3t</fanart>
+		<info>Depois de descobrir que seus pais são super-vilões disfarçados, um grupo de adolescentes se junta para fugir de suas casas para expiar as ações de seus pais e descobrir os segredos de suas origens.</info>
+	</channel>
+  
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Me Chama de Bruna[/B][/COLOR]  [COLORyellow][B]B[/B][/COLOR][COLORlime][B]R[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/317751-4.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/ysJM09AW</externallink>
+<fanart><fanart>https://goo.gl/jYpUDE</fanart></fanart>
+<info>Raquel (Maria Bopp) é uma jovem de classe média que decide virar garota de programa, adotando o apelido "Bruna Surfistinha". Stella, uma cafetina experiente, abriga a jovem em sua casa, onde ela não demora para se sobressair e gerar inveja nas colegas Georgette (Stella Rabelo), Mônica (Luciana Paes) e Jéssica (Nash Laila). Descobre no novo trabalho uma soma de vocação e prazer, virando a favorita da clientela. Mas nem tudo são flores, pois ela é confrontada com a dura realidade do ramo da prostituição: meninas que precisam trabalhar desde cedo pra sustentar a família, clientes agressivos que objetificam as acompanhantes, e sua família, que não se conforma com a profissão da moça. Além de tudo ela precisa lidar com Nancy (Suzana Kruger), a assistente de Stella, tem inveja de Bruna e acha que a nova contratada tem segundas intenções. Bruna supera todos esses desafios, se</info>
+</channel>
+
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Mindhunter[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/jPB9x3</thumbnail>
+		<externallink>https://pastebin.com/raw/cPyXiKCi</externallink>
+		<fanart>ttps://goo.gl/zNNqc2</fanart>
+		<info>Dois agentes do FBI expandem as fronteiras da ciência criminal nos anos 70 com um perigoso mergulho no universo da psicologia do assassinato.</info>
+	</channel>
+  
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Mr. Bean[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/76316-4.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/vyGPT49z</externallink>
+<fanart>https://goo.gl/xFqfUZ</fanart>
+<info>Mr. Bean é uma série humorística da televisão inglesa protagonizada por Rowan Atkinson no papel de Mr. Bean. O primeiro episódio foi transmitido em 1º de janeiro de 1990 pela ITV (Independent Television) e a série seguiu no ar até 31 de outubro de 1995. Durante os cinco anos, foi aumentando sua audiência, até alcançar 18,74 milhões de espectadores durante o episódio "The Trouble With Mr Bean", em 1992. Além disso, recebeu um número relevante de prêmios internacionais, entre eles "A Rosa de Ouro" (Rose d'Or). O programa também deu origem a dois filmes e uma série de desenhos animados. A personalidade de Mr. Bean é agradável, divertida e inclusive ingênua e, algumas vezes, malvada. Rowan Atkinson (protagonista) sempre enxergou o personagem como um garoto de 6 anos. Vive em seu pequeno apartamento no norte de Londres (Inglaterra) com seu ursinho de pelúcia Teddy. Mr.</info>
+</channel>
+
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Mr. Robot[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/CvbtzD</thumbnail>
+		<externallink>https://pastebin.com/raw/DEZRjtBZ</externallink>
+		<fanart>https://goo.gl/tmzZmR</fanart>
+		<info>Elliot (Rami Malek) é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot se vê numa encruzilhada quando o líder (Christian Slater) de um misterioso grupo de hacker o recruta para destruir a firma que ele é pago para proteger. Motivado pelas suas crenças pessoais, ele luta para resistir à chance de destruir os CEOs da multinacional que ele acredita estarem controlando – e destruindo – o mundo.</info>
+	</channel>
+  
+    <channels>
+    </channels><channel>
+		<name>[COLOR white][B]Narcos[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/2e9W7d</thumbnail>
+		<externallink>https://pastebin.com/raw/71hYMDBe</externallink>
+		<fanart>https://goo.gl/wpg3QR</fanart>
+		<info>Narcos é a história real dos esforços dos Estados Unidos e Colômbia para combater o temido traficante Pablo Escobar (interpretado pelo ator Wagner Moura, de Tropa de Elite) e o cartel de Medellín, uma das organizações criminosas mais ricas e impiedosas da história.</info>
+	</channel
+  
+<channels>
+</channels><channel>
+<name>[COLOR white][B]One Tree Hill[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/72158-8.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/38rmiFxg</externallink>
+<fanart>https://goo.gl/iZAQ8j</fanart>
+<info>One Tree Hill (título original em Portugal, Lances da Vida no Brasil) é uma série criada por Mark Schwahn que começou a ser exibida em 23 de setembro de 2003 pela Warner Bros. O canal continuou exibindo o seriado até 3 de maio de 2006, quando foi anunciado que este se juntaria com a UPN e formaria o canal "The CW", que transmitiu a série desde a quarta temporada até hoje. Em Portugal, a série é exibida pelo canal Sony Entertainment Television. No Brasil, a série é exibida pela FOX, FOX Life e pelo SBT. A série teve sua oitava temporada já confirmada.</info>
+</channel>
+
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Os Defensores[/B][/COLOR]</name>
+		<thumbnail>http://br.web.img3.acsta.net/pictures/17/06/23/15/57/107923.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/SAzEPMeh</externallink>
+		<fanart>https://i.ytimg.com/vi/K4_A0BNrJbk/maxresdefault.jpg</fanart>
+		<info>A minissérie reúne Matt Murdock (Charlie Cox), o Demolidor; Jessica Jones (Krysten Ritter), Luke Cage (Mike Colter) e Danny Rand (Finn Jones), o Punho de Ferro, e conta a história dos ‘heróis imperfeitos de Hell’s Kitchen’.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Orange Is the New Black[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/5ibDXe</thumbnail>
+		<externallink>https://pastebin.com/raw/FAAmBf3f</externallink>
+		<fanart>https://goo.gl/M35ans</fanart>
+		<info>O passado conturbado de Piper Chapman, ligado a um contrabandista de drogas, volta para a assombrar, levando-a a ser presa numa prisão federal. De modo a pagar a sua divida à sociedade, Piper troca o conforto de Nova Iorque por um "macacão" cor-de-laranja. Pelo meio encontra um grupo de colegas excêntrico, cheio de improváveis conflitos e camaradagem ao mesmo tempo.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]O Atirador[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/S9E4xb</thumbnail>
+		<externallink>https://pastebin.com/raw/sMQNSkiR</externallink>
+		<fanart>https://goo.gl/bzt6yj</fanart>
+		<info>Thriller de conspiração baseado no best-seller "Point of Impact", de Stephen Hunter, e no filme homônimo de 2007, estrelado por Mark Wahlberg. Estrelando Ryan Phillippe, a série segue a jornada de Bob Lee Swagger, um veterano altamente condecorado que é persuadido de volta à ação para evitar um complô para matar o presidente dos Estados Unidos. Quando o ex-oficial de comando de Swagger, Isaac Johnson, solicita sua experiência em uma operação clandestina, ele descobre que foi enquadrado e deve fazer tudo ao seu alcance para proteger sua família e limpar seu nome.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]O bom doutor[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/328634-2.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/HgWj31ut</externallink>
+		<fanart>https://goo.gl/tSu2Mc</fanart>
+		<info>Shaun Murphy, jovem cirurgião com autismo e síndrome savante, se desloca de uma vida campestre tranquila para se juntar a uma unidade cirúrgica de hospital de prestígio. Sozinho no mundo e incapaz de se conectar pessoalmente com os que o cercam, Shaun usa seus extraordinários dons médicos para salvar vidas e desafiar o ceticismo de seus colegas.</info>
+	</channel>
+  
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]O Grande Gonzalez[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/302744-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/xHCNJENL</externallink>
+<fanart>https://i.ytimg.com/vi/jNTr8cJnMSo/maxresdefault.jpg</fanart>
+<info>Durante uma festa infantil, o mágico Gonzalez morre após um truque mal sucedido. Afogamento, envenenamento, acidente, assassinato? Todas as linhas de investigação serão seguidas pela polícia e todos são suspeitos.</info>
+</channel>
+
+  <channels>
+		</channels><channel>
+		<name>[COLOR white][B]Os Magos[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/299139-13.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/ZPaiDYVj</externallink>
+		<fanart>https://goo.gl/g5ZsK7</fanart>
+		<info>A série centra-se em Quentin, um brilhante estudante de graduação escolhido para comparecer ao Brakebills College for Magical Pedagogy, uma universidade secreta do estado de Nova York especializada em magia. Ele e seus amigos de 20 anos logo descobrem que o mundo de fantasia mágico que lê como crianças é muito real - e representa um grave perigo para a humanidade.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]O talentoso[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/328552-3.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/kL7NS8wJ</externallink>
+		<fanart>https://goo.gl/oQmX18</fanart>
+		<info>Em um mundo onde os seres humanos mutantes são tratados com desconfiança e medo, um instituto para mutantes luta para alcançar uma coexistência pacífica com a humanidade.</info>
+	</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Outcast[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/298085-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/A3BBtMBP</externallink>
+<fanart>https://images3.alphacoders.com/819/819394.jpg</fanart>
+<info>Outcast centra-se em Kyle Barnes, que foi atormentado pela posse desde que era criança. Agora, um adulto, ele embarca em uma jornada espiritual para encontrar respostas, mas o que ele descobre pode significar o fim da vida na Terra como a conhecemos.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Powerless[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/311786-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Lai2bdAG</externallink>
+<fanart>https://goo.gl/HvAA9K</fanart>
+<info>Em um mundo onde a humanidade deve lidar com o dano colateral de Super Heroes e Super-Villains, Emily Locke começa seu primeiro dia como Diretor de Pesquisa e Desenvolvimento da Wayne Security, uma subsidiária da Wayne Enterprises que se especializa em produtos que tornam os espectadores indefesos a se sentirem um um pouco mais seguro. Cheio de confiança e grandes idéias, Emily rapidamente descobre que suas expectativas excedem em muito as de seu novo chefe e oficiais, então cabe a ela liderar o time em direção ao seu potencial total e a consciência de que você não precisa de superpotências para ser um herói.</info>
+</channel>  
+
+  <channels>
+	  </channels><channel>
+		<name>[COLOR white][B]Preacher[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/JviYHm</thumbnail>
+		<externallink>https://pastebin.com/raw/BtnkndEF</externallink>
+		<fanart>https://goo.gl/u8uEKn</fanart>
+		<info>Jesse Custer é um ex-pastor que foi possuído por uma entidade chamada Gênesis, que fugiu do Paraíso e está sendo procurada pelos anjos. Quando Jesse e Gênesis se tornam um só, os anjos enviam o Santo dos Assassinos, um matador do Século XIX, para persegui-lo. A série é baseada na HQ de mesmo nome da Vertigo, uma das responsáveis por HQs da DC Comics.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Rick and Morty[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/275274-2.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/fsKC8s3N</externallink>
+		<fanart>https://goo.gl/awPpR1</fanart>
+		<info>Uma série animada que acompanha as aventuras e os descobrimentos de um super cientista e seu neto não muito brilhante.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Riverdale[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/ZBp2bS</thumbnail>
+		<externallink>https://pastebin.com/raw/U164ydPg</externallink>
+		<fanart>https://goo.gl/rT6uw4</fanart>
+		<info>Situado nos dias atuais e com base nos icônicos personagens da Archie Comics, Riverdale é uma versão surpreendente e subversiva de Archie, Betty, Veronica e seus amigos, explorando o surrealismo da vida em uma pequena cidade – mostrando a estranheza que se esconde atrás da fachada saudável de Riverdale.</info>
+	</channel>
+
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Roma[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/73508-7.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/r1FydY9e</externallink>
+<fanart>https://goo.gl/N2f1GS</fanart>
+<info>Esta brilhante superprodução da HBO em associação com a BBC traz um retrato crível do que foi o período entre o final da República e o início do Império Romano. Os episódios grudam você na tela, há maldade, tramóias, vingança, libido, conspiração... E tudo aquilo que um dia Roma foi. Vale à pena assistir.</info>
+</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Sabedoria da multidão[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/328685-3.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/P9cTV2uP</externallink>
+		<fanart>https://goo.gl/j8tLiX</fanart>
+		<info>Após o assassinato de sua própria filha, o inovador tecnológico Jeffrey Tanner (Jeremy Piven) cria um centro de crowdsourcing de ponta a fim de desvendar o mistério acerca do crime que tirou a vida dela. Do seu projeto também pode vir a solução de outros casos ocorridos na cidade de São Francisco, nos Estados Unidos.</info>
+	</channel>
+  
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Salvation[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/325517-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/vBqjVh4y</externallink>
+<fanart>https://i.pinimg.com/originals/10/c9/67/10c967b7ab64b0d437019b8642f2a8ec.jpg</fanart>
+<info>O show centra-se nas ramificações da descoberta de um asteróide que impactará a Terra em apenas seis meses e as tentativas de preveni-la.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]SEAL Team[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/328686-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/EX9JwzkH</externallink>
+<fanart>https://images5.alphacoders.com/553/553438.jpg</fanart>
+<info>A falha não é uma opção para os SEALs da Marinha - as forças de ação mais elite e especial do mundo. Neste novo drama cheio de ação, esses guerreiros furtivos e sem medo conduzem missões clandestinas de alto risco contra probabilidades impossíveis. E quando eles retornam à frente da casa enfrentam o estresse de uma natureza diferente. Manter segredos, implantar em um momento de aviso, e o conhecimento de que cada tarefa pode ser o último deles tem um impacto sobre eles e suas famílias. Mas seu juramento e patriotismo inquebrável os obriga a perseverar.</info>
+</channel>
+
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Sense8[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/ykyNfU</thumbnail>
+		<externallink>https://pastebin.com/raw/4E5btLxQ</externallink>
+		<fanart>https://goo.gl/6ubSDx</fanart>
+		<info>Um grupo de pessoas em todo o mundo está de repente ligada mentalmente, e deve encontrar uma maneira de sobreviver a ser caçado por aqueles que as vêem como uma ameaça para a ordem mundial.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]SIX – Esquadrão Antiterrorista[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/eZiVbu</thumbnail>
+		<externallink>https://pastebin.com/raw/Zw6YJ99F</externallink>
+		<fanart>https://goo.gl/QSSxc5</fanart>
+		<info>Uma equipe de elite dos fuzileiros navais americanos com a missão secreta de assassinar um líder do Talibã no Afeganistão vê seus planos se complicarem quando descobrem que um cidadão americano está trabalhando com o inimigo.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Silicon Valley[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/fH92PW</thumbnail>
+		<externallink>https://pastebin.com/raw/8m1kMMVG</externallink>
+		<fanart>https://goo.gl/8Wi8Fn</fanart>
+		<info>Criada por Mike Judge, John Altschuler e Dave Krinsky, todos de King of the Hill, a série é situada no Vale do Silício, apelido dado a uma área entre San Francisco e San Jose, onde as empresas relacionadas às novas tecnologias operam. A história gira em torno de profissionais qualificados e bem sucedidos, mas incapazes de lidar com o sucesso. Na história, Richard (Thomas Middleditch) é um programador de computador introvertido que sofre de baixa autoestima. Ele vive na Hacker House, uma comunidade que abriga outros fanáticos por tecnologia. A casa é de propriedade de Erlich (TJ Miller, de The Goodwin Games), que tem sua inteligência dominada por seu ego. Na casa também moram Big Head (Josh Brener, de Glory Daze), amigo e confidente de Richard, que se uniu ao grupo depois que ele criou um app que Erlich adora; Gilfoyle (Martin Starr) e Dinesh (Kumail Nanjiani). O grupo d</info>
+	</channel>
+  
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Sob Pressão[/B][/COLOR]  [COLORyellow][B]B[/B][/COLOR][COLORlime][B]R[/B][/COLOR]</name>
+<thumbnail>http://br.web.img3.acsta.net/pictures/16/10/04/17/09/529344.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/CzMBq9Av</externallink>
+<fanart>https://goo.gl/yCxCzQ</fanart>
+<info>Duas vidas atormentadas pelos fantasmas do passado encontram, uma na outra, a cura para suas almas doentes. De um lado, o cético Dr. Evandro (Julio Andrade), cirurgião-chefe da equipe médica de um hospital público. Do outro, a religiosa e eficiente Dra. Carolina (Marjorie Estiano), cirurgiã vascular que busca na fé o antídoto contra toda miséria que enfrenta no dia a dia.</info>
+</channel>
+
+  <channels>
+		</channels><channel>
+		<name>[COLOR white][B]Sherlock[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/oMHuyE</thumbnail>
+		<externallink>https://pastebin.com/raw/Au5sRLXL</externallink>
+		<fanart>https://goo.gl/JHoZEw</fanart>
+		<info>“Sherlock”, minissérie produzida pela BBC, traz uma visão moderna para os personagens clássicos da literatura, com as deduções brilhantes e os detalhes icônicos da história original de Conan Doyle. A dupla vive no mesmo endereço da Baker Street, 221 B, têm os mesmos nomes e, em algum lugar lá fora, Moriarty está esperando por eles.
+</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Shadowhunters[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/jF9Uwo</thumbnail>
+		<externallink>https://pastebin.com/raw/CbSkUgGp</externallink>
+		<fanart>https://goo.gl/zPX23a</fanart>
+		<info>Clary Fray descobre que ela é um Shadowhunter, um híbrido humano-anjo que caça demônios. Depois que sua mãe é seqüestrada por um demônio, Clary junta-se a uma banda de Shadowhunters para salvar sua mãe e descobre poderes que ela nunca conheceu.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Star Trek: Discovery[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/328711-5.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/Mh6mtwxJ</externallink>
+		<fanart>https://goo.gl/4Pokck</fanart>
+		<info>Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.</info>
+	</channel>
+  
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Stranger Things[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/1FMxDb</thumbnail>
+		<externallink>https://pastebin.com/raw/1Rqwufqj</externallink>
+		<fanart>https://goo.gl/uQQQUx</fanart>
+		<info>Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.</info>
+	</channel>
+
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]StartUp[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/310614-5.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/BhDQETWt</externallink>
+<fanart>https://goo.gl/7gmdoA</fanart>
+<info>Miami - Um banqueiro desesperado precisa esconder dinheiro roubado. Um senhor de banda haitiano-americano quer ir legítimo. Um hacker cubano-americano tem uma idéia que revolucionará o próprio futuro do próprio dinheiro. Forçados a trabalhar juntos, eles inconscientemente criam sua versão do sonho americano - crime organizado 2.0.</info>
+</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Spartacus[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/1VKCU9</thumbnail>
+		<externallink>https://pastebin.com/raw/kbN2TkHz</externallink>
+		<fanart>https://goo.gl/mq6oT8</fanart>
+		<info>Traído por seu país. Torne-se um escravo. Renascido como um guerreiro. Spartacus: Blood and Sand é a história mais gráficos e visceral do gladiador mais famoso em Roma. Apresentando um elenco estelar, esta série apresenta uma mistura única de ação, efeitos e batalhas brutais. Quando separados do amor de sua vida, Spartacus é forçado a participar da arena, onde uma morte dolorosa é a principal diversão. Ele deve lutar pela sobrevivência, perto de amigos e fazer política neste mundo de corrupção, violência, sexo e fama. Spartacus será seduzido pelo poder e atormentado pelo desejo de vingança, mas sua paixão lhe dará a força para superar qualquer obstáculo em relação a esta morte moderna e honra.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Supergirl[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/WcEL1S</thumbnail>
+		<externallink>https://pastebin.com/raw/giP3UQ2n</externallink>
+		<fanart>https://goo.gl/Hd2Gdw</fanart>
+		<info>Depois de esconder os seus poderes durante 12 anos, um desastre força Kara Zor-El a utilizá-los, acabando por se tornar numa famosa heroína. Decidida a seguir o exemplo do seu primo (Super-Homem), ela finalmente aceita as suas habilidades sobre-humanas e torna-se a heroína que sempre sonhou ser, ficando conhecida como Supergirl.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Taboo[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/WNXrpk</thumbnail>
+		<externallink>https://pastebin.com/raw/C401W6jv</externallink>
+		<fanart>https://goo.gl/wnJNTR</fanart>
+		<info>Em 1814, o aventureiro James Keziah Delaney (Tom Hardy) retorna da África com uma coleção ilegal de diamantes. Recusando-se a vender o negócio da família para a Companhia das Índias Orientais, ele planeja utilizar as pedras para construir um grande império naval e assim vingar a morte misteriosa do seu pai.</info>
+	</channel>
+  
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Taken[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/311892-6.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://goo.gl/tn58hr</fanart>
+<info>Como o ex-agente da CIA Bryan Mills lida com uma tragédia pessoal que sacode seu mundo, ele luta para superar o incidente e vingança exata.</info>
+</channel>
+
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]The 100[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/zzf4Xa</thumbnail>
+		<externallink>https://pastebin.com/raw/MrxbNGzE</externallink>
+		<fanart>https://goo.gl/4EZnqZ</fanart>
+		<info>Quando o Armagedon nuclear destrói a civilização na Terra, os únicos sobreviventes são aqueles nas 12 estações espaciais internacionais em órbita na época. Três gerações depois, os 4.000 sobreviventes que vivem em uma arca espacial de estações ligadas vêem seus recursos diminuírem e enfrentam medidas draconianas estabelecidas para garantir o futuro da humanidade. Desesperadamente procurando uma solução, os líderes da arca enviam 100 prisioneiros juvenis de volta ao planeta para testar sua habitabilidade. Tendo vivido sempre no espaço, os exilados acham o planeta fascinante e terrível, mas com o destino da raça humana em suas mãos, eles devem forjar um caminho para o desconhecido.</info>
+	</channel>
+  
+  <channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Blacklist[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/32HXv1</thumbnail>
+		<externallink>https://pastebin.com/raw/gMiZzy4z</externallink>
+		<fanart>https://goo.gl/CGz27j</fanart>
+		<info>Protagonizada por James Spader e Megan Boone, The Blacklist narra a história de um ex-agente do governo e um dos fugitivos mais procurados do FBI, Raymond “Red” Reddington (James Spader) que se rende misteriosamente ao FBI, prometendo ajudá-los na captura de outros alvos, com uma contrapartida: só aceitará falar com a novata agente Elizabeth Keen (Megan Boone), com quem, aparentemente, não tem nenhuma ligação.
+</info>
+	</channel>
+  
+  <channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Blacklist: redenção[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/311903-5.jpg</thumbnail>
+		<externallink></externallink>
+		<fanart>https://goo.gl/RPaZ3g</fanart>
+		<info>O operador secreto Tom Keen junta forças com Susan "Scottie" Hargrave, o brilhante e esperto chefe da Gray Matters, uma organização mercenária secreta que resolve problemas que os governos não se atrevem a tocar. Enquanto estava à procura do atacante de Liz, Tom descobriu secretamente que Scottie é realmente sua mãe biológica. Agora, ao se unirem para empregar suas habilidades e recursos únicos em um mundo perigoso de criminosos mortais, Tom começa sua própria missão secreta para descobrir mais sobre seu passado sombrio.</info>
+	</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Crown[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/305574-7.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/xZhdSczJ</externallink>
+<fanart>https://goo.gl/epBUhi</fanart>
+<info>Esta série dramática segue a política, rivalidades e relacionamentos da rainha Elizabeth II, e os eventos que fizeram a história.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Deuce[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/317728-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/JTpp4JMH</externallink>
+<fanart>http://www.aescotilha.com.br/wp-content/uploads/2017/11/The_Deuce.jpg</fanart>
+<info>Esta série de drama segue a legalização e subsequente ascensão da indústria do porn em Nova York desde o início da década de 1970 até meados da década de 1980, explorando o mundo áspero e em ruínas do centro de Manhattan. James Franco é a estrela como irmãos gêmeos da vida real que eram jogadores no mundo do Times Square e tornou-se frente para o controle da máfia da indústria do sexo volátil e lucrativo desde o início.</info>
+</channel>
+
+ <channels>
+</channels><channel>
+<name>[COLOR white][B]The Expanse[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/280619-7.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/jU8vUThT</externallink>
+<fanart><fanart>https://goo.gl/BNMF1C</fanart></fanart>
+<info>Situada duzentos anos no futuro, em um sistema solar totalmente colonizado, o detetive de polícia Josephus Miller recebe a missão de encontrar uma jovem mulher desaparecida, Julie Mao. Juntando-se a sua missão, James Holden, o ex-primeiro oficial de um cargueiro de gelo que está envolvido em um incidente causado pela relação tensa entre a Terra, Marte e Belter. Longe de suas lutas no espaço, a executiva das Nações Unidas Chrisjen Avasarala trabalha para impedir a guerra entre a Terra e Marte. Rapidamente os três descobrem que a mulher desaparecida está ligada a uma vasta conspiração que ameaça toda a humanidade.</info>
+</channel>
+
+  <channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Flash[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/BF1x1d</thumbnail>
+		<externallink>https://pastebin.com/raw/Yn3FbXsu</externallink>
+		<fanart>https://goo.gl/mZgBw7</fanart>
+		<info>Barry Allen acorda nove meses depois que ele foi atingido por um raio e descobre que o parafuso lhe deu o poder da super velocidade. Com sua nova equipe e poderes, Barry se torna "The Flash" e combate o crime na Central City.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Good Place[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/jAupB9</thumbnail>
+		<externallink>https://pastebin.com/raw/34Xv2RpH</externallink>
+		<fanart>https://goo.gl/jNUSTA</fanart>
+		<info>Eleanor Shellstrop é uma mulher comum que, através de uma extraordinária série de eventos, entra na vida após a morte, onde ela percebeu que ela não é uma pessoa muito boa. Com a ajuda de seu sábio mentor da vida após a morte, ela está determinada a lançar sua antiga maneira de viver e a descobrir a pessoa incrível (ou pelo menos boa) dentro.</info>
+	</channel>
+  
+  <channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Handmaid’s Tale[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/321239-3.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/5NDK0B0A</externallink>
+		<fanart>https://cdn.mobilesyrup.com/wp-content/uploads/2017/04/The-Handmaids-Tale.jpg</fanart>
+		<info>Depois que um atentado terrorista ceifa a vida do Presidente dos Estados Unidos e de grande parte dos outros políticos eleitos, uma facção catolica toma o poder com o intuito declarado de restaurar a paz. O grupo transforma o país na República de Gilead, instaurando um regime totalitário baseado nas leis dfo antigo testamento, retirando os direitos das minorias e das mulheres em especial. Em meio a isso tudo, Offred é uma “handmaid”, ou seja, uma mulher cujo único fim é procriar para manter os níveis demográficos da população. Na sua terceira atribuição, ela é entregue ao Comandante, um oficial de alto escalão do regime, e a relação sai dos rumos planejados pelo sistema.</info>
+	</channel>
+  
+  <channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Leftovers[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/Va2hQq</thumbnail>
+		<externallink>https://pastebin.com/raw/iCN7BvCy</externallink>
+		<fanart>https://goo.gl/vHz8kr</fanart>
+		<info>Quando 2% da população desaparece abruptamente e sem nenhuma explicação, o mundo todo luta para entender e aceitar o que aconteceu. Terá sido o arrebatamento bíblico, levando os verdadeiros cristãos para junto de Deus no fim dos tempos? Ou um evento sobrenatural simplesmente inexplicável? Três anos depois desse evento traumático, “The Leftovers” é a história das pessoas que foram deixadas para trás.</info>
+	</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Last Man on Earth[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/281622-13.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Ms9Gu2yG</externallink>
+<fanart>https://goo.gl/jBTtvp</fanart>
+<info>O ano é 2022, e depois de um evento improvável, apenas um homem fica na Terra: Phil Miller, que costumava ser apenas um cara comum que amava sua família e odiava seu emprego no banco. Agora, em seu RV, Phil busca o país para outros sobreviventes. Ele viajou para todas as cidades, todas as cidades e todos os postos avançados nos Estados Unidos, México e Canadá, e não encontrou ninguém, o que o leva à dolorosa percepção de que ele é quase certamente o último ser vivo na Terra.</info>
+</channel>
+  
+  <channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Mist[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/qeHGsF</thumbnail>
+		<externallink>https://pastebin.com/raw/61WHiTmn</externallink>
+		<fanart>https://goo.gl/fERQVR</fanart>
+		<info>David Droyton, seu filho e outros moradores de Bridgton, perto de Nova York, se vêem presos num supermercado quando um nevoeiro misterioso se espalha pela cidade. Quando alguns deles tentam sair, são rapidamente devorados por monstros ocultos na neblina. Pânico, paranoia e fanatismo religioso se espalham pelos habitantes á medida que os monstros começam a intimidá-los cada vez mais e as tragédias se sucedem.</info>
+	</channel>
+  
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Night Manager[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/290508-6.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/7UUYEWjX</externallink>
+<fanart>https://goo.gl/FsD6u9</fanart>
+<info>A interpretação contemporânea do drama de espionagem de Le Carre - e a primeira adaptação à TV de um romance le Carre em mais de duas décadas - segue um ex-soldado britânico enquanto ele navega pelos recessos sombrios de Whitehall e Washington, onde uma aliança opera entre a comunidade de inteligência e a comércio secreto de armas, infiltrando o círculo interno do negociante de armas.</info>
+</channel>
+
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Orville[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/8FeqvU</thumbnail>
+		<externallink>https://pastebin.com/raw/m7VkdfVL</externallink>
+		<fanart>https://goo.gl/9bp9rC</fanart>
+		<info>Ed Grayson (Seth MacFarlane), que acaba de enfrentar um divórcio, assume a missão de comandar a nave exploratório Orville, e vê neste trabalho a chance de recomeçar sua vida. O capitão começa a montar uma equipe tão bem preparada quanto excêntrica, e é aí que descobre que uma das tripulantes será sua ex-esposa Kelly Grayson (Adrianne Palicki). Agora, não importa suas desavenças, juntos eles precisam aprender a conviver no espaço.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Originals[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/rVXn9D</thumbnail>
+		<externallink>https://pastebin.com/raw/Jfev5FVm</externallink>
+		<fanart>https://goo.gl/eUqTB7</fanart>
+		<info>Um spin-off de The Vampire Diaries, The Originals se concentra nos irmãos Mikaelson, também conhecidos como vampiros originais do mundo: Klaus, Elijah e Rebekah. Depois de uma sugestão informando-o, há uma trama que se junta contra ele, Klaus volta para Nova Orleans apenas para encontrar seu antigo protegido, Marcel, governando a cidade. Tendo construído originalmente, mas foi forçado a fugir de seu pai vingativo, Klaus resolve que eles devem derrubar Marcel e recuperar a cidade que antes pertencia a eles. Ao fazer isso, eles também devem proteger sua cidade de uma guerra entre vampiros, lobisomens e bruxas.</info>
+	</channel>
+  
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]The Office US[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/73244-18.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/u7Qmq9sF</externallink>
+		<fanart>https://goo.gl/9P1Bxh</fanart>
+		<info>Um novo e divertido estilo de estilo vislumbrante sobre as interações diárias dos trabalhadores excêntricos na empresa de fornecimento de papel Dunder Mifflin. Esta comédia de ritmo acelerado parodifica a cultura norte-americana de água-refrigerador contemporânea.</info>
+	</channel>
+ 
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Pacific[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/85539-10.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/1R73tp4y</externallink>
+<fanart><fanart>https://i.ytimg.com/vi/P-qonr4A3hw/maxresdefault.jpg</fanart></fanart>
+<info>"The Pacific" é a sequência do épico “Band Of Brother” de Tom Hanks e Steven Spielberg. Diferente da outra série que foi focada apenas nas incursões do Exército dos Estados Unidos, "The Pacific" aborda também a atuação das forças europeias em operações de guerra no Pacifico. O enredo relata as histórias de três fuzileiros: Robert Leckie, John Basilone e Eugene Sledge, que lutaram contra o ataque japonês no Pacífico durante a Segunda Guerra Mundial. A base do enredo foi o livro de memórias de Eugene Sledge, “With the Old Breed“.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Path[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/304196-8.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/KbaczKjP</externallink>
+<fanart>https://goo.gl/GkLaLx</fanart>
+<info>O Caminho segue uma família no centro de um polêmico movimento de culto enquanto eles lutam com relacionamentos, fé e poder. Cada episódio analisa profundamente a atração gravitacional da crença e o que significa escolher entre a vida que vivemos e a vida que queremos. A série mistura elementos de mistério-thriller, romance e o sobrenatural.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Sinner[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/326866-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/EuzHr6Nr</externallink>
+<fanart>https://goo.gl/vWn8bU</fanart>
+<info>Uma jovem mãe é superada por um ataque inexplicável de raiva e comete um ato de violência surpreendente e, para o seu horror, não tem idéia do porquê. O evento lança um thriller de crime invertido e absolutamente surpreendente cuja força motriz não é o "quem" ou o "que" - mas o "porquê" - como um investigador se vê obcecado por descobrir o motivo enterrado da mulher. Juntos, eles viajam por uma viagem angustiante nas profundezas de sua psique e os violentos segredos escondidos em seu passado.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Son[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/320286-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/9eHSb8pH</externallink>
+<fanart>https://goo.gl/MMTT48</fanart>
+<info>Com base no best-seller do New York Times e na novela nomeada pelo premio Pulitzer, The Son é uma saga familiar abrangente que abrange 150 anos e três gerações da família McCullough. A história da transformação de Eli McCullough da inocência de boa-fé para a violência calculada, como ele perde tudo na fronteira selvagem, colocando-o no caminho da construção de uma dinastia de ranchos e óleos de riqueza e privilégio insuperáveis. O Filho explora habilmente como a crueldade de Eli e busca o poder desencadeia consequências que abrangem as gerações, à medida que os McCulloughs se tornam uma das famílias mais ricas que reinam no Texas.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Strain: Noite Absoluta[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/3PCF94</thumbnail>
+<externallink>https://pastebin.com/raw/4YsecMW4</externallink>
+<fanart>https://goo.gl/UaEQBe</fanart>
+<info>Um boeing 777 chega no aeroporto JFK, em Nova York, e enquanto está a meio caminho de pousar, de repente para completamente. Todas as persianas são baixadas, e as luzes desligadas. Os canais de comunicação ficaram mudos, mas um alerta foi enviado ao Centro de Controle de Doenças (CDC). O Dr. Ephraim "Eph" Goodweather (Corey Stoll) recebe a chamada e embarca no avião. O que ele encontra faz seu sangue gelar. O enredo foca no trabalho do Dr. Ephraim Goodweather (Corey Stoll, de House of Cards), chefe da CDC, Centro de Controle e Prevenção de Doenças dos Estados Unidos, que, junto com a sua equipe, fica encarregado de investigar o caso de uma epidemia viral que transforma suas vítimas em uma diferente espécie de vampiros violentos e sedentos de sangue.
+</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]This Is Us[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/nmiMoz</thumbnail>
+<externallink>https://pastebin.com/raw/We77xMtY</externallink>
+<fanart>https://goo.gl/1A1dCX</fanart>
+<info>Dramedy em um grupo de pessoas nascidas no mesmo dia: o casal Jack e Rebecca acabaram de se mudar para uma nova casa em Pittsburgh e estão aguardando o nascimento de trigêmeos. O ator Kevin é muito atraente e bastante bem-sucedido, mas gradualmente ele começa a ficar entediado em sua vida. Sua irmã gata Kate é exatamente o oposto: ela está insatisfeita consigo mesma e, acima de tudo, com seus hábitos alimentares, tentando em vão motivá-la a pavimentar seu apartamento com Post-its. Randall é advogado de direito comercial com sede em Nova York. Ele está muito atento a sua aparência e, juntamente com sua esposa Beth, está construindo uma boa equipe para educar as duas filhas comuns que ainda estão em sua infância.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Last Kingdom[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/298566-5.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/b6znAFtk</externallink>
+<fanart>https://goo.gl/SgxTDt</fanart>
+<info>Inglaterra, 872. Um homem saxão, criado por dinamarqueses, deve escolher um lado e desempenhar sua parte no nascimento de uma nação, ao lado do homem que se tornaria conhecido como o rei Alfred o Grande.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Tick[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/317654-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/JwrCAzFE</externallink>
+<fanart>https://goo.gl/LQF5vY</fanart>
+<info>O mais novo seriado de televisão gira em torno de um mundo onde grandes heróis existem a muito tempo, um certo contador desacreditado de poderes ou qualquer tipo de magia, mas com uma intensa descoberta acaba mudando toda a sua crença em heróis e vilões quando a sua amada cidade está sendo atacada por um super vilão que todos tinham como morto a muito tempo mas conseguiu retornar nos dias atuais para tentar destruir tudo e a todos. Enquanto toda a cidade estar em grande risco de destruição ele decide investigar essa grande conspiração, e acaba se juntando a um estranho super herói de cor azul e com duas anteninhas para tentar eliminar o mal que assombra toda a cidade.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Wire[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/1wkbro</thumbnail>
+<externallink>https://pastebin.com/raw/YBTMsgrm</externallink>
+<fanart>https://goo.gl/uscfCF</fanart>
+<info>"The Wire" foi concebida por David Simon, ex-jornalista, e Ed Burns, ex-policial e professor em Baltimore. A série inova ao ter uma perspectiva ampla e multilateral dos temas tratados. Cada temporada conta sempre com diferentes personagens no foco central, sem, no entanto, abandonar os personagens já conhecidos. As histórias foram baseadas nas experiências dos dois criadores: Simon é o autor de "Homicide: A Year in the Killing Streets", que narra o cotidiano real do Departamento de Homicídios de Baltimore nos anos 80, onde conheceu Burns. Os dois juntos escreveram "The Corner: A Year in the Life of an Inner-City Neighborhood", que descreve o cotidiano real de uma família em um gueto dominado pelo tráfico. Os dois livros viraram séries de TV nos anos 90, e inspiraram a maioria dos personagens e histórias apresentados em "The Wire".</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]The Walking Dead[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/153021-63.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/9qFvfE6j</externallink>
+<fanart>https://goo.gl/gy3aEn</fanart>
+<info>Ao acordar de um coma em um hospital abandonado, o policial Rick Grimes percebe que o mundo que ele conhecia não existe mais porque foi arrasado por uma epidemia de zumbis de dimensões apocalípticas. Perto dali, nos arredores de Atlanta, um grupo luta para sobreviver em um pequeno acampamento enquanto "os mortos" os perseguem o tempo todo. Será que Rick e os outros conseguirão manter sua condição humana e sobreviver nesse mundo novo e assustador? Será que eles se salvarão em um cenário tão difícil e enfrentando tantas rivalidades?</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]True Detective[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/Xp7E3s</thumbnail>
+<externallink>https://pastebin.com/raw/nEJyCKHB</externallink>
+  <fanart>https://goo.gl/zX93JC</fanart>
+<info>A primeira temporada é escrita por Nic Pizzolatto e dirigida por Cary Joji Fukunaga e conta a história de como a vida de dois detetives, Rust Cohle (Matthew McConaughey) e Martin Hart (Woody Harrelson), colidem e se entrelaçam durante uma caçada de 17 anos por um serial killer em Louisiana. A investigação de um assassinato bizarro, em 1995, leva á reabertura do caso em 2012.</info>
+</channel>
+  
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Twin Peaks[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/70533-21.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Pa5fg1fZ</externallink>
+<fanart>http://getwallpapers.com/wallpaper/full/5/e/1/178942.jpg</fanart>
+<info>O corpo de Laura Palmer é encontrado numa praia perto da pequena cidade do estado de Washington, Twin Peaks. O Agente Especial do FBI, Dale Cooper, é chamado para investigar a sua estranha morte apenas para descobrir uma teia de mistério que em última análise levá-lo-á às profundezas do coração da floresta circundante e da sua própria alma.</info>
+<genre>Crime,Drama,Mystery</genre>
+</channel>
+
+  	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Van Helsing[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/Gk8jdo</thumbnail>
+		<externallink>https://pastebin.com/raw/GsFWv9tf</externallink>
+		<fanart>https://goo.gl/KHLntV</fanart>
+		<info>Vanessa Helsing, parente distante do famoso caçador de vampiros Abraham Van Helsing, ressuscitou apenas para descobrir que os vampiros assumiram o controle do mundo.</info>
+	</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Vinyl[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/299400-3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/XEUscr73</externallink>
+<fanart>https://goo.gl/Dj3jFS</fanart>
+<info>Situado no início / meados da década de 1970, a vida e os tempos de um executivo recorde, Richie Finestra (interpretado por Bobby Cannavale). Sua gravadora, Century Americana, caiu em tempos difíceis e ele está ocupado negociando sua venda para a Polygram Records. Nós vemos como ele começou na indústria, o início de sua empresa, seus altos e baixos, as baixas de seu progresso e o que a música rock significa para ele. Enquanto isso, ele também é um acessório para um assassinato.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Vikings[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/HZPQcD</thumbnail>
+<externallink>https://pastebin.com/raw/MTSSaTGh</externallink>
+<fanart>https://goo.gl/6jueBk</fanart>
+<info>A série criada por Michael Hirst apresenta a história de Ragnar Lothbrok, um jovem que se considera descendente de Odin. Ragnar é um guerreiro e fazendeiro casado com Lagertha, uma mulher que fabrica escudos, com quem tem dois filhos pequenos. Visionário e sonhador, Ragnar sonha viver diversas aventuras. Ele acredita que as riquezas desejadas pelo seu povo, encontram-se além do mar Báltico.
+</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Vice Principals[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/308771-7.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/9P4PVFUQ</externallink>
+<fanart>https://pogd.es/assets/bg/Vice-Principals.jpg</fanart>
+<info>Uma série de comédia sombria sobre um ensino médio e os dois vice-diretores. McBride e Walton Goggins são protagonistas das VPs que são uma luta de poder épico, vying para o primeiro lugar: ser diretor da escola. O vilão da série é Walton Goggins, o outro candidato para a posição de principal vago. Ele e McBride se deslocam ao longo da série, lançando uma sombra passiva agressiva (e não tão passiva) um ao outro, causando estragos, na tentativa de se jogar fora.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Westworld[/B][/COLOR]</name>
+<thumbnail>https://goo.gl/8eGBAx</thumbnail>
+<externallink>https://pastebin.com/raw/cxCwQZjQ</externallink>
+<fanart>https://goo.gl/FRZUR4</fanart>
+<info>Westworld é uma odisseia obscura sobre o amanhecer da consciência artificial e da evolução do pecado. Decorrendo na interseção entre o futuro próximo e do passado reimaginado, explora um mundo onde cada vontade humana, não importa quão nobre ou depravada, pode ser realizada.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Wilfred (US)[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/239761-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/FXFWgCuT</externallink>
+<fanart>https://goo.gl/uiifDF</fanart>
+<info>Adaptação do original australiano de 2007, traz Elijah Wood no papel de Ryan, um suicida em potencial que vê o cachorro de sua vizinha como se ele fosse um homem vestindo uma fantasia de cão (Jason Gann). Sendo assim, ele dialoga com o bicho, tornando o relacionamento entre os dois totalmente bizarro.</info>
+</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]Z Nation[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/280494-11.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/73ei7sni</externallink>
+<fanart>https://goo.gl/SHFiFb</fanart>
+<info>Ambientada três anos após um Apocalipse Zumbi ter destruído o país, um grupo de "heróis do dia-a-dia" deve transportar o único sobrevivente de Nova York para a Califórnia, onde ainda existe um laboratório viral esperando pelo sangue do sobrevivente. Apesar de os anti-corpos que ele carrega serem os últimos do mundo, e a melhor esperança para uma vacina, ele esconde um segredo que ameaça a todos. Com a sobrevivência da raça humana posta à prova, uma jornada pela sobrevivência se inicia.</info>
+</channel>
