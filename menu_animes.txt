@@ -1,0 +1,203 @@
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Boruto: Naruto Next Generations[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/K5HfVG</thumbnail>
+		<externallink>https://pastebin.com/raw/4KBVHAAk</externallink>
+		<fanart>https://goo.gl/M1P6KL</fanart>
+		<info>O Hidden Leaf Village entrou numa era de paz e modernidade. Os edifícios altos arredondam as ruas, as telas gigantes piscam com imagens e o Thunder Rail atravessa a aldeia, conectando cada distrito juntos. Embora ainda seja uma aldeia ninja, o número de civis aumentou e a vida do shinobi está começando a mudar. Boruto Uzumaki, filho do Sétimo Hokage Naruto Uzumaki, se matriculou na Academia Ninja para aprender os caminhos do ninja. Os outros estudantes estão prontos para demiti-lo como "apenas o filho do Hokage", mas o coração e o caráter de Boruto sopram todos os seus pressupostos. À medida que uma série de eventos misteriosos começa a se desenrolar, cabe a Boruto e seus novos amigos lidar com eles Como um vento forte, Boruto faz o seu próprio caminho no coração de todos, a história está prestes a começar!</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Astro Boy[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/9tWGiKnc</externallink>
+		<fanart>https://goo.gl/yiwTw4</fanart>
+		<info>The 1963 black & white version of Astroboy was the first anime to cross the Pacific and penetrate American television. It was highly successful as it drew the highest ratings at that time. It was later taken off the air in 1966 as it completed its 104 episode run (193 episodes in Japan) and was losing its popularity due to its non-colour and "depressing" themes and story lines. In 1980 however, Astroboy was reborn in Japan and was brought back to North America in 1982 in a 51 episode colour series (52 episodes in Japan).</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Bakugan: Guerreiros da Batalha[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/82832-3.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/s9teY62A</externallink>
+		<fanart>https://goo.gl/Zzrm7G</fanart>
+		<info></info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Fate/Stay Night[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/79151-6.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/Nd4aqXh5</externallink>
+		<fanart>https://goo.gl/uA1yDC</fanart>
+		<info>Esta história se concentra principalmente na heroína Rin Tohsaka. Após a morte de seu pai, Rin entra na Guerra do Santo Graal como a única herdeira da prestigiosa família Tohsaka, com seu servo Arqueiro. Mas, ela logo descobre que Shirou Emiya, um garoto de sua escola se envolveu nas batalhas e inesperadamente o salvou quando ele estava ferido fatalmente. Em pouco tempo, Rin se propõe a derrubar as conspirações em torno da Guerra do Santo Graal junto com Shirou e seu servo Sabre. E assim, a história começa a explorar a verdade por trás de poderes de Shirou e da natureza por trás de sua vontade inabalável para se tornar um "herói".
+</info>
+	</channel>
+
+<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Fate/Zero[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/jCDZS8</thumbnail>
+		<externallink></externallink>
+		<fanart>https://goo.gl/uA1yDC</fanart>
+		<info>Esta série acontece 10 anos dos eventos de Fate/Stay Night e narra os acontecimentos da quarta guerra do santo Graal. A Guerra do Santo Graal é Uma batalha entre 7 magos (mestres) e seus espíritos heroicos (servos), cujo vencedor leva o lendário Santo Graal, que dizem possuir o poder de realizar milagres. Esta é a 4ª Guerra do Santo Graal. As três guerras anteriores acabaram sem ter um vencedor. Em busca de seus objetivos e ambições, os magos se reúnem em um lugar chamado Fuyuki. Eles farão qualquer coisa e cometerão qualquer atrocidade necessária para conseguir o Santo Graal. Todos, exceto um... Kotomine Kirei é um mago, mas não possui uma razão para lutar. Incapaz de se livrar do destino de batalhar, ele é arrastado para a guerra. Entretanto, um dos mestres rivais é um antigo inimigo, Enmiya Kiritsugu, um homem mais severo e impiedoso do que qualquer outro. Um home
+</info>
+	</channel>
+
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Gun Frontier[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/80043-3.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/yqp0XgTM</externallink>
+		<fanart>https://goo.gl/3FgLUY</fanart>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]A Channel[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/RSPQ3s</thumbnail>
+		<externallink>https://pastebin.com/raw/Rg9R94b9</externallink>
+		<fanart>https://goo.gl/W4YFWq</fanart>
+		<info>O Tooru energético, de mangas compridas e doces, finalmente conseguiu a mesma escola que sua querida amiga de infância, corrida - uma cabeça de sono cheia de cabeça cheia de cabeça e cabeça, sempre gentil. Tooru é muito protetor de Run, e não se esquivará do uso de um bastão de beisebol de alumínio - que ela sempre parece transportar, mesmo na escola - para afastar qualquer um que seja muito chique com Run. A aparente estatura menor de Tooru e a idade mais nova em um ano (Classe 1-7) não devem enganar ninguém para subestimá-la. Executar visitas a Classe 2-4 com seus amigos o Yuuko tímido, alto e bastante pechugão, e Nagi, de cabeça nivelada, com óculos. Através de uma série de mal-entendidos, Tooru vê Yuuko como seu rival pelo carinho da Run, e reage bastante violentamente em seu ciúme contra Yuuko. A vida diária confronta esses amigos íntimos com todos os tipos de situações banais, seja na escola, na cidade ou em casa</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Aesthetica of a Rogue Hero[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/259649-2.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/h5SzGCNu</externallink>
+		<fanart>https://goo.gl/7WKeBp</fanart>
+		<info>A história segue uma organização internacional de treinamento chamada Babel, que protege os jovens que retornam de outro mundo. Um herói rebelde chamado Akatsuki voltou ao mundo real de um mundo de espadas e magias chamado Areizaado, ao lado de uma linda garota que é filha de um rei demoníaco.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]B Gata H Kei[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/150461-2.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/dkqcb56p</externallink>
+		<fanart>https://goo.gl/7KQ13n</fanart>
+		<info>amada, o primeiro nome retido, é uma menina de 15 anos que acabou de entrar no Takizawa High School. Facilmente considerado excepcionalmente bonito, ela tem apenas um problema com seu próprio corpo, ela acha que sua vagina parece estranha e é muito autoconsciente sobre isso. Ao entrar no ensino médio, seu sonho era ter sexo casual com 100 homens, mas nisso reside o problema, ela acredita que um parceiro experiente vai provocá-la sobre a aparência da vagina ou simplesmente o fato de ela ser virgem. Ela se tropeça com a solução sob a forma de Kosuda Takashi, uma virgem virgem, a quem ela acredita, ajudará a facilitar a transição para parceiros mais experientes. Há apenas um pequeno problema, Yamada não sabe nada sobre sexo ou a arte antiga de sedução, o que significa que sua busca conquistar Kosuda será difícil.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Bakemonogatari[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/AWGsE6</thumbnail>
+		<externallink>https://pastebin.com/raw/NKwgfW5G</externallink>
+		<fanart>https://goo.gl/85Gzzn</fanart>
+		<info>Araragi Koyomi é um estudante de ensino médio de terceiro ano que é quase humano novamente depois de se tornar um vampiro brevemente. Um dia, um colega de classe chamado Senjougahara Hitagi, que infame nunca fala com ninguém, desce as escadas para os braços de Koyomi. Ele descobre que Hitagi pesa quase nada, desafiando a física e o bom senso. Apesar de ser ameaçada por ela, Koyomi oferece sua ajuda e a apresenta a Oshino Meme, um homem sem-teto de meia-idade que o ajudou a deixar de ser um vampiro.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Beyblade[/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/70799-1.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/TGdrnBLD</externallink>
+		<fanart>https://goo.gl/r68L86</fanart>
+		<info>O programa gira em torno de lutas entre equipes de Beyblade. A equipe principal, os Blade Breakers (no original: Team BBA), é composta por Tyson Granger (Takao Kinomiya, no original), Kai Hiwatari, Max Tate (Max Mizuhara), Ray Kon (Rei Kon) e Kenny/Chief (Manabu Saien/Kyouju) que lutam contra outras equipes para serem os a campeões mundiais.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Campione![/B][/COLOR]</name>
+		<thumbnail>https://www.thetvdb.com/banners/_cache/posters/259646-5.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/3T7i2Jzf</externallink>
+		<fanart>https://goo.gl/FL8bF9</fanart>
+		<info>Kusanagi Godou é um garoto colegial de 16 anos, que matou o Deus “Verethragna”, quando tinha 15 anos, e adquiriu o título de “Campione”(Matador de Deuses). Erica Brandelli é uma garota italiana de 16 anos, que é uma “Grande Amazonas” da sociedade de magia “Crus de Bronze Negro” e lutou junto com Godou pra derrotar Verethragna. Godou não gosta de lutar, mas seu título de “Campione” o faz se envolver em batalhas contra outros Campiones e Deuses incontroláveis. Campione é uma comédia romântica de harém misturada com um cenário inundado de batalhas mágicas.
+</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Death Note[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/wyVMw8</thumbnail>
+		<externallink>https://pastebin.com/raw/bbyrXZk8</externallink>
+		<fanart>https://goo.gl/PCnFZT</fanart>
+		<info>Light Yagami, um estudante do ensino médio, descobre um caderno sobrenatural chamado "Death Note", no qual pode matar pessoas se os nomes forem escritos nele enquanto o portador visualizar mentalmente o rosto de alguém que quer assassinar. A partir daí Light tenta eliminar todos os criminosos e criar um mundo onde não exista o mal, mas seus planos são contrariados por L, um famoso detetive particular.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Densetsu no Yuusha no Densetsu[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/ZY8i8C</thumbnail>
+		<externallink>https://pastebin.com/raw/Cznw4V2Q</externallink>
+		<fanart>https://goo.gl/1it6dq</fanart>
+		<info>Ryner Lute é um estudante preguiçoso da Academia do Real Magician de Roland Empire. Um dia, o Império Roland vai à guerra contra o país vizinho Estabul, e Ryner perde seus colegas de classe na guerra. Após a guerra, Ryner começa uma jornada para procurar as relíquias de um "Herói lendário" no comando do rei Sion Astal e descobre que uma maldição mortal está se espalhando por todo o continente.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Digimon[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/soFwd4</thumbnail>
+		<externallink>https://pastebin.com/raw/HYsTVsVG</externallink>
+		<fanart>https://goo.gl/yxESxS</fanart>
+		<info>Digimon é uma franquia de mídia japonesa, distribuída pela Bandai e foi criada por Akiyoshi Hongo. A história da franquia é sobre criaturas digitais homônimas, habitantes de um mundo digital.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Dragon Ball Z[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/kSAiv2</thumbnail>
+		<externallink>https://pastebin.com/raw/uu9QjF41</externallink>
+		<fanart>https://goo.gl/8kKao7</fanart>
+		<info>O Dragon Ball Z é a continução de Dragon Ball, cinco anos após Goku ter derrotado Piccolo. Goku está mais velho e se casou com Chichi, como havia prometido no ultimo Tenkaichi Budokai de Dragon Ball. Em Dragon Ball Z as histórias não são mais tão humorísticas e começam a ter mais ação.</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Dragon Ball Super[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/7G66dr</thumbnail>
+		<externallink>https://pastebin.com/raw/ZnzAP3PV</externallink>
+		<fanart>https://goo.gl/HEEAzW</fanart>
+		<info>Após a derrota de Majin Buu, Goku arranja um novo emprego como... fazendeiro de nabos? Agora que a Terra está em paz, nosso heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Bills, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?</info>
+	</channel>
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Samurai X[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/oQZuhP</thumbnail>
+		<externallink>https://pastebin.com/raw/Q4Qk8qkr</externallink>
+		<fanart>https://goo.gl/UrkUsD</fanart>
+		<info>Batizada originalmente de Rurouni Kenshin, Samurai X, é ambientada nos primeiros anos da Era Meiji no Japão. Durante 10 anos, Kenshin vagou pelo Japão até encontrar abrigo no Dojo Kamiya, onde a jovem Kaoru Kamiya lecionava kendo no estilo Kamiya Kashin (Espada para a Vida). A errante caminhada do jovem ronin tinha um propósito: visualizar as inúmeras mortes que causara durante o Bakumatsu quando era um hitokiri (assassino retalhador) a serviço da Ishin Shishi (monarquistas que desejavam a restauração do governo para as mãos do imperador) do feudo de Choushuu. Nessa época, Kenshin ficou conhecido como "Hitokiri Battousai" por sua grande habilidade com o Battoujutsu, técnica que em um movimento contínuo, saca a espada e realiza o corte. Mesmo com a vitória dos monarquistas que culminou na derrubada do Xogunato Tokugawa, dando origem à Era Meiji, Kenshin, arrependido pelas</info>
+	</channel>
+
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Neon Genesis Evangelion[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/TfonSa</thumbnail>
+		<externallink>https://pastebin.com/raw/pnLn7YAT</externallink>
+		<fanart>https://goo.gl/d49A4t</fanart>
+		<info>Evangelion se passa em 2015, em um mundo que acabara de ser reconstruído após a dizimação de metade da humanidade na catástrofe que ficou conhecida como “Segundo Impacto”. O Japão ganha uma capital provisória, a Tokyo-2, cujo Governo promove a construção da futura capital denominada Tokyo-3. Mas a construção da nova metrópole serve apenas de fachada para erguer uma cidade-fortaleza com tecnologia altamente avançada para resistir à ofensiva dos Anjos, monstruosos seres, cujo ataque já havia sido previsto pela humanidade. A organização especial paramilitar, denominada NERV, foi incumbida da missão de combater tais ameaças usando mechas gigantes chamados de Evas, que são pilotados por jovens rigorosamente selecionados. Um deles é Shinji Ikari, um tímido adolescente. Na realidade, há mais de dez anos ele foi abandonado pelo pai, Gendo Ikari, atual comandante supre</info>
+	</channel>
+
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Boku no hero [/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/Kb72WW</thumbnail>
+		<externallink>https://pastebin.com/raw/DEHHDNLX</externallink>
+		<fanart>https://goo.gl/jCpvFV</fanart>
+		<info>O que é um herói? Para Midoriya Izuku, a resposta dessa pergunta sempre foi simples: “Tudo que eu quero ser!” E quem é o maior herói? Bem, o lendário All Might (Todo Poderoso), é claro. All Might é o herói número um e também o “Símbolo da Paz” mundial. Nem mesmo em seus sonhos mais loucos Izuku poderia imaginar que logo seu caminho cruzaria o de seu herói de infância. Em Boku no Hero Academia o status é governado pelas “Individualidades”, superpoderes singulares que se desenvolvem na infância. Mas infelizmente, o viciado em heróis, Midoriya “Deku” Izuku nunca teve uma Individualidade. Isto é, até conhecer All Might, o maior herói de todos. A transformação de sonhador em herói de Izuku começa na Academia U.A., a melhor escola de treinamento de heróis do Japão. Izuku fica eufórico quando é aceito para essa academia de prestígio, especialmente quando descobre que All Might é um dos professores. Que surpresas essa academia poderosa aguarda? Izuku será capaz de acompanhar os colegas de classe de elite?</info>
+	</channel>
+
+
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]One Punch Man[/B][/COLOR]</name>
+		<thumbnail>https://goo.gl/iwEnsR</thumbnail>
+		<externallink>https://pastebin.com/raw/6RiaawWK</externallink>
+		<fanart>https://goo.gl/6vNi4k</fanart>
+		<info>A história ocorre na metrópole japonesa fictícia da cidade Z. O mundo está cheio de monstros estranhos que aparecem misteriosamente e provocam desastres. Saitama, o protagonista, é um herói excepcionalmente poderoso que derrota facilmente os monstros ou outros vilões com um único soco. No entanto, devido a sua força irresistível, Saitama ficou aborrecido com seus poderes e está constantemente tentando encontrar adversários mais fortes que podem lutar contra ele. Em suas aventuras, ele conhece novos amigos, inimigos e seu próprio discípulo, o cyborg Genos, e se junta à Associação dos Heróis para conquistar a fama de todos os seus esforços para derrotar o mal. Apesar de derrotar muitos monstros fortes que até mesmo os melhores membros da Associação Heroes são incapazes de vencer, Saitama luta para ganhar respeito. A maioria das pessoas olha para baixo dele devido à sua aparência física simples, e alguns o acusam de ser um herói falso. Apenas um pequeno</info>
+	</channel>
+
+<channels>
+</channels><channel>
+<name>[COLOR white][B]One Piece[/B][/COLOR]</name>
+<thumbnail>https://www.thetvdb.com/banners/_cache/posters/81797-13.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/kzMbhwbz</externallink>
+<fanart>https://goo.gl/Q9zU8q</fanart>
+<info>Quando Gol D. Roger, o rei dos piratas, declara que seu tesouro escondido, o "One Piece", será de quem conseguir achá-lo, começa a era dos piratas. Vários bandos e novos piratas perigosos surgem e organizações se formam. Em meio a toda essa confusão, está Luffy, o pequeno garoto de 17 anos que deseja ser o novo rei dos piratas. Vinte e dois anos depois da execução de Roger, o interesse em One Piece diminuiu exponencialmente. Muitos desistiram da idéia de obtê-lo por achar isso impossível e outros questionam a veracidade de sua existência. Entretanto, os piratas ainda representam uma grande ameaça para a vida dos cidadãos de diversas partes do globo e a Marinha se tornou o efetivo dispositivo de supressão ao fenômeno. Mas essa lacônica mudança não demove o espírito aventureiro dos Piratas do Chapéu de Palha, que viajam através da Grande Rota (onde o fervor da Gr</info>
+</channel>
