@@ -1,0 +1,535 @@
+
+<channels>
+</channels>
+
+<channel>
+<name>[B][COLOR white]12 MONKEYS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]13 REASONS WHY[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/13%20Reasons%20Why/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/13%20Reasons%20Why/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/13%20Reasons%20Why/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]2 BROKE GIRLS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/2%20Broke%20Girls/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/2%20Broke%20Girls/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/2%20Broke%20Girls/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]24: LEGACY - [COLOR gold](CANCELADA!)[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/24h%20Legacy/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/24h%20Legacy/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/24h%20Legacy/fanart.png</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]3% - [COLOR gold](NACIONAL)[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/3%20porcento/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/3%20porcento/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/3%20porcento/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]AGENTES DA S.H.I.E.L.D.[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Agentes%20da%20S.H.I.E.L.D./menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]ARQUIVO X[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]ARROW[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arrow/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arrow/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arrow/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]BATES MOTEL[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Bates%20Motel/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Bates%20Motel/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Bates%20Motel/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]BIG BANG: A TEORIA[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Big%20Bang%20A%20Teoria/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Big%20Bang%20A%20Teoria/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Big%20Bang%20A%20Teoria/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]BITTEN[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Bitten/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Bitten/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Bitten/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]BLINDSPOT[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Blindspot/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Blindspot/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Blindspot/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]BREAKING BAD[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Breaking%20Bad/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Breaking%20Bad/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Breaking%20Bad/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]BROOKLYN NINE-NINE[/COLOR][/B]</name>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/13001424/p13001424_b_v8_ab.jpg</thumbnail>
+<externallink>http://brazucaplay.forumbrasil.net/h61-</externallink>
+<fanart>https://images7.alphacoders.com/706/706196.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]CONSTANTINE - [COLOR gold](CANCELADA!)[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Constantine/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Constantine/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Constantine/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DA VINCI'S DEMONS - [COLOR gold](CANCELADA!)[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Da%20Vincis%20Demons/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Da%20Vincis%20Demons/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Da%20Vincis%20Demons/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DAMIEN - [COLOR gold](CANCELADA!)[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Damien/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Damien/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Damien/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DC'S LEGENDS OF TOMORROW[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legends%20of%20Tomorrow/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legends%20of%20Tomorrow/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legends%20of%20Tomorrow/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DEMOLIDOR[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Demolidor/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Demolidor/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Demolidor/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DESVENTURAS EM SÃ‰RIE[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Desventuras%20em%20Serie/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Desventuras%20em%20Serie/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Desventuras%20em%20Serie/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DEUSES AMERICANOS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Gods/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Gods/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Gods/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DEXTER[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DOIS HOMENS E MEIO[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dois%20Homens%20e%20Meio/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dois%20Homens%20e%20Meio/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dois%20Homens%20e%20Meio/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]ELEMENTARY[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Elementary/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Elementary/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Elementary/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]EU, A PATROA E AS CRIANÃ‡AS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Eu%20a%20Patroa%20e%20as%20Criancas/thumb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Eu%20a%20Patroa%20e%20as%20Criancas/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Eu%20a%20Patroa%20e%20as%20Criancas/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]FALLING SKIES[/COLOR][/B]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6c/Falling_Skies_season_4_poster,_2014.jpg</thumbnail>
+<externallink>http://brazucaplay.forumbrasil.net/h33-</externallink>
+<fanart>http://stuffpoint.com/falling-skies/image/230329-falling-skies-falling-skies.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]FEAR THE WALKING DEAD[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Fear%20the%20Walking%20Dead/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Fear%20the%20Walking%20Dead/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Fear%20the%20Walking%20Dead/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]GAME OF THRONES[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Game%20of%20Thrones/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Game%20of%20Thrones/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Game%20of%20Thrones/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]GOTHAM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Gotham/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Gotham/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Gotham/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]GREY'S ANATOMY[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Grey-s%20Anatomy/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Grey-s%20Anatomy/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Grey-s%20Anatomy/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]GRIMM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Grimm/thumb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Grimm/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Grimm/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]HOUDINI[/COLOR][/B]</name>
+<thumbnail>http://bit.ly/2mRg4aV</thumbnail>
+<externallink>http://pastebin.com/raw/HmhX0kDk</externallink>
+<fanart>http://cdn.history.com/sites/2/2014/07/houdini_hero-H.jpeg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]HOUSE[/COLOR][/B]</name>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/b8/9b/38/b89b38d4bf97e4157972acbf0244b47b.jpg</thumbnail>
+<externallink>http://brazucaplay.forumbrasil.net/h67-</externallink>
+<fanart>http://orig04.deviantart.net/fda6/f/2012/175/2/4/wallpaper_dr__house_by_simbadesign-d54qt3a.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]HOW I MET YOUR MOTHER[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]IZOMBIE[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/IZombie/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/IZombie/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/IZombie/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]LEGION[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legion/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legion/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legion/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]LUCIFER[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]LUKE CAGE[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Luke%20Cage/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Luke%20Cage/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Luke%20Cage/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]MÃQUINA MORTÃFERA[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Maquina%20Mortifera/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Maquina%20Mortifera/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Maquina%20Mortifera/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]MR. ROBOT[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Mr.%20Robot/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Mr.%20Robot/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Mr.%20Robot/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]NARCOS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Narcos/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Narcos/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Narcos/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]O JUSTICEIRO[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/O%20Justiceiro/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/O%20Justiceiro/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/O%20Justiceiro/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]ONCE UPON A TIME[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Once%20Upon%20a%20Time/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Once%20Upon%20a%20Time/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Once%20Upon%20a%20Time/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]ORANGE IS THE NEW BLACK[/COLOR][/B]</name>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/9960168/p9960168_b_v8_ad.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/618/thumb-1920-618355.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Orange%20Is%20the%20New%20Black/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]OS DEFENSORES[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Os%20Defensores/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Os%20Defensores/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Os%20Defensores/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]PUNHO DE FERRO[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Punho%20de%20Ferro/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Punho%20de%20Ferro/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Punho%20de%20Ferro/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]REVENGE[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Revenge/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Revenge/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Revenge/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]RIVERDALE[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SCREAM QUEENS[/COLOR][/B]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzNTMyMjEwMV5BMl5BanBnXkFtZTgwMjIxNjE1OTE@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+<fanart>http://wallpapersqq.net/wp-content/uploads/2015/11/Scream-Queens-6.jpg</fanart>
+<externallink>http://brazucaplay.forumbrasil.net/h38-</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SHADOWHUNTERS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Shadowhunters/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Shadowhunters/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Shadowhunters/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SLEEPY HOLLOW[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Sleepy%20Hollow/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Sleepy%20Hollow/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Sleepy%20Hollow/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SMALLVILLE[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Smallville/menu</externallink>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Smallville/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Smallville/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SOBRENATURAL[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Sobrenatural/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Sobrenatural/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Sobrenatural/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SPARTACUS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Spartacus/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Spartacus/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Spartacus/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]STRANGER THINGS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Stranger%20Things/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Stranger%20Things/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Stranger%20Things/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SUPERGIRL[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]TEEN WOLF[/COLOR][/B]</name>
+<thumbnail>http://www.tvposter.net/posters/teen_wolf_2011_4441_poster.jpg</thumbnail>
+<externallink>http://brazucaplay.forumbrasil.net/h73-</externallink>
+<fanart>https://images5.alphacoders.com/675/675776.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE 100[/COLOR][/B]</name>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/12382881/p12382881_b_v8_aa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20100/menu</externallink>
+<fanart>https://images5.alphacoders.com/675/thumb-1920-675869.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE BLACKLIST[/COLOR][/B]</name>
+<thumbnail>http://pipocamoderna.com.br/wp-content/uploads/2016/08/the-blacklist.jpg</thumbnail>
+<externallink>http://brazucaplay.forumbrasil.net/h45-</externallink>
+<fanart>https://images6.alphacoders.com/585/thumb-1920-585289.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE FLASH[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE GIFTED[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE LAST SHIP[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Last%20Ship/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Last%20Ship/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Last%20Ship/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE ORIGINALS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Originals/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Originals/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Originals/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE STRAIN[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Strain/thumb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Strain/menu</externallink>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Strain/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE VAMPIRE DIARIES[/COLOR][/B]</name>
+<thumbnail>http://recantoadormecido.com.br/wp-content/uploads/2013/09/The-Vampire-Diaries-Season-5-Official-Poster-Banner-PROMO-POSTER-18SETEMBRO2013-02.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/d8wldxe.jpg</fanart>
+<externallink>http://brazucaplay.forumbrasil.net/h47-</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE WALKING DEAD[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE EXPANSE[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Expanse/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Expanse/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Expanse/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE GOOD DOCTOR[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Good%20Doctor/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Good%20Doctor/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Good%20Doctor/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]THE O.C[/COLOR][/B]</name>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/184935/p184935_b_v8_ai.jpg</thumbnail>
+<fanart>http://cultpopshow.com.br/wp-content/uploads/2013/10/the-oc-10-anos-13.jpg</fanart>
+<externallink>http://pastebin.com/raw/dd1Er7xu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]TODO MUNDO ODEIA O CHRIS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Todo%20Mundo%20Odeia%20o%20Chris/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Todo%20Mundo%20Odeia%20o%20Chris/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Todo%20Mundo%20Odeia%20o%20Chris/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]TRUE BLOOD[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/True%20Blood/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/True%20Blood/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/True%20Blood/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]UM MALUCO NO PEDAÃ‡O[/COLOR][/B]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg</thumbnail>
+<fanart>http://www.clicrbs.com.br/rbs/image/17741030.jpg</fanart>
+<externallink>atualizar</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]UNDER THE DOME[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Under%20the%20Dome/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Under%20the%20Dome/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Under%20the%20Dome/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]VIKINGS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Vikings/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Vikings/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Vikings/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]WESTWORLD[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/menu</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Z NATION[/COLOR][/B]</name>
+<thumbnail>http://cdn-static.sidereel.com/tv_shows/56994/giant_2x/Z_Nation-3X4.jpg</thumbnail>
+<fanart>http://www.skyhdwallpaper.com/wp-content/uploads/2014/10/Z-Nation-Poster-2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Z%20Nation/menu</externallink>
+</channel>
