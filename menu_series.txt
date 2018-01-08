@@ -1,0 +1,326 @@
+
+
+<layoutype>List</layoutype>
+
+<channels>
+
+
+
+<channel>
+<name>[B][COLOR white]The Walking dead  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 12/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Ep- 08 Dub Adicionado[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/The-Walking/The_Walking_Dead_Geral.html</externallink>
+<info>The Walking Dead conta a história de um pequeno grupo de sobreviventes de um apocalipse de zumbis, ou "walkers", como os personagens os denominam. A maior parte da história se passa nos arredores de Atlanta e, em seguida, em torno da região rural do norte da Geórgia. Os sobreviventes são vistos em busca de refúgio e de um local seguro, longe das hordas de mortos-vivos, que devoram pessoas e que cuja mordida é infecciosa para os seres humanos. Os sobreviventes tem conhecimentos limitados sobre o que realmente está acontecendo no mundo. O enredo da série é voltado principalmente para os dilemas que o grupo enfrenta, como a luta para manterem-se vivos, os sentimentos confusos e os desafios do dia-a-dia em um mundo hostil e praticamente dominado por mortos-vivos. O grupo é liderado por Rick Grimes, que ocupava o posto de vice-xerife de uma pequena cidade antes do surto de zumbis. Juntos precisam adquirir novos meios apropriados de convívio social agora que as estruturas da sociedade entraram em colapso e a realidade se tornou atípica.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Under The Dome[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/UNDER_THE_DOME/Under_the_dome_Geral.html</externallink>
+<info>Baseado no livro de mesmo nome, Under the Dome conta a história dos moradores da pequena cidade americana de Chester's Mill, no Maine, onde uma enorme e transparente cúpula indestrutível de repente os isola do resto do mundo. Sem acesso à internet, telefone e televisão, as pessoas presas dentro da cúpula devem encontrar suas próprias maneiras de sobreviver com a diminuição dos recursos e as crescentes tensões. Enquanto as forças militares, o governo e os meios de comunicação posicionados fora da barreira tentam derruba-lá, um pequeno grupo de pessoas presas lá dentro tenta descobrir o que é, de onde veio, e quando (e se) ela vai embora.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/06/sob-a-redoma_t70032.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Game of Thrones  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 28/10/17[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Game_of_Thrones/Game_of_Thrones_Geral.html</externallink>
+<info>Há muito tempo, num tempo esquecido, uma força destruiu o equilíbrio das estações. Numa terra onde os verões podem durar vários anos e o inverno toda uma vida, as reivindicações e as forças sobrenaturais correm as portas do Reino dos Sete Reinos. A irmandade da Patrulha da Noite busca proteger o reino de cada criatura que pode vir de lá da Muralha, mas já não tem os recursos necessários para garantir a segurança de todos. Depois de um verão de dez anos, um inverno rigoroso promete chegar com um futuro mais sombrio. Enquanto isso, conspirações e rivalidades correm no jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/03/987f793ed039483c6b22ba0e289bac41.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Prison Break[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Prison_Break/Prison_Break_Geral.html</externallink>
+<info>Prison Break é uma série de televisão norte-americana de ação e suspense, transmitida originalmente pela Fox desde 29 de agosto de 2005. Em 2015, a Fox anunciou uma quinta temporada contendo 9 episódios, que estreou em 4 de abril de 2017.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/C6_0gQIWoAAuPFr.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Supernatural  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 29/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Ep- 09 Dub Adicionado[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Supernatural/Supernatural_Geral.html</externallink>
+<info>A série segue os irmãos Sam Winchester e Dean Winchester que viajam por toda a América em um Chevrolet Impala 1967 preto investigando e combatendo eventos paranormais e outras ocorrências inexplicáveis, muitas delas baseadas em lendas urbanas americanas e folclore, assim como diferentes criaturas sobrenaturais.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/12/69768330bb36ea3f6268a1f7df9d466f.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Pretty Little Liars  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 29/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]7 Temporada dublada[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Pretty-Little/Pretty_Little_Liars_Geral.html</externallink>
+<info>Rosewood é uma pequena, tranquila e bela cidade na Pensilvânia. De tão tranquila e intocada, nunca se adivinharia que detém tantos segredos. Há um ano, a popular Alison DiLaurentis desapareceu, deixando todos acreditarem que fora vítima de um assassinato. Depois desse grande fato na cidade, a amizade entre suas quatro inseparáveis amigas nunca mais foi a mesma. De forma trágica, o destino une Spencer, Hanna, Aria e Emily novamente. Mas o caos se instala na vida das quatro garotas quando elas começam a receber mensagens de texto de alguém que se auto-intitula "A" ameaçando-as a contar todos os seus segredos, segredos que só Alison poderia saber.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/8188xB26MuL._SL1500_.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Spartacus[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Spartacus/Spartacus_Geral.html</externallink>
+<info>Uma minissérie e pré série foi encomendada, estreou a 21 de Janeiro de 2011, com o nome de Spartacus: Gods of the Arena. A série segue o personagem Gannicus (Dustin Clare), o primeiro gladiador a se tornar Campeão de Capua. O elenco e personagens foram reprisados da série original, incluindo, Lucy Lawless como Lucretia, John Hannah como Batiatus, Peter Mensah como Oenomaus, e Manu Bennett como Crixus. Andy Whitfield fez uma pequena aparição como Spartacus. A minissérie tem 6 episódios que se passam um ano antes da chegada de Spartacus.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/04/ec39fa2dd29e3bd24bd1808d3178619a.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Agents of S.H.I.E.L.D.  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 29/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Ep- 05 LEG Adicionado[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Agent-of-SHIELD/Agents_of_S.H.I.E.L.D-Geral.html</externallink>
+<info>Em sequência ao seu papel no campeão das bilheterias Os Vingadores, o agente Phil Coulson retorna para a S.H.I.E.L.D., a organização de execução da lei. Ali, ele monta um pequeno e altamente treinado grupo de agentes para lidar com o estranho e o desconhecido, em casos que ainda não foram classificados.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/agents-of-shield-ghost-rider-199671.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Gotham  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 29/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Ep-10 DUB Adicionado[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Gotham/Gotham_Geral.html</externallink>
+<info>Gotham é uma série de televisão estadunidense criada por Bruno Heller, baseada em personagens que aparecem em publicações da DC Comics em sua franquia Batman, principalmente os do Detetive James Gordon e Bruce Wayne. A série é estrelada por Ben McKenzie como o jovem Gordon. Heller serve como produtor executivo da série, juntamente com Danny Cannon, que também dirigiu o piloto. Gotham foi anunciada em 5 de maio de 2014, [1] e estreou em 22 de setembro de 2014 na Fox Broadcasting Company (FOX).
+Como originalmente concebida, a série teria servido como uma história simples sobre os primeiros dias de Gordon na polícia de Gotham City. A ideia evoluiu, não só para incluir o personagem Bruce Wayne, mas também para contar as histórias de origem de vários vilões do Batman, incluindo Coringa (Joker),Pinguim, Mulher-Gato, Charada, Duas-Caras, Hera Venenosa, Senhor Frio, Espantalho, Ra's al Ghul, Chapeleiro Louco e Hugo Strange. A primeira temporada teria originalmente 16 episódios, que depois foi estendido para um total de 22.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/09/gotham-1a-temporada_t86287_7.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Arrow  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 29/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Ep-9 DUB Adicionado[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Arrow/Arrow_Geral.html</externallink>
+<info>Arrow é uma série de televisão americana desenvolvida por Greg Berlanti, Andrew Kreisberg e Marc Guggenheim, transmitida pela emissora The CW desde 10 de outubro de 2012, e estrelada por Stephen Amell. A série é baseada no personagem Oliver Queen / Arqueiro Verde da DC Comics, um homem que, depois de cinco anos preso em uma ilha hostil, volta para casa e se torna um herói empunhando um arco e flecha chamado de Arqueiro Verde. É uma série situada no mesmo universo fictício de The Flash e Legends of Tomorrow. A série foi oficializada no primeiro semestre de 2012,[1] com ordem de 23 episódios para a primeira temporada, que estreou em 10 de outubro de 2012.[2] A segunda temporada foi lançada em 9 de outubro de 2013, a terceira temporada foi lançada em 8 de outubro de 2014, a quarta temporada, lançada em 7 de outubro de 2015, e a quinta temporada foi lançada no dia 5 de outubro de 2016.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/11/4b98b534214a7f712f58d6561881ded2_1.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Blindspot  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 29/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Episodio 07 Adicionada[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Blindspot/Blindspot_Geral.html</externallink>
+<info>Blindspot é uma série de televisão americana e de drama criminal criada por Martin Gero, estrelada por Sullivan Stapleton e Jaimie Alexander. A série foi ordenada pela NBC em 1º de maio de 2015, e estreou em 21 de setembro. Uma encomenda de mais nove episódios em 9 de outubro, trouxe para a primeira temporada um total de 22 episódios, além de um episódio adicional, terminando em 23 episódios. A série foi renovada para uma segunda temporada pela NBC em 9 de novembro de 2015.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/08/blindspot-1a-temporada_t118500.png</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]The Flash  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 29/11/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Ep- 09 Dub Adicionado[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/The_Flash/The_Flash_Geral.html</externallink>
+<info>The Flash é uma série de televisão americana desenvolvida por Greg Berlanti, Andrew Kreisberg e Geoff Johns, transmitida pela emissora The CW desde 7 de outubro de 2014, e estrelada por Grant Gustin. A série é baseada no personagem Barry Allen/Flash da DC Comics, um super-herói fantasiado que combate o crime com o seu poder de se mover em velocidades inacreditáveis. É uma série situada no mesmo universo fictício de Arrow e Legends of Tomorrow. A série foi oficializada no primeiro semestre de 2014,[1] com ordem de 23 episódios para a primeira temporada, que estreou em 7 de outubro de 2014.[2] A segunda temporada foi lançada em 6 de outubro de 2015 e a terceira temporada foi lançada no dia 4 de outubro de 2016.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/08/the-flash-1atemporada_t8132_2.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Fear The Walking Dead  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 16/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Ep- 16 Dub. Adicionado[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/FearTheWalking/Fear_The_Walking_Dead_Geral.html</externallink>
+<info>TFear the Walking Dead é uma série de televisão pós-apocalíptica norte-americana, que se passa no mesmo universo de The Walking Dead, série de televisão baseada na série de histórias em quadrinhos de mesmo nome por Robert Kirkman, Tony Moore e Charlie Adlard. A série exibe o início do apocalipse zumbi, com outros personagens, na cidade de Los Angeles. Robert Kirkman é o produtor executivo, juntamente com Gale Anne Hurd, Greg Nicotero, e David Alpert, ambos da série original, além de contar com Adam Davidson como diretor.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/08/fear-the-walking-dead-1a-temporada_t85922.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Lost[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Lost/Lost_Geral.html</externallink>
+<info>Lost (Perdidos, em Portugal) é uma premiada série de televisão norte-americana de drama e ficção científica que seguiu a vida dos sobreviventes de um acidente aéreo numa misteriosa ilha tropical, após o avião que viajava de Sydney, Austrália para Los Angeles, Estados Unidos cair em algum lugar do Oceano Pacífico.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/01/7cbe263073e39efd0eba01662872da7d.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Sleepy Hollow[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Sleepy_Hollow/Sleepy_Hollow_Geral.html</externallink>
+<info>Sleepy Hollow é uma série de televisão estadunidense que estreou em 16 de setembro de 2013 e transmitido pela FOX. Baseado na história de The Legend of Sleepy Hollow por Washington Irving.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/08/sleepy-hollow-1a-temporada_t76117.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]American Horror Story  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 16/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]Ep- 10 e 11 Leg. Adicionado[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Horror_Story/American_Horror_Story_Geral.html</externallink>
+<info>American Horror Story é uma série de televisão norte-americana de horror-drama criada e produzida por Ryan Murphy e Brad Falchuk. Descrita como uma série antológica, cada temporada é concebida como uma história independente, seguindo um conjunto de personagens e ambientações distintas, e um enredo com o seu próprio "começo, meio e fim."[3]
+A primeira temporada, intitulada Murder House, se passa nos dias atuais e é centrada na família Harmon, que se muda para uma mansão restaurada, sem saber que a casa é assombrada pelos seus antigos habitantes. A segunda temporada, intitulada Asylum, ocorre no ano de 1964 e segue as histórias dos pacientes, médicos e freiras que ocupam uma instituição para criminosos insanos. A terceira temporada, Coven, volta aos dias atuais, na cidade de Nova Orleans, e exibe os acontecimentos num clã de bruxas originadas de Salém e do vodu. A quarta temporada, Freak Show trata de um espetáculo de aberrações na cidade de Jupiter, Flórida, em 1950.[4] A quinta temporada, Hotel, estreou em outubro de 2015 e é ambientada em um hotel macabro.[5] A sexta temporada, intitulada Roanoke, se passa na ilha de Roanoke, durante o ano de 2016, e se concentra nos eventos paranormais que ocorrem em uma fazenda isolada. A sétima temporada, intitulada Cult se passa num subúrbio em Michigan, e mostra os terrores que acontecem após a eleição presidencial dos EUA de 2016.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/12/2c7ff0ad34f1b0cb37e9fb6706535c9d.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]How I Met Your Mother[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/How-i-mother/How_I_Met_Your_Mother_Geral.html</externallink>
+<info>How I Met Your Mother (no Brasil, How I Met Your Mother ou Como Eu Conheci Sua Mãe[1] e em Portugal, Foi Assim que Aconteceu[2]) foi uma premiada sitcom estadunidense da CBS criada por Carter Bays e Craig Thomas. Estreou no dia 19 de setembro de 2005. A temporada 2013-14, sua nona edição, é a última, encerrando-se em 31 de março de 2014, após 208 episódios. A série mostra Ted Mosby em 2030 narrando aos seus filhos a história de como conheceu a mãe deles.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/07/64ff6680f17b7d85965a81d28dda83c0.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Todo Mundo Odeia o Chris[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Td_Odeia_Chris/Todo_Mundo_Odeia_o_Chris_Geral.html</externallink>
+<info>Everybody Hates Chris (Todo Mundo Odeia o Chris (título no Brasil) ou Todos Contra o Chris (título em Portugal)) é uma série de televisão estadunidense de comédia dramática inspirado nas experiências pessoais de Chris Rock no bairro de Bed-Stuy, em Nova Iorque, seguindo um estilo muito parecido com a série Anos Incríveis. No entanto a série Anos Incríveis se passava entre os anos 60 e 70, já Everybody Hates Chris se passava nos anos 80. Curiosamente Everybody Hates Chris deveria se passar nos anos 70, pois a infância de Chris Rock foi nessa década, porém já tinha outra série de muito sucesso que se passava nos anos 70 que se chamava That '70s Show, então os produtores resolveram fazer uma mudança estratégica e trouxeram a série para os anos 80. Estrelado por Tyler James Williams e o elenco principal formado por Terry Crews, Tichina Arnold, Tequan Richmond, Imani Hakim e Vincent Martella, Everybody Hates Chris teve quatro temporadas, exibidas originalmente nos Estados Unidos entre 22 de setembro de 2005 e 8 de maio de 2009, pelos canais de televisão The CW Television Network e United Paramount Network. Também foi exibido no canal pago americano Nick at Nite.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/10/todo-mundo-odeia-o-chris-1a-temporada_t16412.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Supermax[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Supermax/Supermax.html</externallink>
+<info>Supermax é uma série brasileira produzida pela Rede Globo e exibida de 20 de setembro à 13 de dezembro de 2016, em 12 episódios.[2] Criada por José Alvarenga Jr., Marçal Aquino e Fernando Bonassi, conta com roteiro de Aquino, Bonassi, Carolina Kotscho, Bráulio Mantovani, Dennison Ramalho, Juliana Rojas, Raphael Draccon e Raphael Montes, sob direção de José Eduardo Belmonte, Rafael Miranda e Alvarenga.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/10414.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Stranger Things  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 12/11/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]2ª Temporada Adicionada[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Stranger_Things/Stranger_Things_Geral.html</externallink>
+<info>Stranger Things é uma série de televisão americana de ficção científica e terror criada, escrita, dirigida e co-executiva produzida pelos irmãos Matt e Ross Duffer, assim como co-executiva produzida por Shawn Levy e Dan Cohen, sendo distribuída pela Netflix.
+A série se passa na década de 1980, e é altamente tematizada pelos elementos culturais da época, com uma trilha sonora toda remetente aos marcantes sintetizadores da época e inúmeras referências à obras de Steven Spielberg, John Carpenter e Stephen King, considerados as grandes inspirações dos Irmãos Duffer para a realização do projeto.[2] Na trama, um garoto desaparece misteriosamente na pequena cidade de Hawkins, Indiana, e faz seus amigos partirem por sua busca, que, no caminho, encontram uma estranha garota com poderes telecinéticos.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/stranger-things-2-poster-netflix.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Homeland[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Homeland/Homeland_Geral.html</externallink>
+<info>A história apresenta Carrie Anderson (Danes), uma agente da CIA que está convencida de que o oficial Nicholas Brody (Damian Lewis), recém resgatado no Afeganistão, está conectado a um plano dos terroristas para um novo ataque aos EUA, dez anos após o 11 de setembro.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/09/de5117a0135766b95261d27ed38ebf2c.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Blacklist  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 16/12/17[/COLOR] [COLOR yellow]-[/COLOR]  [COLOR orange]5ª Temporada Adicionada[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Lista_Negra/Lista_Negra_Geral.html</externallink>
+<info>The Blacklist (No Brasil: Lista Negra)[1] é uma série de televisão norte-americana do gênero espionagem, drama policial e ação. Estreou em 23 de setembro de 2013 na rede NBC, e no Brasil uma semana depois, em 1 de outubro de 2013, no canal de televisão paga Sony.[2] A segunda temporada se iniciou em 22 de setembro de 2014.[3] A partir de outubro de 2015 a Rede Globo passou a exibi-lo em TV aberta.[4] A série também está disponível no Brasil através da Netflix.[5] Em 2017 a série foi renovada para 5ª temporada.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/12/the-blacklist-season-4_tNone.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Outcast  - [/COLOR][/B][COLOR yellow] ATUALIZADA EM: 16/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]2ª Temporada Adicionada[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Outcast/Outcast_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]The Last Ship[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/The_Last_Ship/The_Last_Ship_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]O Tunel do Tempo[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Tunel_do-tempo/o_tunel_do_tempo_1_temporada.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Jornada Nas Estrelas[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Star_Trek/Jornada_Nas_Estrelas_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Legends Of Tomorrow[/COLOR][/B][COLOR yellow] ATUALIZADA EM: 16/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]3ª Temporada Adicionada[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Lege_Of_Tomorow/Legends_Of_Tomorrow_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Breaking Bad[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Lege_Of_Tomorow/Legends_Of_Tomorrow_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Narcos[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Narcos/Narcos_Geral.txt</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Supergirl[/COLOR][/B][COLOR yellow] ATUALIZADA EM: 16/12/17[/COLOR]  [COLOR yellow]-[/COLOR]  [COLOR orange]3ª Temporada Adicionada[/COLOR]</name>
+<externallink>http://igorlista.at.ua/Series/Supergirl/Supergirl_Geral.txt</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Dois Homens e Meio[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Dois_Homens/Dois_Homens_e_Meio_Geral.txt</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Diarios de Um Vampiro[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/The_Vampire/The_Vampire_Diaries_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]CSI Investigacao Criminal[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/CSI_Investi/csi_investigacao_criminal_geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Os 13 Porques[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Os_13_Porques/os_13_porques_geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]American Gods[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/American_Gods/American_Gods_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/MV5BMzI4NDE4MDY0Ml5BMl5BanBnXkFtZTgwNzU4MzY1MTI._V1_SY1000_CR006661000_AL_.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Cara Gente Branca[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Cara_Gente/Cara_Gente_Branca_1_temporada.txt</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/DearWhitePeople_US.jpeg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Sense8[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Sense8/Sense8_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/Sense8_S2_BPO.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Vikings[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Vikings/Vikings_Geral.html</externallink>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/03/be35f0ef540e3d2084b58bee2a26661a.jpg</thumbnail>
+</channel>
+
+
+
+<channel>
+<name>[B][COLOR white]The Originals[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/The_Originals/The_Originals_Geral.html</externallink>
+<info>The Originals é uma série derivada de Vampire Diaries, que segue Klaus em seu retorno a Nova Orleans, cidade que ele e sua família ajudaram a construir há centenas de anos.
+O que leva Klaus à cidade é uma pista misteriosa sobre um plano de rebelião das bruxas contra ele.
+As perguntas de Klaus o levam para uma reunião com seu antigo protegido, Marcel, um vampiro carismático que possui controle total sobre os humanos e habitantes sobrenaturais de Nova Orleans.
+Determinado a ajudar seu irmão a encontrar a redenção, Elijah segue Klaus e logo descobre que Hayley também está no local em busca de pistas a respeito da história da sua família, porém acabou nas mãos de uma bruxa poderosa chamada Sophie.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/the-originals-season-4-poster-full.jpg</thumbnail>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Greys Anatomy[/COLOR][/B]</name>
+<externallink>http://igorlista.at.ua/Series/Greys_Anatomy/grey-s_anatomy_geral.txt</externallink>
+<info>Grey's Anatomy (A Anatomia de Grey (título no Brasil) ou Anatomia de Grey (título em Portugal)) é uma série de televisão norte-americana de drama médico exibida no horário nobre da rede ABC. Seu episódio piloto foi transmitido pela primeira vez em 27 de março de 2005 nos Estados Unidos.[1] A série é protagonizada por Ellen Pompeo, que interpreta Meredith Grey, inicialmente interna do fictício hospital cirúrgico Seattle Grace (mais tarde Hospital Memorial Grey-Sloan), em Seattle, Washington, um dos programas de residência em cirurgia médica mais rígidos do país. A série é focada nela e seus colegas, também internos: Cristina Yang, Isobel Stevens, George O'Malley e Alex Karev, mostrando suas vidas amorosas e as dificuldades pelas quais passam no trabalho. Grey's anatomy já se estabeleceu como uma das maiores séries americanas dos últimos anos. Com um elenco que se renova a cada ano, enquanto alguns veteranos se despedem de tempos em tempos e novos rostos se juntam à equipe médica.</info>
+<fanart>https://i.ytimg.com/vi/5aprUg-KLY8/maxresdefault.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w640/aI4bobthe7OORg4s2zjm0f0FdC1.jpg</thumbnail>
+</channel>
+
+
+
+
+
+</channels>
+
