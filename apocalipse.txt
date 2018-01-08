@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 1[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-k08o8j3y2pme.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 2[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-aj8xq72920de.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 3[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-bqubh94qggle.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 4[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-teg8xn3v39ub.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 5[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-0f6r24zqqmal.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 6[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-rz10m04lhfn7.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 7[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-pdqs7bt5k261.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 8[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-55n0d5nl2sfh.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 9[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-fup5kxysr2g5.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 10[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-tfy1a30jnvds.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 11[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-o2lwtnmus85x.html
+
+#EXTINF:0 tvg-logo="https://www.thetvdb.com/banners/_cache/posters/337802-3.jpg" group-title="Novelas",[COLOR white][B]Capítulo 12[/B][/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vidoza.net/embed-4ltih7l1qq8d.html
