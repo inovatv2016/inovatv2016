@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EPV6dzg.png" group-title="CANAIS", [COLOR lime][B]CANAIS REGEX 2018[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://tvonline.vip/wp-content/uploads/2017/08/tcaction.png" group-title="LANÇAMENTOS", TELECINE ACTION
+plugin://plugin.video.playthis/?mode=play&player=false&path=http://www.tvonlineaovivo.net/assistir-telecine-action-ao-vivo/
+
+
