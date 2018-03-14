@@ -1,0 +1,5 @@
+<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://srv.elitehdbr.com:25461/get.php?username=rhonder0812&password=kh0woruqgO&type=m3u&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://leaderpro.com.br:25461/get.php?username=michael1&password=michael1&type=m3u&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 03 - Br [/B][/COLOR]</name><link>http://srv.elitehdbr.com:25461/get.php?username=rhonder0812&password=kh0woruqgO&type=m3u&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 04 - Br [/B][/COLOR]</name><link>http://leaderpro.com.br:25461/get.php?username=michael1&password=michael1&type=m3u&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 05 - Br [/B][/COLOR]</name><link>http://srv.elitehdbr.com:25461/get.php?username=rhonder0812&password=kh0woruqgO&type=m3u&output=ts</link></item>
