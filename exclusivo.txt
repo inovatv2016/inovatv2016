@@ -1,0 +1,2 @@
+<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://dist.tvefilmesf.com:8000/get.php?username=W74jhD35FV6b625&password=88bRNfe2aPezqtKJ&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://direct.dyndns.ws:25461/get.php?username=chado&password=chado&type=m3u_plus&output=ts</link></item>
