@@ -1,3 +1,0 @@
-<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://cdn.miptv.ws:25463/get.php?username=mmxls&password=mmxlv&type=m3u_plus&output=ts</link></item>
-<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://sv1.cineiptv.com:25461/get.php?username=thatysilvaibate@gmail.com&password=52JoFPB8X2&type=m3u_plus&output=ts</link></item>
-
