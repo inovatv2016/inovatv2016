@@ -1,5 +1,0 @@
-<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://iptvbrasill.ddns.me:25463/get.php?username=prdbx&password=prdcy&type=m3u_plus&output=ts</link></item>
-
-
-
-
