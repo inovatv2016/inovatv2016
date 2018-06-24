@@ -1,8 +1,0 @@
-<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://srv.elitehdbr.vip:8880/get.php?username=Davinomg&password=059&type=m3u_plus&output=ts</link></item>
-<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://srv.elitehdbr.vip:8880/get.php?username=inovatv2016@gmail.com&password=i4ktC25huA&type=m3u_plus&output=ts</link></item>
-<item><name>[COLOR gold][B]Exclusivo 03 - Br [/B][/COLOR]</name><link>http://a.tvgo.me:25463/get.php?username=qcstb&password=qcstk&type=m3u_plus&output=ts</link></item>
-
-
-
-
-
