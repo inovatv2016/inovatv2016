@@ -1,8 +1,0 @@
-<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://srv.elitehdbr.vip:8880/get.php?username=Davinomg&password=059&type=m3u_plus&output=ts</link></item>
-
-
-
-
-
-
-
