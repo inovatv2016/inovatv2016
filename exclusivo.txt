@@ -1,0 +1,7 @@
+<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://23.237.54.50:25461/get.php?username=pPnRmWouUE&password=y7FnHsSFLm&type=m3u_plus&output=ts</link></item>
+<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://23.237.54.50:25461/get.php?username=pPnRmWouUE&password=y7FnHsSFLm&type=m3u_plus&output=ts</link></item>
+
+
+
+
+
