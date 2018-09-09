@@ -1,1 +1,0 @@
-<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://23.111.172.34:21500/get.php?username=jailson&password=1234&type=m3u&output=ts</link></item>
