@@ -1,2 +1,0 @@
-<item><name>[COLOR gold][B]Exclusivo 01 - Br [/B][/COLOR]</name><link>http://lista.digitalgroup.me/get.php?username=diego5051&password=12345&type=m3u_plus&output=ts</link></item>
-<item><name>[COLOR gold][B]Exclusivo 02 - Br [/B][/COLOR]</name><link>http://23.111.172.34:21500/get.php?username=jailson&password=1234&type=m3u&output=ts</link></item>
